@@ -1,7 +1,5 @@
 ---
-layout:page
-
-title:Reading List
-
-permalink: "/readings/"
+layout: page
+title: Reading List
+permalink: /readings/
 ---

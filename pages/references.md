@@ -1,9 +1,7 @@
 ---
-layout:page
-
-title:References Cited
-
-permalink:/references/
+layout: page
+title: References Cited
+permalink: /references/
 ---
 
 Alexander, Leslie M. 2008. *African or American? Black Identity and Political Activism in New York City, 1784–1861.* Urbana, IL: University of Illinois Press.

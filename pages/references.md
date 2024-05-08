@@ -10,9 +10,9 @@ All Angels' Church. *1846–1858 All Angels' Church Parish Record Book*. Origina
 
 --. 2020. “[Our History](https://allangelschurch.com/our-history/).” All Angels' Church, New York, NY.
 
-American Anthropological Association. 2024. [*Understanding Race: Are We so Different?*](https://understandingrace.org) Interactive website. American Anthropological Association. Accessed May 5, 2024.
+American Anthropological Association. 2024. [*Understanding Race: Are We So Different?*](https://understandingrace.org) Interactive website. American Anthropological Association. Accessed May 5, 2024.
 
-American Institute of the City of New York. 1844.	*Annual Report of the American Institute of the City of New York Made to the Legislature for the Year 1843.* Albany, NY: E. Mack. [[Google Books]](https://books.google.co.mz/books?id=IJwZAQAAIAAJ).
+American Institute of the City of New York. 1844.	*Annual Report of the American Institute of the City of New York Made to the Legislature for the Year 1843.* Albany, NY: E. Mack. [[Google Books](https://books.google.co.mz/books?id=IJwZAQAAIAAJ)]
 
 Baics, Gergely. 2016. *Feeding Gotham: The Political Economy and Geography of Food in New York, 1790–1860.* Princeton, NJ: Princeton University Press.
 
@@ -26,7 +26,7 @@ CBS Sunday Morning. 2022. "Seneca Village: The Historic Settlement that Disappea
 
 Central Park Conservancy. 2021. "[Seneca Village: The Williams Family Legacy](https://www.centralparknyc.org/locations/seneca-village-site)” (Video).
 
---. 2023. “Discover Seneca Village.” Outdoor exhibition with downloadable signs. Curated by Marie Warsh. [[PDF]](https://s3.amazonaws.com/assets.centralparknyc.org/media/documents/SenecaVillage_Signs_2023.pdf).
+--. 2023. “Discover Seneca Village.” Outdoor exhibition with downloadable signs. Curated by Marie Warsh. [[PDF](https://s3.amazonaws.com/assets.centralparknyc.org/media/documents/SenecaVillage_Signs_2023.pdf)]
 
 *Christian Witness and Church Advocate.* 1850.“Churchman.”Jan 4:2. Boston, MA.
 
@@ -34,7 +34,7 @@ Chudacoff, Howard. P. 2007. *Children at Play: An American History.* New York, N
 
 *Colored American.* 1840.“The Colored Churches in this City.”March 28:2. New York, NY.
 
-Commissioners of the Central Park. 1858. *Documents of the Board of Commissioners of the Central Park for the Year Ending April 30, 1858.* New York, NY: William C. Bryant & Co. [[PDF]](http://nyc.gov/html/records/pdf/govpub/4277documents_manhattan_central_park_1857-58.pdf).
+Commissioners of the Central Park. 1858. *Documents of the Board of Commissioners of the Central Park for the Year Ending April 30, 1858.* New York, NY: William C. Bryant & Co. [[PDF](http://nyc.gov/html/records/pdf/govpub/4277documents_manhattan_central_park_1857-58.pdf)]
 
 Common Council of the City of New York. 1853? [Central Park [Planning/ Condemnation Maps]](https://digitalcollections.nypl.org/items/4fe489f0-0c4e-0132-c669-58d385a7b928). The New York Public Library Digital Collections. Lionel Pincus and Princess Firyal Map Division, New York Public Library. *Note: These maps may be copies of the Sage 1856 map.*
 
@@ -119,7 +119,7 @@ New York County Municipal Death Records (NYCMDR). 1812–1860 New York County De
 
 *New-York Daily Tribune.* 1853.	“Laying a Corner-Stone.” August 5:7.
 
-New-York Historical Society Education Department. 2010. *Seneca Village: A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society. [[PDF]](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf).
+New-York Historical Society Education Department. 2010. *Seneca Village: A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
 
 New York State Census (NYSC). 1855. Census of the State of New York, County of New York. Research Division, New York Public Library, New York, NY.
 
@@ -177,13 +177,13 @@ Wall, Diana diZerega, Nan A. Rothschild, Cynthia Copeland, and Herbert Seignoret
 
 Wall, Diana diZerega, Nan A. Rothschild, and Meredith Linn. 2019. “Constructing Identity in Seneca Village.” In *“O Brave New World": Archaeologies of Changing Identities*, edited by Diane F. George and Bernice Kurchin, 157–80. Gainesville, FL. University Press of Florida.
 
-Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. 2018.	*Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History.* Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF]](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)
+Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. 2018.	*Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History.* Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
 
-Wallace, John. 1857/1859? Affidavit of Petition (letter). Library of Congress. Transcription reproduced in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF]](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)
+Wallace, John. 1857/1859? Affidavit of Petition (letter). Library of Congress. Transcription reproduced in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
 
 Washington, Eric K. 2022. “Lunch & Learn: The Legacy of Colored School No. 4 with Eric K. Washington.” New York City Department of Records and Information Services. New York, NY. [YouTube](https://youtu.be/eeJBZdG_pvw?si=TFC_k24h_K5pwVSa). Accessed May 4, 2024.
 
-Watson, Adam. 2018.	"Appendix E: Faunal Analysis.” In *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*, by Diana diZerega Wall, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF]](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)
+Watson, Adam. 2018.	"Appendix E: Faunal Analysis.” In *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*, by Diana diZerega Wall, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
 
 Webster, George W. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 
@@ -191,9 +191,8 @@ White, Carolyn L. 2005.	*American Artifacts of Personal Adornment, 1680-1820: A 
 
 Williams-Forson, Psyche A. 2006. *Building Houses out of Chicken Legs: Black Women, Food, and Power.* Chapel Hill, NC: The University of North Carolina Press.
 
-Williams, Andrew. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY. Copy and transcription reproduced on page 45 in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF]](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf) 
+Williams, Andrew. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY. Copy and transcription reproduced on page 45 in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
 
 Winchell, Louisa. 2020.	“[Beyond the Village and Back: Harlem’s Mother A.M.E. Zion Church](https://www.villagepreservation.org/2020/02/05/beyond-the-village-and-back-harlems-mother-a-m-e-zion-church/).” *Village Preservation Blog.* Village Preservation. New York, NY. Accessed May 4, 2024.
  
 Zuille, John J. 1892. [*Historical Sketch of the New York African Society for Mutual Relief.*](https://archive.org/details/historicalsketch00newy_1/page/n5/mode/2up) New York, NY: New York African Society for Mutual Relief.
-

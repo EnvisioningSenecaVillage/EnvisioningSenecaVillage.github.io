@@ -83,25 +83,17 @@ Linn, Meredith, Nan A. Rothschild, and Diana di Zerega Wall. 2023. “Seneca Vil
 
 Linn, Meredith, Nan A. Rothschild, and Diana di Zerega Wall. *In Press*  “Landscape, Self-Sufficiency, and Health in Seneca Village.” In *Revealing Communities: The Archaeology of Free African Americans in the Nineteenth Century*, edited by Meredith B. Linn. New York, NY: Bard Graduate Center.
 
-Lobel, Cindy R.
-2014	Urban Appetites: Food & Culture in Nineteenth-Century New York. Chicago. IL: University of Chicago Press.
+Lobel, Cindy R. 2014. *Urban Appetites: Food & Culture in Nineteenth-Century New York.* Chicago. IL: University of Chicago Press.
 
+Manevitz, Alexander. 2021. “’A Great Injustice’: Urban Capitalism and the Limits of Freedom in Nineteenth-Century New York City.” *Journal of Urban History* 48(6):1365–1382.
 
-Manevitz, Alexander
-2021	“’A Great Injustice’: Urban Capitalism and the Limits of Freedom in Nineteenth-Century New York City” Journal of Urban History 48(6):1365–1382.
+[*Mapping the African American Past (MAAP)*](https://maap.columbia.edu/index.html). 2024.	Columbia Teachers College, Columbia Center for New Media and Learning, and Creative Curriculum Initiatives. Accessed May 3, 2024.
 
-Mapping the African American Past (MAAP)
-2024	Columbia Teachers College, Columbia Center for New Media and Learning, and Creative Curriculum Initiatives. https://maap.columbia.edu/index.html. Accessed May 3, 2024.
+Mathew, William. 1855. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records, New York, NY.
 
-Mathew, William
-1855 	Affidavit of Petition (letter). Collection of the New York City Municipal Archives,
-Bureau of Old Records, New York, NY.
+McAlester, Virginia and Lee McAlester. 1984. *A Field Guide to American Houses.* 1991 reprint. New York, NY: Alfred A. Knopf.
 
-McAlester, Virginia and Lee McAlester 
-1984	A Field Guide to American Houses. 1991 reprint. New York, NY: Alfred A. Knopf.
-
-McCabe, James D.
-1872	Lights and Shadows of New York Life; Or, the Sights and Sensations of a Great City. Philadelphia, PA: National Publishing Company. Available from Project Gutenberg. https://www.gutenberg.org/files/19642/19642-h/19642-h.htm. Accessed May 4, 2024.
+McCabe, James D. 1872. Lights and Shadows of New York Life; Or, the Sights and Sensations of a Great City. Philadelphia, PA: National Publishing Company. Available from Project Gutenberg. https://www.gutenberg.org/files/19642/19642-h/19642-h.htm. Accessed May 4, 2024.
 
 McKnight, Justine
 2014	"Observations. Three flotation- recovered samples from Seneca Village." Report. Institute for the Exploration of Seneca Village History, New York, NY.

@@ -9,6 +9,7 @@ permalink: /sitemap/
   - [Further Reading about Seneca Village](readings)
   - [References Cited in the Model](/references)
 
+
 - [About](/about): About the project and team
   - Methodology: Overview description of the process to create the 3D model
   - Speculations & Assumptions: List of specific assumptions informing the appearance of the model.

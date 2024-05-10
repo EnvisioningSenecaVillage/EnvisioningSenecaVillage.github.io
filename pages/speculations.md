@@ -4,17 +4,7 @@ title: Speculations & Assumptions
 permalink: /speculations/
 ---
 
-Test a table version.
+Envisioning and modeling Seneca Village required speculation and making informed assumptions. These assumptions were supported by a variety of factors including New York’s 19th-century architectural history, the variation in declared value of different properties, and input from many of the researchers and scholars who have studied Seneca Village.
 
-| Element | Assumptions |
-| --- | --- |
-| Model-wide | Across the model, many decisions were informed by photos from the surviving Black community of Weeksville, Brooklyn. |
-| Building footprints | Drawn from condemnation map. The distances between buildings and the footprint of each are as accurate to the inch as the measurements given on the drawings. High confidence level in accuracy here. This part of the model is as accurate as the primary source. |
+This list details those speculations and assumptions. Unless we had evidence for particular buildings or locations, these were applied consistently across the Village allowing for minimal exceptions to produce credible and expected variation.
 
-Test a list version.
-
-Model-wide
-: Across the model, many decisions were informed by photos from the surviving Black community of Weeksville, Brooklyn.
-
-Building footprints
-: Footprints were drawn from the Sage condemnation map. The distances between buildings and the footprint of each building are as accurate (to the inch) as the measurements given on the original drawing. Thus, this aspect of the model is as accurage as the source.

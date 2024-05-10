@@ -21,7 +21,7 @@ permalink: /readings/
 
 **Wall, Diana diZerega, Nan A. Rothschild, and Meredith Linn**. 2019. “Constructing Identity in Seneca Village.” In *“O Brave New World": Archaeologies of Changing Identities*, edited by Diane F. George and Bernice Kurchin, 157–80. Gainesville, FL. University Press of Florida.
 
-**Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland**. 2018.	*Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf.
+**Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland**. 2018.	*Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)] 
 
 # Online Resources
 

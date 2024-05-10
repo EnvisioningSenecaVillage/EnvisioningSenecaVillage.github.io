@@ -129,27 +129,27 @@ Accessed May 5, 2024.
 
 **Noble, Allen G**. 1984. *Wood, Brick, and Stone: The North American Settlement Landscape. Vol. 2: Barns and Farm Structures.* Amherst, MA: University of Massachusetts Press.
 
-Pease, William. 1855. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
+**Pease, William**. 1855. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 
-Peters, John Punnet. 1907. [*Annals of St. Michael’s; Being the History of St. Michael’s Protestant Episcopal Church, New York, for One Hundred Years 1807-1907.*](https://archive.org/details/annalsofstmichae00pete) New York, NY: G. P. Putnam.
+**Peters, John Punnet**. 1907. [*Annals of St. Michael’s; Being the History of St. Michael’s Protestant Episcopal Church, New York, for One Hundred Years 1807-1907.*](https://archive.org/details/annalsofstmichae00pete) New York, NY: G. P. Putnam.
 
-Quinn, Mary. 1855. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
+**Quinn, Mary**. 1855. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 
-Riddles, Peter. 1855. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
+**Riddles, Peter**. 1855. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 
-Rosenzweig, Roy and Elizabeth Blackmar. 1992. *The Park and the People: A History of Central Park.* Ithaca, NY: Cornell University Press.
+**Rosenzweig, Roy and Elizabeth Blackmar**. 1992. *The Park and the People: A History of Central Park.* Ithaca, NY: Cornell University Press.
 
-Russell, Daniel J. 1920. *History of the African Union Methodist Protestant Church.* Philadelphia, PA: Union Star. Transcribed version available at [Documenting the American South](https://docsouth.unc.edu/church/russell/russell.html).
+**Russell, Daniel J**. 1920. *History of the African Union Methodist Protestant Church.* Philadelphia, PA: Union Star. Transcribed version available at [Documenting the American South](https://docsouth.unc.edu/church/russell/russell.html).
 
-Sage, Gardner A. 1838.	*Manhattan Square Benefit Map.* Collection of the New-York Historical Society, New York, NY.
+**Sage, Gardner A**. 1838.	*Manhattan Square Benefit Map.* Collection of the New-York Historical Society, New York, NY.
 
 --. 1856. *Central Park Condemnation Map.* Municipal Archives, New York, NY.
 
-Serrell, James E. 1853.	[*Maps & Profiles of Ground for New Reservoir Situated Between 86th and 96th Streets and Between 5th And 7th Avenues.*](https://digitalcollections.nypl.org/items/5e66b3e8-76ad-d471-e040-e00a180654d7) New York Public Library Digital Collections. Lionel Pincus and Princess Firyal Map Division, The New York Public Library.
+**Serrell, James E**. 1853.	[*Maps & Profiles of Ground for New Reservoir Situated Between 86th and 96th Streets and Between 5th And 7th Avenues.*](https://digitalcollections.nypl.org/items/5e66b3e8-76ad-d471-e040-e00a180654d7) New York Public Library Digital Collections. Lionel Pincus and Princess Firyal Map Division, The New York Public Library.
 
-Trustees of African Union Church. 1855.	Affidavit of Petition (letter). Signed by Thomas Scudder, William Mathew, and Allen Cook. Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
+**Trustees of African Union Church**. 1855.	Affidavit of Petition (letter). Signed by Thomas Scudder, William Mathew, and Allen Cook. Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 
-United States Bureau of the Census (USBC). 1830. Population Schedules of the Fifth Census of the United States, 1830. Research Division, New York Public Library, New York, NY.
+**United States Bureau of the Census (USBC)**. 1830. Population Schedules of the Fifth Census of the United States, 1830. Research Division, New York Public Library, New York, NY.
 
 --. 1840. Population Schedules of the Sixth Census of the United States, 1840. Research Division, New York Public Library, New York, NY.
 
@@ -157,7 +157,7 @@ United States Bureau of the Census (USBC). 1830. Population Schedules of the Fif
 
 --. 1860. Population Schedules of the Eighth Census of the United States, 1860. Research Division, New York Public Library, New York, NY.
 
-Valentine, David Thomas. 1855. *Manual for the Corporation of the City of New York.* New York, NY: McSpedon & Baker, Printers.
+**Valentine, David Thomas**. 1855. *Manual for the Corporation of the City of New York.* New York, NY: McSpedon & Baker, Printers.
 
 --. 1856. *Manual for the Corporation of the City of New York.* New York, NY: McSpedon & Baker, Printers.
 
@@ -165,34 +165,34 @@ Valentine, David Thomas. 1855. *Manual for the Corporation of the City of New Yo
 
 --. 1865. *Manual for the Corporation of the City of New York.* New York, NY: The Council.
 
-Viele, Egbert L. 1855. [*Map of Lands Included in the Central Park from a Topographical Survey.*](https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~15~15~6495~1226534?qvq=q%3Aviele&mi=36&trs=37) June 17, 1855. Parks and parkways drawings and plans collection, dpr_d_3172. New York City Municipal Archives. New York, NY.
+**Viele, Egbert L. 1855**. [*Map of Lands Included in the Central Park from a Topographical Survey.*](https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~15~15~6495~1226534?qvq=q%3Aviele&mi=36&trs=37) June 17, 1855. Parks and parkways drawings and plans collection, dpr_d_3172. New York City Municipal Archives. New York, NY.
 
 --. 1857. *First Annual Report on the Improvement of the Central Park.* New York, NY: Charles W. Baker, Printer.
 
 --. 1865. [*Sanitary & Topographical Map of the City and Island of New York.*](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~2289~180029:Sanitary-&-Topographical-Map-of-the) New York, NY: Ferdinand Mayer & Co. David Rumsey Map Collection. 
 
-Wall, Diana diZerega, Nan A. Rothschild, and Cynthia Copeland. 2008. “Seneca Village and Little Africa: Two African American Communities in Antebellum New York City.” *Historical Archaeology* 42(1):97–107.
+**Wall, Diana diZerega, Nan A. Rothschild, and Cynthia Copeland**. 2008. “Seneca Village and Little Africa: Two African American Communities in Antebellum New York City.” *Historical Archaeology* 42(1):97–107.
 
-Wall, Diana diZerega, Nan A. Rothschild, Cynthia Copeland, and Herbert Seignoret. 2004. “The Seneca Village Project: Working with Modern Communities in Creating the Past.” In *Places in Mind: Public Archaeology as Applied Anthropology*, edited by Paul A. Shackel and Erve J. Chambers, 101–117. New York, NY: Routledge.
+**Wall, Diana diZerega, Nan A. Rothschild, Cynthia Copeland, and Herbert Seignoret**. 2004. “The Seneca Village Project: Working with Modern Communities in Creating the Past.” In *Places in Mind: Public Archaeology as Applied Anthropology*, edited by Paul A. Shackel and Erve J. Chambers, 101–117. New York, NY: Routledge.
 
-Wall, Diana diZerega, Nan A. Rothschild, and Meredith Linn. 2019. “Constructing Identity in Seneca Village.” In *“O Brave New World": Archaeologies of Changing Identities*, edited by Diane F. George and Bernice Kurchin, 157–80. Gainesville, FL. University Press of Florida.
+**Wall, Diana diZerega, Nan A. Rothschild, and Meredith Linn**. 2019. “Constructing Identity in Seneca Village.” In *“O Brave New World": Archaeologies of Changing Identities*, edited by Diane F. George and Bernice Kurchin, 157–80. Gainesville, FL. University Press of Florida.
 
-Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. 2018.	*Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History.* Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
+**Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland**. 2018.	*Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History.* Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
 
-Wallace, John. 1857/1859? Affidavit of Petition (letter). Library of Congress. Transcription reproduced in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
+**Wallace, John**. 1857/1859? Affidavit of Petition (letter). Library of Congress. Transcription reproduced in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
 
-Washington, Eric K. 2022. “Lunch & Learn: The Legacy of Colored School No. 4 with Eric K. Washington.” New York City Department of Records and Information Services. New York, NY. [YouTube](https://youtu.be/eeJBZdG_pvw?si=TFC_k24h_K5pwVSa). Accessed May 4, 2024.
+**Washington, Eric K. 2022**. “Lunch & Learn: The Legacy of Colored School No. 4 with Eric K. Washington.” New York City Department of Records and Information Services. New York, NY. [YouTube](https://youtu.be/eeJBZdG_pvw?si=TFC_k24h_K5pwVSa). Accessed May 4, 2024.
 
-Watson, Adam. 2018.	"Appendix E: Faunal Analysis.” In *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*, by Diana diZerega Wall, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
+**Watson, Adam**. 2018.	"Appendix E: Faunal Analysis.” In *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*, by Diana diZerega Wall, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
 
-Webster, George W. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
+**Webster, George W**. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 
-White, Carolyn L. 2005.	*American Artifacts of Personal Adornment, 1680-1820: A Guide to Identification and Interpretation.* Lanham, MD: Altamira Press.
+**White, Carolyn L**. 2005.	*American Artifacts of Personal Adornment, 1680-1820: A Guide to Identification and Interpretation.* Lanham, MD: Altamira Press.
 
-Williams-Forson, Psyche A. 2006. *Building Houses out of Chicken Legs: Black Women, Food, and Power.* Chapel Hill, NC: The University of North Carolina Press.
+**Williams-Forson, Psyche A**. 2006. *Building Houses out of Chicken Legs: Black Women, Food, and Power.* Chapel Hill, NC: The University of North Carolina Press.
 
-Williams, Andrew. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY. Copy and transcription reproduced on page 45 in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
+**Williams, Andrew**. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY. Copy and transcription reproduced on page 45 in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
 
-Winchell, Louisa. 2020.	“[Beyond the Village and Back: Harlem’s Mother A.M.E. Zion Church](https://www.villagepreservation.org/2020/02/05/beyond-the-village-and-back-harlems-mother-a-m-e-zion-church/).” *Village Preservation Blog.* Village Preservation. New York, NY. Accessed May 4, 2024.
+**Winchell, Louisa**. 2020.	“[Beyond the Village and Back: Harlem’s Mother A.M.E. Zion Church](https://www.villagepreservation.org/2020/02/05/beyond-the-village-and-back-harlems-mother-a-m-e-zion-church/).” *Village Preservation Blog.* Village Preservation. New York, NY. Accessed May 4, 2024.
  
-Zuille, John J. 1892. [*Historical Sketch of the New York African Society for Mutual Relief.*](https://archive.org/details/historicalsketch00newy_1/page/n5/mode/2up) New York, NY: New York African Society for Mutual Relief.
+**Zuille, John J**. 1892. [*Historical Sketch of the New York African Society for Mutual Relief.*](https://archive.org/details/historicalsketch00newy_1/page/n5/mode/2up) New York, NY: New York African Society for Mutual Relief.

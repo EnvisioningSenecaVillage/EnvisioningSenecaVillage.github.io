@@ -6,7 +6,7 @@ permalink: /sitemap/
 
 [Envisioning Seneca Village](/index): Home page with interactive model and introduction.
 - Step-by-Step Tour of Seneca Village: Static version of the images and annotations within the interactive model. 
-- [Further Reading about Seneca Village](readings)
+- [Further Reading about Seneca Village](/readings)
 - [References Cited in the Model](/references)
 
 [About](/about): About the project and team

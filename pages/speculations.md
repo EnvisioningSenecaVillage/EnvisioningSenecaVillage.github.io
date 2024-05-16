@@ -16,6 +16,7 @@ Many decisions across the model were informed by photos from the surviving Black
 The number of details and refinements we could attempt to imagine are endless. We limited the visualization to the resolution one might see at a distance, to maintain reasonable loading times within a browser and to prevent unnecessary speculation. For instance, the model does not show doorknobs, house gutters, species of individual plants, or three-dimensional crops.
 
 # Buildings
+
 ## Size & Orientation
 **Building footprints** are drawn from the Sage condemnation map. The distances between buildings and the footprint of each building are as accurate (to the inch) as the measurements given on the original drawings.
 

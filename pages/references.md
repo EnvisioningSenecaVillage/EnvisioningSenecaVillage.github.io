@@ -12,7 +12,7 @@ permalink: /references/
 
 **American Anthropological Association**. 2024. [*Understanding Race: Are We So Different?*](https://understandingrace.org) Interactive website. American Anthropological Association. Accessed May 5, 2024.
 
-**American Institute of the City of New York**. 1844.	*Annual Report of the American Institute of the City of New York Made to the Legislature for the Year 1843.* Albany, NY: E. Mack. [[Google Books](https://books.google.co.mz/books?id=IJwZAQAAIAAJ)]
+**American Institute of the City of New York**. 1844. *Annual Report of the American Institute of the City of New York Made to the Legislature for the Year 1843.* Albany, NY: E. Mack. [[Google Books](https://books.google.co.mz/books?id=IJwZAQAAIAAJ)]
 
 **Baics, Gergely**. 2016. *Feeding Gotham: The Political Economy and Geography of Food in New York, 1790–1860.* Princeton, NJ: Princeton University Press.
 
@@ -28,11 +28,11 @@ permalink: /references/
 
 --. 2023. “Discover Seneca Village.” Outdoor exhibition with downloadable signs. Curated by Marie Warsh. [[PDF](https://s3.amazonaws.com/assets.centralparknyc.org/media/documents/SenecaVillage_Signs_2023.pdf)]
 
-***Christian Witness and Church Advocate*** 1850.“New Church in New York.” Jan 4:186. Boston, MA.
+***Christian Witness and Church Advocate*** 1850. “New Church in New York.” Jan 4:186. Boston, MA.
 
 **Chudacoff, Howard. P**. 2007. *Children at Play: An American History.* New York, NY: New York University Press.
 
-***Colored American***. 1840.“The Colored Churches in this City.”March 28:2. New York, NY.
+***Colored American***. 1840. “The Colored Churches in this City.” March 28:2. New York, NY.
 
 **Commissioners of the Central Park**. 1858. *Documents of the Board of Commissioners of the Central Park for the Year Ending April 30, 1858.* New York, NY: William C. Bryant & Co. [[PDF](http://nyc.gov/html/records/pdf/govpub/4277documents_manhattan_central_park_1857-58.pdf)]
 

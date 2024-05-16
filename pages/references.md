@@ -28,7 +28,7 @@ permalink: /references/
 
 --. 2023. “Discover Seneca Village.” Outdoor exhibition with downloadable signs. Curated by Marie Warsh. [[PDF](https://s3.amazonaws.com/assets.centralparknyc.org/media/documents/SenecaVillage_Signs_2023.pdf)]
 
-***Christian Witness and Church Advocate*** 1850.“Churchman.”Jan 4:2. Boston, MA.
+***Christian Witness and Church Advocate*** 1850.“New Church in New York.” Jan 4:186. Boston, MA.
 
 **Chudacoff, Howard. P**. 2007. *Children at Play: An American History.* New York, NY: New York University Press.
 

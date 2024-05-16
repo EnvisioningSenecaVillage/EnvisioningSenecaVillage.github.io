@@ -3,7 +3,7 @@ layout: page
 title: embed test
 permalink: /test/
 ---
-
+<html>
 <div class="sketchfab-embed-wrapper"> 
     <iframe title="Seneca Village Penultimate Draft" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/7bf01abc870e4b109994150186744e12/embed"> 
     </iframe> 
@@ -11,3 +11,4 @@ permalink: /test/
         <a href="https://sketchfab.com/3d-models/seneca-village-penultimate-draft-7bf01abc870e4b109994150186744e12?utm_medium=embed&utm_campaign=share-popup&utm_content=7bf01abc870e4b109994150186744e12" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Seneca Village Penultimate Draft </a> by <a href="https://sketchfab.com/mdzhang?utm_medium=embed&utm_campaign=share-popup&utm_content=7bf01abc870e4b109994150186744e12" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Myles Zhang </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=7bf01abc870e4b109994150186744e12" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
     </p>
 </div>
+</html>

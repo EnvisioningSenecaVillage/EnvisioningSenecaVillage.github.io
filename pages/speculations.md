@@ -9,7 +9,7 @@ This list details those assumptions. Unless we had evidence for particular build
 
 # Model-wide
 
-Many details would have differed day-to-day or season-to-season. We have represented Seneca Village on **a sunny, spring day**, as it might have appeared when the sun came out after a rainstorm to render the streams and foliage more full and visible. The model’s background sky is cropped from Thomas Cole's 1836 oil painting [*The Oxbow*](https://www.metmuseum.org/art/collection/search/10497), representative of the 19th-century Hudson River School. 
+Many details would have differed day-to-day or season-to-season. We have represented Seneca Village on a spring day, as it might have appeared when the sun came out after a rainstorm to render the streams and foliage more full and visible. The model’s background sky is cropped from Thomas Cole's 1836 oil painting [*The Oxbow*](https://www.metmuseum.org/art/collection/search/10497), representative of the 19th-century Hudson River School. 
 
 Many decisions across the model were informed by photos from the surviving Black community of Weeksville, Brooklyn.
 

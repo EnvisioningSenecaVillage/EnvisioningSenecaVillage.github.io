@@ -1,10 +1,10 @@
 ---
 layout: page
-title: References Cited
+title: References
 permalink: /references/
 ---
 
-# Annotation Notes
+# Annotation Notes and Citations
 ### 1. Visualizing a Village 
 Key map sources: Sage 1838, 1856; Dripps 1851; Common Council 1853?; Serrell 1853; Viele 1855.
 

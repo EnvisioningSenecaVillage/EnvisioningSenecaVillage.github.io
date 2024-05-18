@@ -9,6 +9,8 @@ Jump to full [Bibliography](#bibliography).
 
 ## this is h2
 
+### this is h3
+
 # 1. Visualizing a Village 
 
 Key map sources: Sage 1838, 1856; Dripps 1851; Common Council 1853?; Serrell 1853; Viele 1855.

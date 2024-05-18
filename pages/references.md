@@ -8,7 +8,12 @@ Jump to full [Bibliography](#bibliography).
 ## Annotation Notes
 
 #### 1. Visualizing a Village 
-**Key map sources**: Sage 1838, 1856; Dripps 1851; Common Council 1853?; Serrell 1853; Viele 1855. **Key sources about architecture**: Valentine 1862, 1865; McAlester and McAlester 1984; Noble 1984; Carter and Cromley 2005. **Key primary social history sources**: All Angels’ Church Parish Records 1846–1858; Letters of affidavit (Mathews 1855; Pease 1855; Quinn 1855; Riddles 1855; Trustees of African Union Church 1855; Williams 1856; Webster 1856; Wallace 1857?); New York City Death Records (NYCMDR 1812–1860); New York City Property Tax Assessment Records (NYPTAR 1828–1855); New York State Census (NYSC 1855); US Federal Censuses (USBC 1830, 1840, 1850, 1860). **Key social history and historical archaeological secondary sources**: Rosenzweig and Blackmar 1992; Hodges 1999; Harris 2003; Wall et al. 2008, 2019; Manevitz 2021; Miller 2022; Linn et al. *in press*. **About the collaborative historical archaeological project**: Wall et al. 2004; Linn et al. 2023. **Archaeological site report**: Wall et al. 2018.
+Key map sources: Sage 1838, 1856; Dripps 1851; Common Council 1853?; Serrell 1853; Viele 1855.  
+Key sources about architecture: Valentine 1862, 1865; McAlester and McAlester 1984; Noble 1984; Carter and Cromley 2005.  
+Key primary social history sources: All Angels’ Church Parish Records 1846–1858; Letters of affidavit (Mathews 1855; Pease 1855; Quinn 1855; Riddles 1855; Trustees of African Union Church 1855; Williams 1856; Webster 1856; Wallace 1857?); New York City Death Records (NYCMDR 1812–1860); New York City Property Tax Assessment Records (NYPTAR 1828–1855); New York State Census (NYSC 1855); US Federal Censuses (USBC 1830, 1840, 1850, 1860).  
+Key social history and historical archaeological secondary sources: Rosenzweig and Blackmar 1992; Hodges 1999; Harris 2003; Wall et al. 2008, 2019; Manevitz 2021; Miller 2022; Linn et al. *in press*.  
+About the collaborative historical archaeological project: Wall et al. 2004; Linn et al. 2023.  
+Archaeological site report: Wall et al. 2018.
 
 #### 2. Nanny Goat Hill
 **Elevation**: Viele 1855. **Name of hill**: Rosenzweig and Blackmar 1992, 66 citing New York Times 1924:16. **Surrounding areas**: Hooker 1828; Dripps 1851, 1852. **Linked illustration “View from Summit Rock West”**: Viele 1857. **Community founded by African Americans**: Rosenzweig and Blackmar 1992, 65–73.

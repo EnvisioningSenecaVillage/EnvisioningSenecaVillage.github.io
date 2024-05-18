@@ -238,7 +238,7 @@ Rendering of barn and stable informed by Valentine 1862, 1865; Noble 1984, 16–
 Nearby stream: Viele 1855.
 
 #### 21. Sally Wilson House 
-Location of house and ownership: Sage 1856; NYPTAR 1844–1855. Details about Sally Wilson and Sarah Tredwell: NYSC 1855. Advertisement: Freedom's Journal 1829 cited in Miller 2022,192. Value of house in 1855: NYSC 1855. Importance of chickens: Williams-Forson 2006. Village dogs: Peters 1907, 94–95. Planted fields: Viele 1855. Water collection and use of landscape: Wall et al. 2018, F-44; Linn et al. in press. Newspaper article: New-York Daily Times 1856, 3. 
+**Location of house and ownership:** Sage 1856; NYPTAR 1844–1855. **Details about Sally Wilson and Sarah Tredwell:** NYSC 1855. **Advertisement:** Freedom's Journal 1829 cited in Miller 2022,192. **Value of house in 1855:** NYSC 1855. **Importance of chickens:** Williams-Forson 2006. **Village dogs:** Peters 1907, 94–95. **Planted fields:** Viele 1855. **Water collection and use of landscape:** Wall et al. 2018, F-44; Linn et al. *in press*. **Newspaper article:** New-York Daily Times 1856, 3. 
 
 #### 22. Webster & Philips Houses
 Purchase date: NYPTAR 1854; Webster 1856. Ages, origins, children, occupations: USBC 1850; NYSC 1855. Philips shanty: Sage 1856. The 1850 and 1855 censuses give conflicting information about Matilda Philips’s age—both indicate she was 19—and we have been unable to find other sources to clarify the issue. Marriage of Catharine Matilda Scudder to William Philips: All Angels’ Church 1846–1858. McCollins’ land ownership: NYPTAR 1855; Sage 1856. Scudder family in village:  NYPTAR 1833–1843; Sage 1838; USBC 1850. 

@@ -5,7 +5,7 @@ permalink: /sitemap/
 ---
 
 [Envisioning Seneca Village](/index): Home page with interactive, 3D model and introduction.
-- [A Tour of Seneca Village](/tour): Step-by-step static version of the tour through the Village annotated in the 3D model
+- [A Tour through Seneca Village](/tour): Step-by-step static version of the tour through the Village annotated in the 3D model
 - [References](/references): Notes and citations for each annotation in the 3D model and bibliography
 - [Further Reading about Seneca Village](/readings)
 

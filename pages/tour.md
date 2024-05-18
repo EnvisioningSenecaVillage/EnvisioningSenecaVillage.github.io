@@ -47,9 +47,6 @@ Next to All Angels’ Church was the Wilson family’s home. Built ca.1849, the 
 
 Archaeological excavations unearthed possessions the Wilsons left behind when they were forced to leave their home that are clues about things they did, what they liked, what they could afford, and how they presented themselves. Artifacts include blue printed [English dishes](https://archaeology.cityofnewyork.us/collection/search/search/keyword:all-angels-printed--site:seneca-village), a [Chinese porcelain platter](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210504-underglaze-painted-chinese-porcelain-platter), [flower pots](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210495-redware-flower-pot), a bone [toothbrush](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210712-bone-toothbrush-handle), a wool and leather [shoe](/annotation_assets/Wilson-House-shoe.jpg), and a [blue-beaded necklace](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210697-faceted-glass-beads). These items express genteel taste and concern for hygiene and self-presentation. [Stoneware jars](https://archaeology.cityofnewyork.us/collection/search/search/keyword:all-angels-stoneware--site:seneca-village), for preserving vegetables and meats, and a lead [fishing weight](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210719-lead-weight), likely used to catch dinner in the nearby Hudson River, indicate self-provisioning. [Slate pencils](https://bit.ly/3K75) and censuses show the family’s commitment to educating their children; census records indicate Mrs. Wilson learned to read and write alongside them.
 
-![](/annotation_assets/Annotation-Thumbnail-Wilson-House-Excavation.jpg)
-*image caption TK*
-
 ## 8. African Union Church
 
 **model image**

@@ -5,6 +5,8 @@ permalink: /references/
 ---
 Jump to full [Bibliography](#bibliography).
 
+***
+
 ## Annotation Notes
 
 #### 1. Visualizing a Village 
@@ -225,6 +227,8 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Recent pre-demolition construction**: New-York Daily Tribune 1853, 7 ; NYDTAR 1853–55.  
 **Petitions**: Mathews 1855; Pease 1855; Quinn 1855; Riddles 1855; Williams 1856; Webster 1856; Wallace 1857?.  
 **After Seneca Village**: USBC 1860; USBC 1870; and also for the Wilsons, Johnson 2023, 35–36, 45, 47, 61–62.
+
+***
 
 ## Bibliography
 

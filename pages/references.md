@@ -3,7 +3,11 @@ layout: page
 title: References
 permalink: /references/
 ---
-Jump to full [Bibliography](#bibliography).
+This page includes the references cited and notes per annotation in the 3D model and tour through Seneca Village, followed by a bibliography with complete citations per source. Jump to full [Bibliography](#bibliography).
+
+[1. Visualizing a Village](#1-visualizing-a-village) | [2. Nanny Goat Hill](#2-nanny-goat-hill) | [3. Origins of Seneca Village](#3-origins-of-seneca-village) | [4. All Angels' Church and Cemetery](#4-all-angels-church-and-cemetery) | [5. All Angels' Church Interior](#5-all-angels-church-interior) | [6. Wilson Family House](#6-wilson-family-house) | [7. Wilson Family House Artifacts](#7-wilson-family-house-artifacts) | [8. African Union Church](#8-african-union-church) | [9. Public School House](#9-public-school-house) | [10. AME Zion Church and Greenhouse](#10-ame-zion-church-and-greenhouse) | [11. Haff House and Garden](#11-haff-house-and-garden) | [12. Williams House](#12-williams-house) | [13. Landin House and Stables](#13-landin-house-and-stables) | [14. McCollin Houses](#14-mccollin-houses) | [15. Geary House](#15-geary-house) | [16. Croton Receiving Reservoir](#16-croton-receiving-reservoir) | [17. Mathew House](#17-mathew-house) | [18. Garnet House](#18-garnet-house) | [19. Sylvan House](#19-sylvan-house) | [20. Dunn Shanty, Barn, and Stable](#20-dunn-shanty-barn-and-stable) | [21. Sally Wilson House](#21-sally-wilson-house) | [22. Webster and Philips Houses](#22-webster-and-philips-houses) | [23. Webster and Philips House Artifacts](#23-webster-and-philips-house-artifacts) | [24. Ishmael Allen Shanty and Shop](#24-ishmael-allen-shanty-and-shop) | [25. John White Shanty](#25-john-white-shanty) | [26. Tanner's Spring](#26-tanners-spring) | [27. Gallagher House and Stable](#27-gallagher-house-and-stable) | [28. Conclusion: Seneca Village Demolished for Central Park](#28-conclusion-seneca-village-demolished-for-central-park)
+
+***
 
 ## Annotation Notes
 
@@ -72,7 +76,7 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **For more about school attendance in Seneca Village versus downtown in “Little Africa”** see Wall, Rothschild, and Copeland 2008.  
 **For more about 19th-century games and toys** see King Manor 2024 and Chudacoff 2007.  
 
-#### 10. AME Zion Church & Greenhouse
+#### 10. AME Zion Church and Greenhouse
 **First landowners**: Rosenzweig & Blackmar 1992, 65; Ng 1999, 41, citing Grady Turner, Cynthia Copeland, and Herbert Signoret’s research in the New York City Land Conveyances Grantor Index 1825–1832.  
 **Location of AME Zion’s lands**: Sage 1856.  
 **AME Zion Church history and break from the John Street Church**: Hood 1914, 19-21; Bradley 1956, 81-83.  
@@ -100,7 +104,7 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **Williams’s letter**: Williams 1856.  
 **Williams’ descendants**: CBS Sunday Morning 2022.
 
-#### 13. Landin House & Stables
+#### 13. Landin House and Stables
 **Landin family’s residence in this structure**: Sage 1856.  
 **Renting to Jacksons**: inferred from NYSC 1855.  
 **Attached stable and other stables in village**: Sage 1856.  
@@ -180,7 +184,7 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Water collection and use of landscape**: Wall et al. 2018, F-44; Linn et al. *in press*.  
 **Newspaper article**: New-York Daily Times 1856, 3. 
 
-#### 22. Webster & Philips Houses
+#### 22. Webster and Philips Houses
 **Purchase date**: NYPTAR 1854; Webster 1856.  
 **Philips shanty**: Sage 1856.  
 **Ages, origins, children, occupations**: USBC 1850; NYSC 1855. The 1850 and 1855 censuses give conflicting information about Matilda Philips’s age—both indicate she was 19—and we have been unable to find other sources to clarify the issue.  
@@ -188,13 +192,13 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **McCollins’ land ownership**: NYPTAR 1855; Sage 1856.  
 **Scudder family in village**:  NYPTAR 1833–1843; Sage 1838; USBC 1850. 
 
-#### 23. Webster & Philips House Artifacts
+#### 23. Webster and Philips House Artifacts
 **Artifacts excavated**: Wall et al. 2018; New York City Archaeological Repository 2020. See also: Wall et al. 2019 and Linn et al. *in press*.  
 **Plant remains**: Jacobucci and Trigg 2012; McKnight 2014; Wall et al. 2018, 73–74 and F-44–F-50.  
 **Animal remains**: Wall et al. 2018, 70–73; Watson 2018.  
 **Button from man’s coat**: White 2005. 
 
-#### 24. Ishmael Allen Shanty & Shop
+#### 24. Ishmael Allen Shanty and Shop
 **Allen’s shanty and shop size and location**: Sage 1856.  
 **Details about Allen family**: NYSC 1855.  
 **Race as a social construction**: see Fields and Fields 2012 and the American Anthropological Association’s 2024 interactive website *Understanding Race*, among myriad other sources.  
@@ -214,7 +218,7 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **William Mathew’s well**: Mathew 1855.  
 **Photograph of Tanner’s Spring**: Smith 1901.
 
-#### 27. Gallagher House & Stable
+#### 27. Gallagher House and Stable
 **Gallagher home location**: Sage 1856.  
 **Gallaghers among earliest Irish residents and family details**: USBC 1840; USBC 1850; NYSC 1855.  
 **Naturalization**: NYSC 1855.  

@@ -5,13 +5,11 @@ permalink: /references/
 ---
 This page includes the references cited and notes per annotation in the 3D model and tour through Seneca Village, followed by a bibliography with complete citations per source. Jump to full [Bibliography](#bibliography).
 
-[1. Visualizing a Village](#1-visualizing-a-village) | [2. Nanny Goat Hill](#2-nanny-goat-hill) | [3. Origins of Seneca Village](#3-origins-of-seneca-village) | [4. All Angels' Church and Cemetery](#4-all-angels-church-and-cemetery) | [5. All Angels' Church Interior](#5-all-angels-church-interior) | [6. Wilson Family House](#6-wilson-family-house) | [7. Wilson Family House Artifacts](#7-wilson-family-house-artifacts) | [8. African Union Church](#8-african-union-church) | [9. Public School House](#9-public-school-house) | [10. AME Zion Church and Greenhouse](#10-ame-zion-church-and-greenhouse) | [11. Haff House and Garden](#11-haff-house-and-garden) | [12. Williams House](#12-williams-house) | [13. Landin House and Stables](#13-landin-house-and-stables) | [14. McCollin Houses](#14-mccollin-houses) | [15. Geary House](#15-geary-house) | [16. Croton Receiving Reservoir](#16-croton-receiving-reservoir) | [17. Mathew House](#17-mathew-house) | [18. Garnet House](#18-garnet-house) | [19. Sylvan House](#19-sylvan-house) | [20. Dunn Shanty, Barn, and Stable](#20-dunn-shanty-barn-and-stable) | [21. Sally Wilson House](#21-sally-wilson-house) | [22. Webster and Philips Houses](#22-webster-and-philips-houses) | [23. Webster and Philips House Artifacts](#23-webster-and-philips-house-artifacts) | [24. Ishmael Allen Shanty and Shop](#24-ishmael-allen-shanty-and-shop) | [25. John White Shanty](#25-john-white-shanty) | [26. Tanner's Spring](#26-tanners-spring) | [27. Gallagher House and Stable](#27-gallagher-house-and-stable) | [28. Conclusion: Seneca Village Demolished for Central Park](#28-conclusion-seneca-village-demolished-for-central-park)
-
 ***
 
 ## Annotation Notes
 
-#### 1. Visualizing a Village 
+### 1. Visualizing a Village 
 **Key map sources**: Sage 1838, 1856; Dripps 1851; Common Council 1853?; Serrell 1853; Viele 1855.  
 **Key sources about architecture**: Valentine 1862, 1865; McAlester and McAlester 1984; Noble 1984; Carter and Cromley 2005.  
 **Key primary social history sources**: All Angels’ Church Parish Records 1846–1858; Letters of affidavit (Mathews 1855; Pease 1855; Quinn 1855; Riddles 1855; Trustees of African Union Church 1855; Williams 1856; Webster 1856; Wallace 1857?); New York City Death Records (NYCMDR 1812–1860); New York City Property Tax Assessment Records (NYPTAR 1828–1855); New York State Census (NYSC 1855); US Federal Censuses (USBC 1830, 1840, 1850, 1860).  
@@ -26,14 +24,14 @@ This page includes the references cited and notes per annotation in the 3D model
 **Linked illustration “View from Summit Rock West”**: Viele 1857.  
 **Community founded by African Americans**: Rosenzweig and Blackmar 1992, 65–73.  
 
-#### 3. Origins of Seneca Village
+### 3. Origins of Seneca Village
 **Initial land purchases**: New York City Land Conveyances 1630–1975; Rosenzweig and Blackmar 1992, 65.  
 **Number of families and composition** calculated by Meredith Linn and Marie Warsh using a variety of primary sources, especially USBC 1850; NYSC 1855; NYPTAR 1828–1855; and Sage 1856.  
 **Churches and schools**: Sage 1856.  
 **Property ownership, self-sufficiency, and village complexity**: Rosenzweig and Blackmar 1992, 65–73; Wall et al. 2008, 2018, 2019; Manevitz 2021; Miller 2022; Linn et al. *in press*.  
 **Slanderous newspaper article**: New-York Daily Times 1856, 3.  
 
-#### 4. All Angels’ Church and Cemetery
+### 4. All Angels’ Church and Cemetery
 **Number and location of churches**: Sage 1856.  
 **Mission, cost of church, and deeding of property**: Johnson 2023, 17–18.  
 **Linked image of St. Michael’s Church**: French 2021.  
@@ -41,18 +39,18 @@ This page includes the references cited and notes per annotation in the 3D model
 **Description of church exterior**: Miller 2022:202–203 paraphrasing the Christian Witness and Church Advocate 1850, 186.  
 **Cemetery visualization** informed by photograph of sister parish, St. Michael’s Church, in French 2021.  
 
-#### 5. All Angels’ Church Interior
+### 5. All Angels’ Church Interior
 **Description of church interior**: Christian Witness and Church Advocate 1850 cited in Miller 2022:202–203.  
 **Surviving parish records**: All Angels’ Church 1846–1858.  
 
-#### 6. Wilson Family House
+### 6. Wilson Family House
 **Identification of this structure as the Wilson home and its size**: Sage 1856.  
 **Construction date**: NYPTAR 1849–1852; USBC 1850.  
 **House materials**: Sage 1856 and Wall et al. 2018, 53–54.  
 **Details about Wilson family members and relationships**: NYSC 1855; USBC 1850, 1860; All Angels’ Church 1846–1858.  
 **Mr. Wilson as sexton**: All Angels’ Church 1846–1858; Johnson 2023, 35–36, 45, 47, 61–62.  
 
-#### 7. Wilson Family House Artifacts
+### 7. Wilson Family House Artifacts
 **Artifacts excavated**: Wall et al. 2018; New York City Archaeological Repository 2020. See also: Wall et al. 2019 and Linn et al. *in press*.  
 **Wilson children attending school**: USBC 1840, 1860.  
 **Mrs. Wilson** is noted as not able to read or write in the 1850 Federal Census, able to read only in the 1855 New York State Census, and able to both read and write in the 1860 Federal Census.  
@@ -60,13 +58,13 @@ This page includes the references cited and notes per annotation in the 3D model
 
 The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021) “Afrofuturist Period Room.”
 
-#### 8. African Union Church 
+### 8. African Union Church 
 **Construction date and relationship with downtown branch**: Colored American 1840, cited in Central Park Conservancy 2023; Trustees of African Union Church 1855.  
 **Origin of African Union Church**: Russell 1920.  
 **Birthplace of William Mathew**: USBC 1850; NYSC 1855.  
 **NYC Death Records** are in the Municipal Archives.  
 
-#### 9. Public School House
+### 9. Public School House
 **Attached schoolhouse**: Sage 1856; Freeman 1966, 342, cited in Rosenzweig & Blackmar 1992, 71.  
 **School name and Caroline W. Simpson as teacher**: Valentine 1855, 253. Note: Valentine 1856, 264 lists the teacher as Caroline W. Thompson.  
 **Subjects taught and night schools**: McCabe 1872, 668-669.  
@@ -76,7 +74,7 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **For more about school attendance in Seneca Village versus downtown in “Little Africa”** see Wall, Rothschild, and Copeland 2008.  
 **For more about 19th-century games and toys** see King Manor 2024 and Chudacoff 2007.  
 
-#### 10. AME Zion Church and Greenhouse
+### 10. AME Zion Church and Greenhouse
 **First landowners**: Rosenzweig & Blackmar 1992, 65; Ng 1999, 41, citing Grady Turner, Cynthia Copeland, and Herbert Signoret’s research in the New York City Land Conveyances Grantor Index 1825–1832.  
 **Location of AME Zion’s lands**: Sage 1856.  
 **AME Zion Church history and break from the John Street Church**: Hood 1914, 19-21; Bradley 1956, 81-83.  
@@ -85,7 +83,7 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **Map showing greenhouse**: Sage 1856.  
 **For a short history of the AME Zion Church** see Winchell 2020.  
 
-#### 11. Haff House and Garden
+### 11. Haff House and Garden
 **Smith’s ownership of the land**: NYPTAR 1828–1841; Sage 1838.  
 **Smith in the AME Church**: Bradley 1956, 83.  
 **Levin Smith portrait**: The only known image of a Seneca Village resident is an artist’s portrait of Smith in the collection of Mother AME Zion Church, reproduced in New-York Historical Society Education Department 2010, 17.  
@@ -96,7 +94,7 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **Haff’s gardening prize**: American Institute of the City of New York 1844, 30, cited in Lee and Hunter 2016, 4-5.  
 **Haff’s proprietorship of Elm Park**: Lamb 1884, cited in Lee and Hunter 2016, 4-5.  
 
-#### 12. Williams House
+### 12. Williams House
 **Williams first individual to buy land in village**: New York City Land Conveyances 1630–1975; Rosenzweig & Blackmar 1992, 65.  
 **Place of birth, occupation, and family members**: USBC 1850; NYSC 1855.  
 **Membership in the African Society and AME Zion Church**: Zuille 1892, 27-28; Alexander 2008, 155.  
@@ -104,7 +102,7 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **Williams’s letter**: Williams 1856.  
 **Williams’ descendants**: CBS Sunday Morning 2022.
 
-#### 13. Landin House and Stables
+### 13. Landin House and Stables
 **Landin family’s residence in this structure**: Sage 1856.  
 **Renting to Jacksons**: inferred from NYSC 1855.  
 **Attached stable and other stables in village**: Sage 1856.  
@@ -113,7 +111,7 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **Josiah Landin’s land purchases, rental from Zabriskie, and planting business**: Miller 2022, 188–189.  
 **Landin’s possible relationship with Zabriskie** inferred by Linn from Zabriskie family wills, Ancestry.com. 
 
-#### 14. McCollin Houses
+### 14. McCollin Houses
 **McCollin ownership of properties**: New York City Land Conveyances 1630–1975; NYPTAR 1827–1840; USBC 1850; NYSC 1855; Sage 1856.  
 **Date of construction**: NYPTAR 1830–1840.  
 **Value in 1855**: NYSC 1855.  
@@ -127,7 +125,7 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 
 Our interpretation of the small structures behind these homes as outhouses is speculation based on size and location in comparison to known privies usually located along the rear property lines, see Geismar 1993; Cantwell and Wall 2001, 242-247. 
 
-#### 15. Geary House
+### 15. Geary House
 **Property location and purchase date**: NYPTAR 1849; Sage 1856.  
 **Piazza**: Common Council of the City of New York 1853?.  
 **Geary family Bible**: Ancestry.com.  
@@ -135,34 +133,34 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Geary family names, ages, and occupations in 1855**: NYSC 1855.  
 **Neighboring structures**: Sage 1856.
 
-#### 16. Croton Receiving Reservoir
+### 16. Croton Receiving Reservoir
 **Costliest public works and largest constructions**: calculated by Baics 2016, 46–48 with information from Koeppel 2000, 167–172.  
 **Tourism**: Koeppel 2000, 277.  
 **Drawing of reservoir**: Currier 1842.  
 **Availability of Croton water**: Spann 1981, 120.
 
-#### 17. Mathew House
+### 17. Mathew House
 **Mathew’s ownership of this property**: NYPTAR 1832–1855; Mathew 1855.  
 **Property value and details about household members**: NYSC 1855.  
 **African Union preacher**: Trustees of African Union Church 1855; NYCMDR 1836–1849 (oversaw burials).  
 **Compensation and property improvements**: Mathew 1855,courtesy of Marie Warsh, John Reddick, and the Central Park Conservancy.  
 **Landscape features**: Viele 1855.
 
-#### 18. Garnet House
+### 18. Garnet House
 **Construction date**: NYPTAR 1837.  
 **Value and information about occupants in 1855**: NYSC 1855.  
 **Adjacent fields**: Viele 1855.  
 **Church affiliation**: All Angels’ Church 1846–1858.  
 **Garnet financial trouble and taxes paid by St. Michael’s Church member**: quitclaim to Rev. Peters, courtesy of Paul Johnson; NYPTAR 1845–1855.
 
-#### 19. Sylvan House
+### 19. Sylvan House
 **Basement and stoops**: Sage 1856.  
 **Sylvans living in this house**: Inferred by NYSC 1855 order of households and Sylvan’s ownership of this property from 1829–1840 in NYPTAR 1829–1840; Sage 1838.  
 **Details about the Sylvan and Jimmerson families**: NYSC 1855. Birthplace in Haiti and spelling of daughter’s name “Charlot” suggests family might have been French speaking.  
 **Possible immigration during Haitian Revolution**: Foreman 2016.  
 **Barn**: Sage 1856.
 
-#### 20. Dunn Shanty, Barn, and Stable
+### 20. Dunn Shanty, Barn, and Stable
 **1856 map**: Sage 1856.  
 **Anchoring to bedrock**: Viele 1855.  
 **Dunn family’s origins, ages, names, occupations**: USBC 1850; NYSC 1855.  
@@ -173,7 +171,7 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Rendering of barn and stable** informed by Valentine 1862, 1865; Noble 1984, 16–18.  
 **Nearby stream**: Viele 1855.
 
-#### 21. Sally Wilson House 
+### 21. Sally Wilson House 
 **Location of house and ownership**: Sage 1856; NYPTAR 1844–1855.  
 **Details about Sally Wilson and Sarah Tredwell**: NYSC 1855.  
 **Advertisement**: Freedom's Journal 1829 cited in Miller 2022,192.  
@@ -184,7 +182,7 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Water collection and use of landscape**: Wall et al. 2018, F-44; Linn et al. *in press*.  
 **Newspaper article**: New-York Daily Times 1856, 3. 
 
-#### 22. Webster and Philips Houses
+### 22. Webster and Philips Houses
 **Purchase date**: NYPTAR 1854; Webster 1856.  
 **Philips shanty**: Sage 1856.  
 **Ages, origins, children, occupations**: USBC 1850; NYSC 1855. The 1850 and 1855 censuses give conflicting information about Matilda Philips’s age—both indicate she was 19—and we have been unable to find other sources to clarify the issue.  
@@ -192,39 +190,39 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **McCollins’ land ownership**: NYPTAR 1855; Sage 1856.  
 **Scudder family in village**:  NYPTAR 1833–1843; Sage 1838; USBC 1850. 
 
-#### 23. Webster and Philips House Artifacts
+### 23. Webster and Philips House Artifacts
 **Artifacts excavated**: Wall et al. 2018; New York City Archaeological Repository 2020. See also: Wall et al. 2019 and Linn et al. *in press*.  
 **Plant remains**: Jacobucci and Trigg 2012; McKnight 2014; Wall et al. 2018, 73–74 and F-44–F-50.  
 **Animal remains**: Wall et al. 2018, 70–73; Watson 2018.  
 **Button from man’s coat**: White 2005. 
 
-#### 24. Ishmael Allen Shanty and Shop
+### 24. Ishmael Allen Shanty and Shop
 **Allen’s shanty and shop size and location**: Sage 1856.  
 **Details about Allen family**: NYSC 1855.  
 **Race as a social construction**: see Fields and Fields 2012 and the American Anthropological Association’s 2024 interactive website *Understanding Race*, among myriad other sources.  
 **For a personal reflection upon shifting census categorizations of a family**, see Morris 2017.  
 **For more about blacksmiths in 19th-century free African American communities**, see LaRoche 2014.
 
-#### 25. John White Shanty 
+### 25. John White Shanty 
 **Details about White family**: NYSC 1855.  
 **Shanty size and renting from Wallace**: Sage 1856.  
 **Davis, neighbor**: inferred from NYSC 1855.  
 **Value of homes**: NYSC 1855.  
 **Lucy Celia Wallace inheritance**: Will of Isaac Wallace, Ancestry.com. 
 
-#### 26. Tanner’s Spring
+### 26. Tanner’s Spring
 **Spring location**: Viele 1865; Central Park Conservancy 2023.  
 **Variable accessibility to Croton water**: Spann 1981:120.  
 **William Mathew’s well**: Mathew 1855.  
 **Photograph of Tanner’s Spring**: Smith 1901.
 
-#### 27. Gallagher House and Stable
+### 27. Gallagher House and Stable
 **Gallagher home location**: Sage 1856.  
 **Gallaghers among earliest Irish residents and family details**: USBC 1840; USBC 1850; NYSC 1855.  
 **Naturalization**: NYSC 1855.  
 **Stables**: Sage 1856. 
 
-#### 28. Conclusion: Seneca Village Demolished for Central Park
+### 28. Conclusion: Seneca Village Demolished for Central Park
 **Village’s destruction**: Commissioners of the Central Park 1858; Marie Warsh pers. comm.; Miller 2022.  
 **Recent pre-demolition construction**: New-York Daily Tribune 1853, 7 ; NYDTAR 1853–55.  
 **Petitions**: Mathews 1855; Pease 1855; Quinn 1855; Riddles 1855; Williams 1856; Webster 1856; Wallace 1857?.  

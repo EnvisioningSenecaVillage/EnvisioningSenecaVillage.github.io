@@ -36,8 +36,6 @@ The village’s three churches and a school were located at its center. All Ange
 
 According to the [*Christian Witness and Church Advocate*](/annotation_assets/Christian-Witness-&-Church-Advocate-on-January-4-1850.pdf), inside, there were three windows on each side of the nave and a triplet 7-by-9 ft. east window. The woodwork was pine painted to look like costlier black walnut. The 1855 census estimated that the building could seat two hundred people, but about thirty attended regularly. This church was cardinally aligned, with the altar facing east, unlike all other buildings in the village oriented to the city grid. [All Angels’ Church](https://allangelschurch.com/our-history/) is the only village church with surviving parish records noting baptisms, marriages, and burials. These records provide us with invaluable information about relationships between villagers; a [page from 1850](/annotation_assets/All-Angels'-Sample-of-Records-in-1850.pdf) includes burials and baptisms of members of the interrelated Morris, Riddles, and Wilson families.
 
-![Interior Church Image](/annotation_assets/Annotation-Thumbnail-All-Angels-Interior-View.jpg)  
-*All Angels’ Church Interior, from [All Angels’ Church](https://allangelschurch.com/our-history/)*
 
 ## 6. Wilson Family House
 

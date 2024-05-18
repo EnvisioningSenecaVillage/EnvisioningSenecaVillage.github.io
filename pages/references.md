@@ -16,10 +16,18 @@ About the collaborative historical archaeological project: Wall et al. 2004; Lin
 Archaeological site report: Wall et al. 2018.
 
 #### 2. Nanny Goat Hill
-**Elevation**: Viele 1855. **Name of hill**: Rosenzweig and Blackmar 1992, 66 citing New York Times 1924:16. **Surrounding areas**: Hooker 1828; Dripps 1851, 1852. **Linked illustration “View from Summit Rock West”**: Viele 1857. **Community founded by African Americans**: Rosenzweig and Blackmar 1992, 65–73.
+**Elevation**: Viele 1855.  
+**Name of hill**: Rosenzweig and Blackmar 1992, 66 citing New York Times 1924:16.  
+**Surrounding areas**: Hooker 1828; Dripps 1851, 1852.  
+**Linked illustration “View from Summit Rock West”**: Viele 1857.  
+**Community founded by African Americans**: Rosenzweig and Blackmar 1992, 65–73.  
 
 #### 3. Origins of Seneca Village
-**Initial land purchases**: New York City Land Conveyances 1630–1975; Rosenzweig and Blackmar 1992, 65. **Number of families and composition** calculated by Meredith Linn and Marie Warsh using a variety of primary sources, especially USBC 1850; NYSC 1855; NYPTAR 1828–1855; and Sage 1856. **Churches and schools**: Sage 1856. **Property ownership, self-sufficiency, and village complexity**: Rosenzweig and Blackmar 1992, 65–73; Wall et al. 2008, 2018, 2019; Manevitz 2021; Miller 2022; Linn et al. *in press*. **Slanderous newspaper article**: New-York Daily Times 1856, 3.
+*Initial land purchases*: New York City Land Conveyances 1630–1975; Rosenzweig and Blackmar 1992, 65.  
+*Number of families and composition* calculated by Meredith Linn and Marie Warsh using a variety of primary sources, especially USBC 1850; NYSC 1855; NYPTAR 1828–1855; and Sage 1856.  
+*Churches and schools*: Sage 1856.  
+*Property ownership, self-sufficiency, and village complexity*: Rosenzweig and Blackmar 1992, 65–73; Wall et al. 2008, 2018, 2019; Manevitz 2021; Miller 2022; Linn et al. *in press*.  
+*Slanderous newspaper article*: New-York Daily Times 1856, 3.  
 
 #### 4. All Angels’ Church and Cemetery
 **Number and location of churches**: Sage 1856. **Mission, cost of church, and deeding of property**: Johnson 2023, 17–18. **Linked image of St. Michael’s Church**: French 2021. **Relocation of Church and photos of All Angels’ Church in 1887**: Johnson 2003, 41–42; All Angels’ Church 2020. **Description of church exterior**: Miller 2022:202–203 paraphrasing the Christian Witness and Church Advocate 1850, 186. 

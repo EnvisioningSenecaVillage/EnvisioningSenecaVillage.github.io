@@ -23,7 +23,7 @@ permalink: /readings/
 
 **Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland**. 2018.	*Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)] 
 
-# Online Resources
+## Online Resources
 
 **Central Park Conservancy**. 2018.	[“Before the Park: The Story of Seneca Village.”](https://www.centralparknyc.org/articles/seneca-village)
 

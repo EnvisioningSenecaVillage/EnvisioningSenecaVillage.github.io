@@ -7,7 +7,7 @@ Envisioning and modeling Seneca Village required speculation and making informed
 
 This list details those assumptions. Unless we had evidence for particular buildings or locations, these were applied consistently across the Village allowing for minimal exceptions to produce credible and expected variation.
 
-# Model-wide
+## Model-wide
 
 Many details would have differed day-to-day or season-to-season. We have represented Seneca Village on a spring day, as it might have appeared when the sun came out after a rainstorm to render the streams and foliage more full and visible. The model’s background sky is cropped from Thomas Cole's 1836 oil painting [*The Oxbow*](https://www.metmuseum.org/art/collection/search/10497), representative of the 19th-century Hudson River School. 
 
@@ -15,7 +15,7 @@ Many decisions across the model were informed by photos from the surviving Black
 
 The number of details and refinements we could attempt to imagine are endless. We limited the visualization to the resolution one might see at a distance, to maintain reasonable loading times within a browser and to prevent unnecessary speculation. For instance, the model does not show doorknobs, house gutters, species of individual plants, or three-dimensional crops.
 
-# Buildings
+## Buildings
 
 **Building sizes** are determined by their footprints and height, in number of floors, indicated on the Sage condemnation map. The distances between buildings and the footprint of each building are as accurate (to the inch) as the measurements given on the original drawings. Floor-to-floor heights in frame houses are modeled at ten feet for the ground floor and up to nine feet for higher levels. Shanties’ interiors are modeled with minimum heights of eight feet (at their shortest, beneath a sloped roof).
 
@@ -37,7 +37,7 @@ Wood-frame shanties are modeled with floorboards lifted between 6 and 12 inches 
 
 **Shutters**: We assumed that all homes had shutters. That said, most shutters could be detached and stored during the months when they were not needed. Given our model during the spring, roughly half of the windows are shown with shutters, and the other half without. More expensive houses are shown with painted shutters, made from wood boards fitted together with dovetail joints. Lower valued houses are shown with unpainted shutters (or peeling paint) fitted together with nails and a wooden crossbeam.
 
-# Landscape
+## Landscape
 
 **Trees** (locations and sizes) are based on the Viele map which includes small sketches. Based on the representations within this map, trees were categorized into four types:
 
@@ -53,7 +53,7 @@ Wood-frame shanties are modeled with floorboards lifted between 6 and 12 inches 
 
 **Streams**: The primary sources indicate a stream parallel to what is now Seventh Avenue as well as one running away from Tanner’s Spring. We assume these were seasonal streams and gullies depressed one to two feet below ground and surrounded by vegetation due to better growing conditions near water.
 
-# Human Elements
+## Human Elements
 
 Based on recommendations from our advisory group, the model does not depict people. That said, Seneca Village was not empty, and the model instead shows evidence of human activity. We  aim to indicate how everyday life would have influenced the appearance of the Village including dirt paths, laundry lines, as well as signs of building wear and tear from continuous use. Children’s toys and the tools for various professions are included. Spaces of congregation, such as churches and schools, or other areas with greater foot traffic are reflected on the ground. Wells indicate the common and necessary activity of gathering water at its sources. And animals, along with the fencing they require, speak to both sustenance activities and work.
 

@@ -5,8 +5,6 @@ permalink: /references/
 ---
 Jump to full [Bibliography](#bibliography).
 
-***
-
 ## Annotation Notes
 
 #### 1. Visualizing a Village 

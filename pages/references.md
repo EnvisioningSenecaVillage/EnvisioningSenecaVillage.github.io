@@ -5,7 +5,9 @@ permalink: /references/
 ---
 Jump to full [Bibliography](#bibliography).
 
-# 1. Visualizing a Village 
+# Annotation Notes
+
+## 1. Visualizing a Village 
 Key map sources: Sage 1838, 1856; Dripps 1851; Common Council 1853?; Serrell 1853; Viele 1855.
 
 Key sources about architecture: Valentine 1862, 1865; McAlester and McAlester 1984; Noble 1984; Carter and Cromley 2005.

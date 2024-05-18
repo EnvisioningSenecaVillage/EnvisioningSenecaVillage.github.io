@@ -3,9 +3,9 @@ layout: page
 title: References
 permalink: /references/
 ---
+Jump to full [Bibliography](#bibliography).
 
-# Annotation Notes and Citations
-### 1. Visualizing a Village 
+# 1. Visualizing a Village 
 Key map sources: Sage 1838, 1856; Dripps 1851; Common Council 1853?; Serrell 1853; Viele 1855.
 
 Key sources about architecture: Valentine 1862, 1865; McAlester and McAlester 1984; Noble 1984; Carter and Cromley 2005.
@@ -18,7 +18,7 @@ About the collaborative historical archaeological project: Wall et al. 2004; Lin
 
 Archaeological site report: Wall et al. 2018.
 
-### 2. Nanny Goat Hill
+# 2. Nanny Goat Hill
 Elevation: Viele 1855. Name of hill: Rosenzweig and Blackmar 1992, 66 citing New York Times 1924:16. 
 
 Surrounding areas: Hooker 1828; Dripps 1851, 1852. 
@@ -27,54 +27,174 @@ Linked illustration “View from Summit Rock West”: Viele 1857.
 
 Community founded by African Americans: Rosenzweig and Blackmar 1992, 65–73.
 
-### 3. Origins of Seneca Village
-Initial land purchases: New York City Land Conveyances 1630–1975; Rosenzweig and Blackmar 1992, 65. Number of families and composition calculated by Meredith Linn and Marie Warsh using a variety of primary sources, especially USBC 1850; NYSC 1855; NYPTAR 1828–1855; and Sage 1856. Churches and schools: Sage 1856. Property ownership, self-sufficiency, and village complexity: Rosenzweig and Blackmar 1992, 65–73; Wall et al. 2008, 2018, 2019; Manevitz 2021; Miller 2022; Linn et al. in press. Slanderous newspaper article: New-York Daily Times 1856, 3.
+# 3. Origins of Seneca Village
+Initial land purchases: New York City Land Conveyances 1630–1975; Rosenzweig and Blackmar 1992, 65. 
 
-All Angels’ Church and Cemetery
-Number and location of churches: Sage 1856. Mission, cost of church, and deeding of property: Johnson 2023, 17–18. Linked image of St. Michael’s Church: French 2021. Relocation of Church and photos of All Angels’ Church in 1887: Johnson 2003, 41–42; All Angels’ Church 2020. Description of church exterior: Miller 2022:202–203 paraphrasing the Christian Witness and Church Advocate 1850, 186. Cemetery visualization informed by photograph of sister parish, St. Michael’s Church, in French 2021.
+Number of families and composition calculated by Meredith Linn and Marie Warsh using a variety of primary sources, especially USBC 1850; NYSC 1855; NYPTAR 1828–1855; and Sage 1856. 
 
-All Angels’ Church Interior
-Description of church interior: Christian Witness and Church Advocate 1850 cited in Miller 2022:202–203. Surviving parish records: All Angels’ Church 1846–1858. 
+Churches and schools: Sage 1856. Property ownership, self-sufficiency, and village complexity: Rosenzweig and Blackmar 1992, 65–73; Wall et al. 2008, 2018, 2019; Manevitz 2021; Miller 2022; Linn et al. in press. 
 
-Wilson Family House
-Identification of this structure as the Wilson home and its size: Sage 1856. Construction date: NYPTAR 1849–1852; USBC 1850. House materials: Sage 1856 and Wall et al. 2018, 53–54. Details about Wilson family members and relationships: NYSC 1855; USBC 1850, 1860; All Angels’ Church 1846–1858. Mr. Wilson as sexton: All Angels’ Church 1846–1858; Johnson 2023, 35–36, 45, 47, 61–62. 
+Slanderous newspaper article: New-York Daily Times 1856, 3.
 
-Wilson Family House Artifacts
-Artifacts excavated: Wall et al. 2018; New York City Archaeological Repository 2020. See also: Wall et al. 2019 and Linn et al. in press. Wilson children attending school USBC 1840, 1860. Mrs. Wilson is noted as not able to read or write in the 1850 Federal Census, able to read only in the 1855 New York State Census, and able to both read and write in the 1860 Federal Census. For more about school attendance in Seneca Village versus downtown in “Little Africa,” see Wall, Rothschild, and Copeland 2008. The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021) “Afrofuturist Period Room.”
+# 4. All Angels’ Church and Cemetery
+Number and location of churches: Sage 1856. 
 
- African Union Church 
-Construction date and relationship with downtown branch: Colored American 1840, cited in Central Park Conservancy 2023; Trustees of African Union Church 1855. Origin of African Union Church: Russell 1920. Birthplace of William Mathew: USBC 1850; NYSC 1855. NYC Death Records are in the Municipal Archives. 
+Mission, cost of church, and deeding of property: Johnson 2023, 17–18. 
 
-Public School House
-Attached schoolhouse: Sage 1856; Freeman 1966, 342, cited in Rosenzweig & Blackmar 1992, 71. School name and Caroline W. Simpson as teacher: Valentine 1855, 253. Note, Valentine 1856, 264 lists the teacher as Caroline W. Thompson. Subjects taught and night schools: McCabe 1872, 668-669. Founding and importance of African Free Schools: MAAP 2024.  Engraving of African Free School #2 on Mulberry and Grand Street, opened in 1820: Schomburg Center for Research in Black Culture, Manuscripts, Archives, and Rare Books Division, the NYPL. Available online from MAAP 2024. For more about African Free Schools, and another “Colored School,” #4 on West 17th Street, see Washington 2022. For more about school attendance in Seneca Village versus downtown in “Little Africa,” see Wall, Rothschild, and Copeland 2008. For more about 19th-century games and toys see: King Manor 2024 and Chudacoff 2007.
+Linked image of St. Michael’s Church: French 2021. 
 
-AME Zion Church & Greenhouse
-First landowners: Rosenzweig & Blackmar 1992, 65; Ng 1999, 41, citing Grady Turner, Cynthia Copeland, and Herbert Signoret’s research in the New York City Land Conveyances Grantor Index 1825–1832. Location of AME Zion’s lands: Sage 1856. AME Zion Church history and break from the John Street Church: Hood 1914, 19-21; Bradley 1956, 81-83. GPR Testing: Conyers 2005. Laying of cornerstone: New-York Daily Tribune 1853, 7. Map showing greenhouse: Sage 1856. For a short history of the AME Zion Church, see Winchell 2020.
+Relocation of Church and photos of All Angels’ Church in 1887: Johnson 2003, 41–42; All Angels’ Church 2020. 
 
-Haff House and Garden
-Smith’s ownership of the land: NYPTAR 1828–1841; Sage 1838. Smith in the AME Church: Bradley 1956, 83. Levin Smith portrait: The only known image of a Seneca Village resident is an artist’s portrait of Smith in the collection of Mother AME Zion Church, reproduced in New-York Historical Society Education Department 2010, 17. Haff’s ownership: NYPTAR 1842–1857; USBC 1850; NYSC 1855; Sage 1856; Miller 2022, 189-190. Haff family names: NYSC 1855. Relationship to Rev. Stillwell: 1831 marriage announcement Sawyer 1931, 11. Rev. Stillwell’s relationship to AME Zion Church: Hood 1914, 19-21; Bradley 1956, 81-83. Haff’s gardening prize: American Institute of the City of New York 1844, 30, cited in Lee and Hunter 2016, 4-5. Haff’s proprietorship of Elm Park: Lamb 1884, cited in Lee and Hunter 2016, 4-5.
+Description of church exterior: Miller 2022:202–203 paraphrasing the Christian Witness and Church Advocate 1850, 186. 
 
-Williams House
-Williams first individual to buy land in village: New York City Land Conveyances 1630–1975; Rosenzweig & Blackmar 1992, 65. Place of birth, occupation, and family members: USBC 1850; NYSC 1855. Membership in the African Society and AME Zion Church: Zuille 1892, 27-28; Alexander 2008, 155. Residence of Ellen Williams Butler: inferred from NYSC 1855; Sage 1856; and family relationship. Williams’s letter: Williams 1856. Williams’ descendants: CBS Sunday Morning 2022.
+Cemetery visualization informed by photograph of sister parish, St. Michael’s Church, in French 2021.
 
-Landin House & Stables
-Landin family’s residence in this structure: Sage 1856. Renting to Jacksons: inferred from NYSC 1855. Attached stable and other stables in village: Sage 1856. Landin family, ages, and places of birth: USBC 1850; NYSC 1855. Baptisms and marriage of Sarah Landin to John Peterson: All Angels’ Church 1846–1858. Josiah Landin’s land purchases, rental from Zabriskie, and planting business: Miller 2022, 188–189. Landin’s possible relationship with Zabriskie inferred by Linn from Zabriskie family wills, Ancestry.com.
+# 5. All Angels’ Church Interior
+Description of church interior: Christian Witness and Church Advocate 1850 cited in Miller 2022:202–203. 
 
-McCollin Houses
-McCollin ownership of properties: New York City Land Conveyances
-1630–1975; NYPTAR 1827–1840; USBC 1850; NYSC 1855; Sage 1856. Date of construction: NYPTAR 1830–1840. Value in 1855: NYSC 1855. Dimensions of houses: Sage 1856. First names, ages, and occupations: USBC 1850; NYSC 1855. Elizabeth Harding McCollins’s land purchases and properties: New York City Land Conveyances 1630–1975; Sage 1838, 1856. Marriage: Methodist Marriage Register for the City of New York 1819–1837, 102. Our interpretation of the small structures behind these homes as outhouses is speculation based on size and location in comparison to known privies usually located along the rear property lines, see Geismar 1993; Cantwell and Wall 2001, 242-247. Property once owned by Diana Harding: Sage 1856. Possible enslavement of Samuel Harding: Miller 2022, 172. House residents in 1855: NYSC 1855.
+Surviving parish records: All Angels’ Church 1846–1858. 
 
+# 6. Wilson Family House
+Identification of this structure as the Wilson home and its size: Sage 1856. 
 
-Geary House
-Property location and purchase date: NYPTAR 1849; Sage 1856. Piazza: Common Council of the City of New York 1853?. Geary family Bible:Ancestry.com. Roman Catholicism: Several of the Geary children were baptized in the Roman Catholic Church in St. Patrick’s Old Cathedral and St. Peter’s, Archdiocese of New York 1831. .Geary family names, ages, and occupations in 1855: NYSC 1855. Neighboring structures: Sage 1856.
+Construction date: NYPTAR 1849–1852; USBC 1850. 
 
-Croton Receiving Reservoir
-Costliest public works and largest constructions: calculated by Baics 2016, 46–48 with information from Koeppel 2000, 167–172.  Tourism: Koeppel 2000, 277.Drawing of reservoir: Currier 1842. Availability of Croton water: Spann 1981, 120.
+House materials: Sage 1856 and Wall et al. 2018, 53–54. 
 
-Mathew House
-Mathew’s ownership of this property: NYPTAR 1832–1855; Mathew 1855. Property value and details about household members: NYSC 1855. African Union preacher: Trustees of African Union Church 1855; NYCMDR 1836–1849 (oversaw burials). Compensation and property improvements: Mathew 1855,courtesy of Marie Warsh, John Reddick, and the Central Park Conservancy. Landscape features: Viele 1855.
+Details about Wilson family members and relationships: NYSC 1855; USBC 1850, 1860; All Angels’ Church 1846–1858. 
 
-Garnet House
+Mr. Wilson as sexton: All Angels’ Church 1846–1858; Johnson 2023, 35–36, 45, 47, 61–62. 
+
+# 7. Wilson Family House Artifacts
+Artifacts excavated: Wall et al. 2018; New York City Archaeological Repository 2020. See also: Wall et al. 2019 and Linn et al. *in press*. 
+
+Wilson children attending school USBC 1840, 1860. Mrs. Wilson is noted as not able to read or write in the 1850 Federal Census, able to read only in the 1855 New York State Census, and able to both read and write in the 1860 Federal Census. For more about school attendance in Seneca Village versus downtown in “Little Africa,” see Wall, Rothschild, and Copeland 2008. The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021) “Afrofuturist Period Room.”
+
+# 8. African Union Church 
+Construction date and relationship with downtown branch: Colored American 1840, cited in Central Park Conservancy 2023; Trustees of African Union Church 1855. 
+
+Origin of African Union Church: Russell 1920. Birthplace of William Mathew: USBC 1850; NYSC 1855. NYC Death Records are in the Municipal Archives.
+
+# 9. Public School House
+Attached schoolhouse: Sage 1856; Freeman 1966, 342, cited in Rosenzweig & Blackmar 1992, 71. 
+
+School name and Caroline W. Simpson as teacher: Valentine 1855, 253. Note, Valentine 1856, 264 lists the teacher as Caroline W. Thompson. 
+
+Subjects taught and night schools: McCabe 1872, 668-669. Founding and importance of African Free Schools: MAAP 2024.  
+
+Engraving of African Free School #2 on Mulberry and Grand Street, opened in 1820: Schomburg Center for Research in Black Culture, Manuscripts, Archives, and Rare Books Division, the NYPL. Available online from MAAP 2024. 
+
+For more about African Free Schools, and another “Colored School,” #4 on West 17th Street, see Washington 2022. 
+
+For more about school attendance in Seneca Village versus downtown in “Little Africa,” see Wall, Rothschild, and Copeland 2008. 
+
+For more about 19th-century games and toys see: King Manor 2024 and Chudacoff 2007.
+
+# 10. AME Zion Church & Greenhouse
+First landowners: Rosenzweig & Blackmar 1992, 65; Ng 1999, 41, citing Grady Turner, Cynthia Copeland, and Herbert Signoret’s research in the New York City Land Conveyances Grantor Index 1825–1832. 
+
+Location of AME Zion’s lands: Sage 1856. AME Zion Church history and break from the John Street Church: Hood 1914, 19-21; Bradley 1956, 81-83. GPR Testing: Conyers 2005. 
+
+Laying of cornerstone: New-York Daily Tribune 1853, 7. Map showing greenhouse: Sage 1856. For a short history of the AME Zion Church, see Winchell 2020.
+
+# 11. Haff House and Garden
+Smith’s ownership of the land: NYPTAR 1828–1841; Sage 1838. Smith in the AME Church: Bradley 1956, 83. 
+
+Levin Smith portrait: The only known image of a Seneca Village resident is an artist’s portrait of Smith in the collection of Mother AME Zion Church, reproduced in New-York Historical Society Education Department 2010, 17. 
+
+Haff’s ownership: NYPTAR 1842–1857; USBC 1850; NYSC 1855; Sage 1856; Miller 2022, 189-190. 
+
+Haff family names: NYSC 1855. 
+
+Relationship to Rev. Stillwell: 1831 marriage announcement Sawyer 1931, 11. 
+
+Rev. Stillwell’s relationship to AME Zion Church: Hood 1914, 19-21; Bradley 1956, 81-83. 
+
+Haff’s gardening prize: American Institute of the City of New York 1844, 30, cited in Lee and Hunter 2016, 4-5. 
+
+Haff’s proprietorship of Elm Park: Lamb 1884, cited in Lee and Hunter 2016, 4-5.
+
+# 12. Williams House
+Williams first individual to buy land in village: New York City Land Conveyances 1630–1975; Rosenzweig & Blackmar 1992, 65. 
+
+Place of birth, occupation, and family members: USBC 1850; NYSC 1855. 
+
+Membership in the African Society and AME Zion Church: Zuille 1892, 27-28; Alexander 2008, 155. 
+
+Residence of Ellen Williams Butler: inferred from NYSC 1855; Sage 1856; and family relationship. 
+
+Williams’s letter: Williams 1856. 
+
+Williams’ descendants: CBS Sunday Morning 2022.
+
+# 13. Landin House & Stables
+Landin family’s residence in this structure: Sage 1856. 
+
+Renting to Jacksons: inferred from NYSC 1855. 
+
+Attached stable and other stables in village: Sage 1856. 
+
+Landin family, ages, and places of birth: USBC 1850; NYSC 1855. 
+
+Baptisms and marriage of Sarah Landin to John Peterson: All Angels’ Church 1846–1858. 
+
+Josiah Landin’s land purchases, rental from Zabriskie, and planting business: Miller 2022, 188–189. 
+
+Landin’s possible relationship with Zabriskie inferred by Linn from Zabriskie family wills, Ancestry.com.
+
+# 14. McCollin Houses
+McCollin ownership of properties: New York City Land Conveyances 1630–1975; NYPTAR 1827–1840; USBC 1850; NYSC 1855; Sage 1856. 
+
+Date of construction: NYPTAR 1830–1840. 
+
+Value in 1855: NYSC 1855. 
+
+Dimensions of houses: Sage 1856. 
+
+First names, ages, and occupations: USBC 1850; NYSC 1855. 
+
+Elizabeth Harding McCollins’s land purchases and properties: New York City Land Conveyances 1630–1975; Sage 1838, 1856. 
+
+Marriage: Methodist Marriage Register for the City of New York 1819–1837, 102. 
+
+Our interpretation of the small structures behind these homes as outhouses is speculation based on size and location in comparison to known privies usually located along the rear property lines, see Geismar 1993; Cantwell and Wall 2001, 242-247. 
+
+Property once owned by Diana Harding: Sage 1856. 
+
+Possible enslavement of Samuel Harding: Miller 2022, 172. 
+
+House residents in 1855: NYSC 1855.
+
+# 15. Geary House
+Property location and purchase date: NYPTAR 1849; Sage 1856. 
+
+Piazza: Common Council of the City of New York 1853?. 
+
+Geary family Bible: Ancestry.com. 
+
+Roman Catholicism: Several of the Geary children were baptized in the Roman Catholic Church in St. Patrick’s Old Cathedral and St. Peter’s, Archdiocese of New York 1831. 
+
+Geary family names, ages, and occupations in 1855: NYSC 1855. 
+
+Neighboring structures: Sage 1856.
+
+# 16. Croton Receiving Reservoir
+Costliest public works and largest constructions: calculated by Baics 2016, 46–48 with information from Koeppel 2000, 167–172.
+
+Tourism: Koeppel 2000, 277.Drawing of reservoir: Currier 1842. Availability of Croton water: Spann 1981, 120.
+
+# 17. Mathew House
+Mathew’s ownership of this property: NYPTAR 1832–1855; Mathew 1855.
+
+Property value and details about household members: NYSC 1855. 
+
+African Union preacher: Trustees of African Union Church 1855; NYCMDR 1836–1849 (oversaw burials).
+
+Compensation and property improvements: Mathew 1855,courtesy of Marie Warsh, John Reddick, and the Central Park Conservancy.
+
+Landscape features: Viele 1855.
+
+# 18. Garnet House
 Construction date: NYPTAR 1837. Value and information about occupants in 1855: NYSC 1855. Adjacent fields: Viele 1855. Church affiliation: All Angels’ Church 1846–1858. Garnet financial trouble and taxes paid by St. Michael’s Church member: quitclaim to Rev. Peters, courtesy of Paul Johnson; NYPTAR 1845–1855.
 
 Sylvan House

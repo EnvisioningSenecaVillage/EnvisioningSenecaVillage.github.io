@@ -14,6 +14,8 @@ permalink: /references/
 
 **American Institute of the City of New York**. 1844. *Annual Report of the American Institute of the City of New York Made to the Legislature for the Year 1843.* Albany, NY: E. Mack. [[Google Books](https://books.google.co.mz/books?id=IJwZAQAAIAAJ)]
 
+**Archdiocese of New York**. 1829, 1831, 1835. New York Roman Catholic Parish Baptisms. [FindMyPast](https://search.findmypast.com/search-world-records/new-york-roman-catholic-parish-baptisms).
+
 **Baics, Gergely**. 2016. *Feeding Gotham: The Political Economy and Geography of Food in New York, 1790–1860.* Princeton, NJ: Princeton University Press.
 
 **Bradley, David Henry**. 1956. *A History of the A.M.E. Zion Church. Vol. Part I: 1796-1872.* Nashville, TN: The Parthenon Press. Electronic version available at [Internet Archive](https://archive.org/details/historyofamezion00brad/page/n3/mode/2up).
@@ -72,6 +74,8 @@ Accessed May 5, 2024.
 **Johnson, Paul Lee**. 2023. *With Gladness and Singleness of Heart: A History of All Angels’ Church.* New York, NY: All Angels’ Press.
 
 **King Manor**. 2024. “[Playtime in the 19th Century](https://www.kingmanor.org/19thcenturyplaytime).” King Manor in Context. King Manor, Jamaica, New York. Accessed May 3, 2024.
+
+**Koeppel, Gerard T**. 2000. *Water for Gotham: A History*. Princeton, NJ: Princeton University Press.
 
 **Lamb, Martha J**. 1884. Riverside Park: The Fashionable Drive of the Future. *The Manhattan* 4:52-61.
 
@@ -145,7 +149,13 @@ Accessed May 5, 2024.
 
 --. 1856. *Central Park Condemnation Map.* Municipal Archives, New York, NY.
 
+**Sawyer, Ray C.** (editor). 1931. Marriages Published in the *Christian Intelligencer of the Reformed Dutch Church* from 1830–1871. Vol. 1. Ancestry.com. *U.S., Newspaper Extractions from the Northeast, 1704–1930*. [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc.
+
 **Serrell, James E**. 1853.	[*Maps & Profiles of Ground for New Reservoir Situated Between 86th and 96th Streets and Between 5th And 7th Avenues.*](https://digitalcollections.nypl.org/items/5e66b3e8-76ad-d471-e040-e00a180654d7) New York Public Library Digital Collections. Lionel Pincus and Princess Firyal Map Division, The New York Public Library.
+
+**Smith, James Reuel**. 1901. “Old buried section of ‘Dr. Tanner’s Well’ [Tanner’s Spring], Central Park, in line with W. 82nd Street, New York City, October 26, 1901.” Photograph. Collection of the New-York Historical Society. [nyhs_PR062_b-09_f-28_P-277a](https://digitalcollections.nyhistory.org/islandora/object/nyhs%3A11513).
+
+**Spann, Edward K.** 1981. *The New Metropolis: New York City 1840–1857*. New York, NY: Columbia University Press.
 
 **Trustees of African Union Church**. 1855.	Affidavit of Petition (letter). Signed by Thomas Scudder, William Mathew, and Allen Cook. Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 

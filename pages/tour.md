@@ -27,12 +27,8 @@ In 1825, just before emancipation in NY state, a few African American men and wo
 
 **model image**
 
-The village’s three churches and a school were located at its center. All Angels’ Episcopal Church was a racially integrated “mission” church of the wealthy white [St. Michael's Church in Bloomingdale](/annotation_assets/St.-Michael's-Bloomingdale-cemetery-and-church-built-1807.jpg.jpeg), whose clergy created a Sunday school in the village in 1833. By 1847, Rev. Thomas McClure Peters held church services in the home of white villagers William and Frances Evers. The church was built in 1849 for $2000 on property four Ludlow family sisters deeded for $1 to “always be used…solely for a site of a Protestant Episcopal Church…and for a place for the burial of deceased members of the Church.” In 1857, the church was moved and reassembled at 81st St. and 11th Ave. 
+The village’s three churches and a school were located at its center. All Angels’ Episcopal Church was a racially integrated “mission” church of the wealthy white [St. Michael's Church in Bloomingdale](/annotation_assets/St.-Michael's-Bloomingdale-cemetery-and-church-built-1807.jpg.jpeg), whose clergy created a Sunday school in the village in 1833. By 1847, Rev. Thomas McClure Peters held church services in the home of white villagers William and Frances Evers. The church was built in 1849 for $2000 on property four Ludlow family sisters deeded for $1 to “always be used…solely for a site of a Protestant Episcopal Church…and for a place for the burial of deceased members of the Church.” In 1857, the church was moved and reassembled at 81st St. and 11th Ave. [Photos from 1887](https://allangelschurch.com/our-history/) and an 1850 Christian Witness and Church Advocate article inform our model that includes a fence, “quatrefoil window, peaked gable, and turret enclosing a small bell.” The cemetery was the final resting place of many villagers.
 
-![All Angels' Church Exterior](https://envisioningsenecavillage.github.io/annotation_assets/Annotation-Thumbnail-All-Angels-Exterior.jpg)  
-*All Angels’ Church Exterior, from [All Angels’ Church](https://allangelschurch.com/our-history/)*
-
-Photos from 1887 (such as the image above) and an 1850 Christian Witness and Church Advocate article inform our model that includes a fence, “quatrefoil window, peaked gable, and turret enclosing a small bell.” The cemetery was the final resting place of many villagers.
 
 ## 5. All Angels' Episcopal Church Interior
 
@@ -122,7 +118,7 @@ Owned by William M. Mathew, this home was one of the three highest-valued in the
 
 The home the Garnets built in 1837 was valued at $4000 in 1855 and was among the village’s highest-valued (with the Mathews’ and McCollinses’). In 1855, Henry Garnet, 88, and wife Eliza, 61, both born in Maryland, lived with their niece, Mary Harris, 15 and a domestic, and a younger couple from Maryland, William and Anna McClaury. Mr. Garnet was a gardener and cultivated nearby fields. The Garnets fell into financial trouble in the 1840s, likely because Mr. Garnet’s age limited the amount of work he could do and women’s wages were very low. All Angels’ Church assisted them: first, a wealthy member of St. Michael's paid their taxes; then, in 1851, Mr. Garnet took out a mortgage from Father Thomas McClure Peters of All Angels; and in 1853, the Garnets [gave their property deed to him](/annotation_assets/Garnet-Peters-Deed-Pages-1-2.pdf). The church’s willingness to help the Garnets stay in their home suggests they were respected and valued members of the community. 
 
-19. Sylvan House
+## 19. Sylvan House
 
 **model image**
 
@@ -152,9 +148,6 @@ George Webster purchased this large highly valued home with a basement, built ca
 
 Archaeologists excavated in the yard between the two homes, finding traces of both: chimney bricks, window glass, and iron nails. They also found pollen and plant remains indicating nearby food sources: berries (elderberry, raspberry, mulberry), nuts (chestnuts, walnuts), and edible plants (purslane), as well as medicinal herbs (goosefoot). Sheep, cow, and pig bones, ranging from head to hoof, suggest animals raised for food. Other artifacts hint at fashionable personal tastes and possibly wedding gifts, such as a [gilded copper furniture ornament](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210727-copper-alloy-escutcheon), a [gilded brass button](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210737-copper-alloy-button) likely from a man’s coat sleeve, a [gilded Chinese porcelain saucer](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210577-printed-nanking-style-soft-paste-porcelain-saucer), and a [printed English teapot](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210415-printed-gothic-style-whiteware-teapot) depicting the countryside near Florence, Italy (below). The teaware as well as [tobacco pipes](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210749-indian-figure-smoking-pipe-bowl) and an [ale bottle](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210656-h-b-kilmer-philadelphia-porter-glass-beer-bottle) evoke hosting friends and relaxing after work. 
 
-![Webster Phillips Teapot](/annotation_assets/Annotation-Thumbnail-Webster-Philips-Teapot.jpg)
-*Teapot found between the Webster and Philips houses (from [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210415-printed-gothic-style-whiteware-teapot))*
-
 ## 24. Ishmael Allen Shanty & Shop
 
 **model image**
@@ -172,9 +165,6 @@ Nearby, John White, a 62-year-old widower and Delaware-born sailor, lived in thi
 **model image**
 
 Southwest of Davis and White’s “shanties” was a natural spring, an important source of drinking water at a time when clean water was not accessible to all people in the city. Despite the success of the Croton water system and the proximity of its imposing reservoir, Seneca Villagers, like many other New Yorkers, did not have Croton water piped to their homes. William Matthew had a well that he paid someone the then substantial sum of $50 to dig on his property. It is possible that other villagers did so too, while others collected rainwater in barrels or cisterns, or hauled it from this spring. Dubbed [“Tanner’s Spring”](/annotation_assets/Tanner's-Spring-NYHS.jpeg) in 1880, this was a place where groundwater continuously flowed up through the bedrock. Villagers would have kept the pool of water clean by containing and covering it with stones or wooden boards. The spring is still visible in the park today, but its appearance has been altered over time.
-
-![Tanner's Spring](/annotation_assets/Annotation-Thumbnail-Tanner-Spring-Photo.jpg)
-*Tanner’s Spring, Smith 1901. (from the [NY Historical Society](https://digitalcollections.nyhistory.org/islandora/object/nyhs%3A11513))*
 
 ## 27. Gallagher House & Stable
 

@@ -5,9 +5,12 @@ permalink: /references/
 ---
 Jump to full [Bibliography](#bibliography).
 
-# Annotation Notes
+# this is h1
 
-## 1. Visualizing a Village 
+## this is h2
+
+# 1. Visualizing a Village 
+
 Key map sources: Sage 1838, 1856; Dripps 1851; Common Council 1853?; Serrell 1853; Viele 1855.
 
 Key sources about architecture: Valentine 1862, 1865; McAlester and McAlester 1984; Noble 1984; Carter and Cromley 2005.
@@ -20,7 +23,8 @@ About the collaborative historical archaeological project: Wall et al. 2004; Lin
 
 Archaeological site report: Wall et al. 2018.
 
-# 2. Nanny Goat Hill
+## 2. Nanny Goat Hill
+
 Elevation: Viele 1855. Name of hill: Rosenzweig and Blackmar 1992, 66 citing New York Times 1924:16. 
 
 Surrounding areas: Hooker 1828; Dripps 1851, 1852. 

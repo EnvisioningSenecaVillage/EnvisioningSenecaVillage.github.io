@@ -32,7 +32,7 @@ The village’s three churches and a school were located at its center. All Ange
 ![All Angels' Church Exterior](https://envisioningsenecavillage.github.io/annotation_assets/Annotation-Thumbnail-All-Angels-Exterior.jpg)  
 *All Angels’ Church Exterior, from [All Angels’ Church](https://allangelschurch.com/our-history/)*
 
-Photos from 1887 (such as the image above) and an 1850 Christian Witness and Church Advocate article inform our model that includes a fence, “quatrefoil window, peaked gable, and turret enclosing a small bell.” The cemetery was the final resting place of many villagers. ([Notes](https://envisioningsenecavillage.github.io/references#4-all-angels-church-and-cemetary))
+Photos from 1887 (such as the image above) and an 1850 Christian Witness and Church Advocate article inform our model that includes a fence, “quatrefoil window, peaked gable, and turret enclosing a small bell.” The cemetery was the final resting place of many villagers. ([Notes](https://envisioningsenecavillage.github.io/references#4-all-angels-church-and-cemetery))
 
 ## 5. All Angels' Episcopal Church Interior
 

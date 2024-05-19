@@ -5,8 +5,6 @@ permalink: /tour/
 ---
 A non-interactive version of the tour through the Seneca Village model is presented below, with its annotations. See [References](/references) for notes and citations for each entry.
 
-[testlink](#17-mathew-house)
-
 ## 1. Visualizing a Village
 
 **model image**

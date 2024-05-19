@@ -29,18 +29,19 @@ This page includes the references cited and notes per annotation in the 3D model
 **Number of families and composition** calculated by Meredith Linn and Marie Warsh using a variety of primary sources, especially USBC 1850; NYSC 1855; NYPTAR 1828–1855; and Sage 1856.  
 **Churches and schools**: Sage 1856.  
 **Property ownership, self-sufficiency, and village complexity**: Rosenzweig and Blackmar 1992, 65–73; Wall et al. 2008, 2018, 2019; Manevitz 2021; Miller 2022; Linn et al. *in press*.  
-**Slanderous newspaper article**: New-York Daily Times 1856, 3.  
+**Slanderous newspaper article**: *New-York Daily Times* 1856, 3.  
 
 ### 4. All Angels’ Church and Cemetery
 **Number and location of churches**: Sage 1856.  
 **Mission, cost of church, and deeding of property**: Johnson 2023, 17–18.  
 **Linked image of St. Michael’s Church**: French 2021.  
-**Relocation of Church and photos of All Angels’ Church in 1887**: Johnson 2003, 41–42; All Angels’ Church 2020.  
-**Description of church exterior**: Miller 2022:202–203 paraphrasing the Christian Witness and Church Advocate 1850, 186.  
-**Cemetery visualization** informed by photograph of sister parish, St. Michael’s Church, in French 2021.  
+**Relocation of Church and photo of All Angels’ Church exterior in 1887**: Johnson 2003, 41–42; All Angels’ Church 2020.  
+**Description of church exterior**: Miller 2022:202–203 paraphrasing the *Christian Witness and Church Advocate* 1850, 186.  
+**Cemetery visualization** informed by photograph of sister parish, St. Michael’s Church, in French 2021. 
 
 ### 5. All Angels’ Church Interior
-**Description of church interior**: Christian Witness and Church Advocate 1850 cited in Miller 2022:202–203.  
+**Description of church interior**: *Christian Witness and Church Advocate* 1850 cited in Miller 2022:202–203.  
+**Photo of All Angels’ Church interior in 1887**: Johnson 2003, 41–42; All Angels’ Church 2020.  
 **Surviving parish records**: All Angels’ Church 1846–1858.  
 
 ### 6. Wilson Family House
@@ -66,20 +67,22 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 
 ### 9. Public School House
 **Attached schoolhouse**: Sage 1856; Freeman 1966, 342, cited in Rosenzweig & Blackmar 1992, 71.  
-**School name and Caroline W. Simpson as teacher**: Valentine 1855, 253. Note: Valentine 1856, 264 lists the teacher as Caroline W. Thompson.  
+**School name and Caroline W. Simpson as teacher**: Valentine 1855, 253. Note, Valentine 1856, 264 lists the teacher as Caroline W. Thompson.  
 **Subjects taught and night schools**: McCabe 1872, 668-669.  
 **Founding and importance of African Free Schools**: MAAP 2024.  
+**African Free Schools as precursor to and relationship with NYC public school system**: Mccarthy 2014.  
 **Engraving of African Free School #2 on Mulberry and Grand Street, opened in 1820**: Schomburg Center for Research in Black Culture, Manuscripts, Archives, and Rare Books Division, the NYPL. Available online from MAAP 2024.  
 **For more about African Free Schools, and another “Colored School,” #4 on West 17th Street**, see Washington 2022.  
-**For more about school attendance in Seneca Village versus downtown in “Little Africa”** see Wall, Rothschild, and Copeland 2008.  
-**For more about 19th-century games and toys** see King Manor 2024 and Chudacoff 2007.  
+**For more about school attendance in Seneca Village versus downtown in “Little Africa,”** see Wall, Rothschild, and Copeland 2008.  
+**For more about 19th-century games and toys**, see King Manor 2024 and Chudacoff 2007.
+
 
 ### 10. AME Zion Church and Greenhouse
 **First landowners**: Rosenzweig & Blackmar 1992, 65; Ng 1999, 41, citing Grady Turner, Cynthia Copeland, and Herbert Signoret’s research in the New York City Land Conveyances Grantor Index 1825–1832.  
 **Location of AME Zion’s lands**: Sage 1856.  
 **AME Zion Church history and break from the John Street Church**: Hood 1914, 19-21; Bradley 1956, 81-83.  
 **GPR Testing**: Conyers 2005.  
-**Laying of cornerstone**: New-York Daily Tribune 1853, 7.  
+**Laying of cornerstone**: *New-York Daily Tribune* 1853, 7.  
 **Map showing greenhouse**: Sage 1856.  
 **For a short history of the AME Zion Church** see Winchell 2020.  
 
@@ -128,10 +131,10 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 ### 15. Geary House
 **Property location and purchase date**: NYPTAR 1849; Sage 1856.  
 **Piazza**: Common Council of the City of New York 1853?.  
-**Geary family Bible**: Ancestry.com.  
+**Geary family Bible**:Ancestry.com.  
 **Roman Catholicism**: Several of the Geary children were baptized in the Roman Catholic Church in St. Patrick’s Old Cathedral and St. Peter’s, Archdiocese of New York 1831.  
-**Geary family names, ages, and occupations in 1855**: NYSC 1855.  
-**Neighboring structures**: Sage 1856.
+**Geary family names, ages, and occupations in 1855**: NYSC 1855. Neighboring structures: Sage 1856.
+
 
 ### 16. Croton Receiving Reservoir
 **Costliest public works and largest constructions**: calculated by Baics 2016, 46–48 with information from Koeppel 2000, 167–172.  
@@ -143,7 +146,7 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Mathew’s ownership of this property**: NYPTAR 1832–1855; Mathew 1855.  
 **Property value and details about household members**: NYSC 1855.  
 **African Union preacher**: Trustees of African Union Church 1855; NYCMDR 1836–1849 (oversaw burials).  
-**Compensation and property improvements**: Mathew 1855,courtesy of Marie Warsh, John Reddick, and the Central Park Conservancy.  
+**Compensation and property improvements**: Mathew 1855, courtesy of Marie Warsh, John Reddick, and the Central Park Conservancy.  
 **Landscape features**: Viele 1855.
 
 ### 18. Garnet House
@@ -174,13 +177,13 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 ### 21. Sally Wilson House 
 **Location of house and ownership**: Sage 1856; NYPTAR 1844–1855.  
 **Details about Sally Wilson and Sarah Tredwell**: NYSC 1855.  
-**Advertisement**: Freedom's Journal 1829 cited in Miller 2022,192.  
+**Advertisement**: *Freedom's Journal* 1829 cited in Miller 2022, 192.  
 **Value of house in 1855**: NYSC 1855.  
 **Importance of chickens**: Williams-Forson 2006.  
 **Village dogs**: Peters 1907, 94–95.  
 **Planted fields**: Viele 1855.  
 **Water collection and use of landscape**: Wall et al. 2018, F-44; Linn et al. *in press*.  
-**Newspaper article**: New-York Daily Times 1856, 3. 
+**Newspaper article**: *New-York Daily Times* 1856, 3. 
 
 ### 22. Webster and Philips Houses
 **Purchase date**: NYPTAR 1854; Webster 1856.  
@@ -206,6 +209,7 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 ### 25. John White Shanty 
 **Details about White family**: NYSC 1855.  
 **Shanty size and renting from Wallace**: Sage 1856.  
+**African Americans in maritime industries**: Bolster 1998.  
 **Davis, neighbor**: inferred from NYSC 1855.  
 **Value of homes**: NYSC 1855.  
 **Lucy Celia Wallace inheritance**: Will of Isaac Wallace, Ancestry.com. 
@@ -223,8 +227,8 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Stables**: Sage 1856. 
 
 ### 28. Conclusion: Seneca Village Demolished for Central Park
-**Village’s destruction**: Commissioners of the Central Park 1858; Marie Warsh pers. comm.; Miller 2022.  
-**Recent pre-demolition construction**: New-York Daily Tribune 1853, 7 ; NYDTAR 1853–55.  
+**Village’s destruction**: Commissioners of the Central Park 1858; Marie Warsh *pers. comm.*; Miller 2022.  
+**Recent pre-demolition construction**: *New-York Daily Tribune* 1853, 7 ; NYDTAR 1853–55.  
 **Petitions**: Mathews 1855; Pease 1855; Quinn 1855; Riddles 1855; Williams 1856; Webster 1856; Wallace 1857?.  
 **After Seneca Village**: USBC 1860; USBC 1870; and also for the Wilsons, Johnson 2023, 35–36, 45, 47, 61–62.
 
@@ -245,6 +249,8 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Archdiocese of New York**. 1829, 1831, 1835. New York Roman Catholic Parish Baptisms. [FindMyPast](https://search.findmypast.com/search-world-records/new-york-roman-catholic-parish-baptisms).
 
 **Baics, Gergely**. 2016. *Feeding Gotham: The Political Economy and Geography of Food in New York, 1790–1860.* Princeton, NJ: Princeton University Press.
+
+**Bolster, W. Jeffrey**. 1998.	*Black Jacks: African American Seamen in the Age of Sail.* Cambridge, MA: Harvard University Press.
 
 **Bradley, David Henry**. 1956. *A History of the A.M.E. Zion Church. Vol. Part I: 1796-1872.* Nashville, TN: The Parthenon Press. Electronic version available at [Internet Archive](https://archive.org/details/historyofamezion00brad/page/n3/mode/2up).
 
@@ -326,6 +332,8 @@ Accessed May 5, 2024.
 **McAlester, Virginia and Lee McAlester**. 1984. *A Field Guide to American Houses.* 1991 reprint. New York, NY: Alfred A. Knopf.
 
 **McCabe, James D**. 1872. *Lights and Shadows of New York Life; Or, the Sights and Sensations of a Great City.* Philadelphia, PA: National Publishing Company. Available from [Project Gutenberg](https://www.gutenberg.org/files/19642/19642-h/19642-h.htm). Accessed May 4, 2024.
+
+**Mccarthy, Andy**. 2014. “Class Act: Researching New York City Schools with Local History Collections.” [New York Public Library blog](https://www.nypl.org/blog/2014/10/20/researching-nyc-schools). New York Public Library, New York, NY. Accessed May 19, 2024.
 
 **McKnight, Justine**. 2014. "Observations. Three flotation-recovered samples from Seneca Village." Report. Institute for the Exploration of Seneca Village History, New York, NY.
 

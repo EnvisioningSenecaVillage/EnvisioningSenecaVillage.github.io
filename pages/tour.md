@@ -5,6 +5,8 @@ permalink: /tour/
 ---
 A non-interactive version of the tour through the Seneca Village model is presented below, with its annotations. See [References](/references) for notes and citations for each entry.
 
+[testlink](#17-mathew-house)
+
 ## 1. Visualizing a Village
 
 **model image**
@@ -23,7 +25,7 @@ The highest point of natural elevation in Central Park is a giant outcrop of sch
 
 In 1825, just before emancipation in NY state, a few African American men and women and the AME Zion Church purchased land from John and Elizabeth Whitehead, a white couple. Others followed. By 1857 about 50 families lived here—about ⅔ were Black and ⅓ white, most from Ireland. There were also three churches and a school. The village offered a safer environment than downtown, where epidemics and hostility to Black integration were rife. Property enabled Black men to vote (a requirement not applied to white men) and offered some economic freedom. Families provisioned themselves and supplemented wages by raising crops and animals. Some rented plots for income or to help relatives. Some journalists sought to diminish the place out of prejudice or to justify its destruction to build Central Park, but the village was not the poor shantytown they described. It was a flourishing, heterogeneous, and complex community. These notes highlight just a few of the village’s features and families.
 
-## 4. All Angels' Episcopal Church & Cemetery
+## 4. All Angels' Episcopal Church and Cemetery
 
 **model image**
 
@@ -59,13 +61,13 @@ African Union Church was the first church built in the village and one of two Bl
 
 Attached to African Union Church was Colored School #3, part of the city’s segregated public school system. Teacher Caroline W. Simpson instructed children as young as 6 in primary subjects and likely older students in grammar, composition, history, geography, math, and astronomy (important for boys who would be sailors). The school probably hosted night classes in literacy for adults. [African Free Schools](/annotation_assets/African-Free-School.jpg), the precursor to NYC public schools, were first created by white elites of the New York Manumission Society in 1787. Many alumni became community leaders and advocated for abolition, equality, and education. Even so, inequality prevented many children in the city from going to school, because several families needed income from their children to survive. Evidence from documents and archaeology suggest conditions were better for children in Seneca Village and they attended school regularly. Our model shows some games they might have played during breaks.
 
-## 10. AME Zion Church & Greenhouse
+## 10. AME Zion Church and Greenhouse
 
 **model image**
 
 The [African Methodist Episcopal Zion Church](https://amez.org/our-church/) and its members were the first village landowners. AME Zion broke from the John Street Methodist Church in 1796 and was the city’s first Black church, dubbed the “Freedom Church” for its abolitionist work. In 1825, the church purchased land in Seneca Village for burial grounds—ground penetrating radar tests confirm burials remain today—but did not construct a building until 1853. This late date is strong evidence that residents did not anticipate the village’s coming destruction. A [*New-York Daily Tribune*](/annotation_assets/1853-news-article-about-laying-the-corner-stone-of-AME-Zion-Church.jpg) article on laying the church’s cornerstone reported 100 congregants and described the future church building as wooden, painted white, with a basement school room for the education of Black children. The 1856 Sage map, assessing properties the city would take for the park, shows a greenhouse on AME Zion’s property, possibly owned and used by the neighboring Hampton family.
 
-## 11. Haff House & Garden
+## 11. Haff House and Garden
 
 **model image**
 
@@ -77,7 +79,7 @@ This large property once belonged to [Levin Smith](/annotation_assets/Levin-Smit
 
 Andrew Williams was the first person to buy land in Seneca Village in 1825, then a young NJ-born bootblack. In 1855, he was 55 and a cartman. He and his wife, Elizabeth, 45, shared their home with son Jeremiah, 22, a waiter; his wife Ann, 27; and grandson Andrew Elias, 9, son of daughter Ellen. The Williamses were AME Zion members. Mr. Williams was also a member of the [African Society for Mutual Relief](https://maap.columbia.edu/place/25.html). His property included two adjacent lots and a structure labeled “shanty” on the 1856 Sage map. Andrew’s daughter Ellen, 27, and her husband John F. Butler, 29, a laborer, lived there just beyond the trees—one of several cases where people listed as renters in the census were family members of village landowners. Mr. Williams objected in [a formal letter](/annotation_assets/Andrew-Williams,-Letter-of-Affidavit.jpg.jpeg) to the small sum the city offered to compensate him for seizing his property. The only known descendants of Seneca Villagers are members of the [Williams family](https://www.youtube.com/watch?v=TBxVLdQgGgs).
 
-## 13. Landin House & Stable
+## 13. Landin House and Stable
 
 **model image**
 
@@ -119,7 +121,7 @@ The home the Garnets built in 1837 was valued at $4000 in 1855 and was among the
 
 The Sylvan’s home had a basement as well as front and back stoops, but was valued at half of the Garnet’s. Charles Sylvan, 75, was a Haiti-born cook, who could have migrated during the Haitian Revolution (1791–1804). We have interpreted his house with elements of Caribbean style. Sylvan likely spoke French, which might account for the variety of spellings of his surname in records made by English-speaking clerks: also Silvan, Silver, Silbon, Silben. Sylvan lived with his daughter, Charlot, 30, a domestic; son, Peter, 22, a coachman; daughter-in-law, Catherine, 25, also a domestic; grandson, George, 4; and another family: Virginia-born Methodist preacher John Jimmerson, wife Mary, and their young son, Isiah Stevens, from Mary’s first marriage. The Sylvans rented on their former property, bought in 1829 and sold in 1840. Sylvan had a barn, suggesting they were among many families in the village who raised domestic animals. Barns provided housing for animals and storage for animal feed.
 
-## 20. Dunn Shanty, Barn, & Stable
+## 20. Dunn Shanty, Barn, and Stable
 
 **model image**
 
@@ -131,19 +133,19 @@ East of the Sylvans’ was one of many homes labeled “shanty” on the 1856 Sa
 
 A few steps north of the Dunns lived Sally Wilson, 59 in 1855, a Black washerwoman from Virginia, and her adopted Staten Island-born daughter Sarah Tredwell, 6. Advertised as a "handsome two-story frame house" when built in 1829, the 1855 census taker valued it the same as small village “shanties,” $500, underlining inconsistent valuations. Here we interpret Mrs. Wilson’s shed as a chicken coop, based on the cultural and economic importance of raising chickens and feasibility for an older woman and girl. Excavations did not find chicken bones, but village dogs would have eagerly consumed them. Planted fields were nearby. The land here still collects rainwater due to shallow clay and bedrock. Evidence from maps and archaeology indicate villagers’ wise land use more broadly: damp areas for plants, drier areas for homes, rocky areas to graze animals. This directly refutes pro-park-construction newspaper articles that portrayed pre-park residents and their land as unproductive and dangerous.
 
-## 22. Webster & Philips Houses
+## 22. Webster and Philips Houses
 
 **model image**
 
 George Webster purchased this large highly valued home with a basement, built ca. 1835, and shed in 1854, not long after its former owner, elderly widow Nancy Moore, died and only about a year before the first news of evictions. Webster, 32 in 1855, was from Virginia, his wife Eliza, 35, from New York. They had a young child together, George Jr., 2, and four older children from Eliza’s first marriage: Malvina, 18; John, 16; Benjamin,13; and Edward, 7. George Sr. and John were porters. Malvina was a domestic and not much younger than the couple renting the small “shanty” next door, William Philips, 23, a laborer, and Matilda, in her early 20s. The Philipses had been married by All Angels’ priest Father Peters in 1851. Their landlord, Elizabeth McCollin, likely had known Matilda as a child, because Matilda’s family, the Scudders, long owned land in the village. The proximity of the Websters and the Philipses highlights the diversity of villagers’ homes and life stages.
 
-## 23. Webster & Philips House Artifacts
+## 23. Webster and Philips House Artifacts
 
 **model image**
 
 Archaeologists excavated in the yard between the two homes, finding traces of both: chimney bricks, window glass, and iron nails. They also found pollen and plant remains indicating nearby food sources: berries (elderberry, raspberry, mulberry), nuts (chestnuts, walnuts), and edible plants (purslane), as well as medicinal herbs (goosefoot). Sheep, cow, and pig bones, ranging from head to hoof, suggest animals raised for food. Other artifacts hint at fashionable personal tastes and possibly wedding gifts, such as a [gilded copper furniture ornament](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210727-copper-alloy-escutcheon), a [gilded brass button](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210737-copper-alloy-button) likely from a man’s coat sleeve, a [gilded Chinese porcelain saucer](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210577-printed-nanking-style-soft-paste-porcelain-saucer), and a [printed English teapot](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210415-printed-gothic-style-whiteware-teapot) depicting the countryside near Florence, Italy (below). The teaware as well as [tobacco pipes](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210749-indian-figure-smoking-pipe-bowl) and an [ale bottle](https://archaeology.cityofnewyork.us/collection/search/seneca-village-210656-h-b-kilmer-philadelphia-porter-glass-beer-bottle) evoke hosting friends and relaxing after work.
 
-## 24. Ishmael Allen Shanty & Shop
+## 24. Ishmael Allen Shanty and Shop
 
 **model image**
 
@@ -161,7 +163,7 @@ Nearby, John White, a 62-year-old widower and Delaware-born sailor, lived in thi
 
 Southwest of Davis and White’s “shanties” was a natural spring, an important source of drinking water at a time when clean water was not accessible to all people in the city. Despite the success of the Croton water system and the proximity of its imposing reservoir, Seneca Villagers, like many other New Yorkers, did not have Croton water piped to their homes. William Matthew had a well that he paid someone the then substantial sum of $50 to dig on his property. It is possible that other villagers did so too, while others collected rainwater in barrels or cisterns, or hauled it from this spring. Dubbed [“Tanner’s Spring”](/annotation_assets/Tanner's-Spring-NYHS.jpeg) in 1880, this was a place where groundwater continuously flowed up through the bedrock. Villagers would have kept the pool of water clean by containing and covering it with stones or wooden boards. The spring is still visible in the park today, but its appearance has been altered over time.
 
-## 27. Gallagher House & Stable
+## 27. Gallagher House and Stable
 
 **model image**
 

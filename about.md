@@ -16,9 +16,8 @@ In addition to the 3D model, we have included a static (non-interactive and prin
 
 The project, website, 3D model, and other related materials here are offered for public use under a **Creative Commons (non-commercial, with attribution)** license. If you are a researcher interested in using the underlying GIS data created to support this project, please contact one of us via email.
 
-To cite the project:
-
-> Gergely Baics, Meredith Linn, Leah Meisterlin, and Myles Zhang. 2024. *Envisioning Seneca Village*. Website with interactive 3D model. envisioningsenecavillage.github.io
+To cite the project:  
+Gergely Baics, Meredith Linn, Leah Meisterlin, and Myles Zhang. 2024. *Envisioning Seneca Village*. Website with interactive 3D model. envisioningsenecavillage.github.io
 
 ## about the Team
 

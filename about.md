@@ -18,7 +18,7 @@ The project, website, 3D model, and other related materials here are offered for
 
 To cite the project:
 
-> Gergely Baics, Meredith Linn, Leah Meisterlin, and Myles Zhang. 2024. Envisioning Seneca Village. Website with interactive 3D model. envisioningsenecavillage.github.io
+> Gergely Baics, Meredith Linn, Leah Meisterlin, and Myles Zhang. 2024. *Envisioning Seneca Village*. Website with interactive 3D model. envisioningsenecavillage.github.io
 
 ## about the Team
 

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Envisioning Seneca Village
+title: About
 permalink: /about/
 ---
 
-## about the Project
+## the Project
 
 *Envisioning Seneca Village* wrestles with one stark fact: Despite its significance, *no photos or drawings of Seneca Village survive*.
 
@@ -19,7 +19,7 @@ The project, website, 3D model, and other related materials here are offered for
 To cite the project:  
 Gergely Baics, Meredith Linn, Leah Meisterlin, and Myles Zhang. 2024. *Envisioning Seneca Village*. Website with interactive 3D model. envisioningsenecavillage.github.io
 
-## about the Team
+## the Team
 
 The project is a collaboration between **Gergely Baics**, **Meredith Linn**, **Leah Meisterlin**, and **Myles Zhang**. Our team also included research assistants: Barnard College students **Sarah Baybeck**, **Maia Donald**, and **Jesse Pearce**. Additional support has been provided by the Central Park Conservancy and generous guidance from advisors listed [below](#project-advisors).
 

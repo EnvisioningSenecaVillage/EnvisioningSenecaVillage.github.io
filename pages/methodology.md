@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Methdology
+title: Methodology
 permalink: /methodology/
 ---
 The model imagines how Seneca Village might have appeared just before its destruction in 1857. No photos or drawings of the Village survive. Our team integrated decades of historical and archaeological research with digital mapping methods, combining cartographic and social history with geographic information systems (GIS) and 3D modeling software. A visual summary of the workflow is included at the end of this page.

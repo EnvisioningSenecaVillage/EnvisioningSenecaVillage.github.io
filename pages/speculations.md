@@ -3,7 +3,7 @@ layout: page
 title: Speculations & Assumptions
 permalink: /speculations/
 ---
-Envisioning and modeling Seneca Village required speculation and making informed assumptions. These assumptions were supported by a variety of factors including New York’s 19th-century architectural history, the variation in declared value of different properties, and input from many of the researchers and scholars who have studied Seneca Village. These sources can be found in our [References Cited](/references) list and we give our thanks to our many advisors, listed our the [About](/about) page.
+Envisioning and modeling Seneca Village required speculation and making informed assumptions. These assumptions were supported by a variety of factors including New York’s 19th-century architectural history, the variation in declared value of different properties, and input from many of the researchers and scholars who have studied Seneca Village. These sources can be found in our [References Cited](/references) list and we give our thanks to our many advisors, listed on our the [About](/about) page.
 
 This list details those assumptions. Unless we had evidence for particular buildings or locations, these were applied consistently across the Village allowing for minimal exceptions to produce credible and expected variation.
 
@@ -25,7 +25,7 @@ The number of details and refinements we could attempt to imagine are endless. W
 
 Wood-frame shanties are modeled with floorboards lifted between 6 and 12 inches from the ground, supported at their corners and (depending on their overall size) middle. Self-built vernacular architecture in 19th-century New York also existed on a spectrum–often starting as a single-room wood-frame shanty that would, over time, be built out into a larger, more permanent structure. Given this gradual process of upgrading and reflecting the tendency toward under-valuing properties through eminent domain, about half the homes labeled “shanty” in the condemnation maps are modeled with schist foundations.
 
-**Wood siding** assumed for building exteriors, with boards of 6 and 9 inches wide. 
+**Wood siding** is assumed for building exteriors, with boards of 6 and 9 inches wide. 
 
 **Chimneys** are modeled based on building type. For houses, a brick chimney (1-2 square feet in plan, broader at its base than top, and extending 2-4 feet above the roofline) is assumed. Brick can be stacked in the small-footprint columns needed to construct a chimney, whereas schist cannot. For shanties, we have assumed a smaller, metal flue cut through the roof and extending above the roofline, based on historical drawings and photos.
 
@@ -49,7 +49,7 @@ Wood-frame shanties are modeled with floorboards lifted between 6 and 12 inches 
 
 **The Croton Reservoir** looms large in the Village landscape, but its exact height above Seneca Village is unclear from primary sources. However, the Distributing Reservoir at 42nd Street was 70 feet above sea level, or 120 feet to maximum water level assuming 50-foot retaining walls from archival photos. Therefore, the retaining wall for the Receiving Reservoir at Seneca Village is shown with retaining walls high enough to produce an elevation 130 feet above sea level.
 
-**Water supply**: Residences lacked access to the Croton Reservoir by internal plumbing. Primary sources indicate a well adjacent to the Mathews House and a place for animals to drink at Tanner's Spring. We show dirt paths to and from Tanner's Spring as well as a staircase for residents and the Geary family to access the Croton Reservoir.
+**Water supply**: Residences lacked access to the Croton Reservoir by internal plumbing. Primary sources indicate a well adjacent to the Mathews House and Tanner's Spring. We show dirt paths to and from Tanner's Spring as well as a staircase for residents and the Geary family to access the Croton Reservoir.
 
 **Streams**: The primary sources indicate a stream parallel to what is now Seventh Avenue as well as one running away from Tanner’s Spring. We assume these were seasonal streams and gullies depressed one to two feet below ground and surrounded by vegetation due to better growing conditions near water.
 

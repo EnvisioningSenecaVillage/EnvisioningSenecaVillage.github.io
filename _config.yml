@@ -8,7 +8,7 @@ title: Envisioning Seneca Village
 author: Gergely Baics, Meredith Linn, Leah Meisterlin, Myles Zhang (2024)
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Description TK TK. 
+  *Envisioning Seneca Village* combines historical research with digital mapping and visualization to present an interactive 3D digital model of what Seneca Village might have looked like in 1855, about two years before its destruction to build Central Park. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: 

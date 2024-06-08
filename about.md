@@ -36,7 +36,7 @@ Special thanks to **Andrew Thomas Williams IV** & **Mareia M. Williams** ([Linke
 
 **Lane Addonizio**. Consultant and former Vice President for Planning, Central Park Conservancy. ([Email](mailto:lane@laddonizio.com); [LinkedIn](https://www.linkedin.com/in/lane-addonizio-a1178317a/))  
 **Alice E. Baldwin-Jones**. Anthropologist, LaGuardia Community College & IESVH. ([Email](mailto:alicebaldwinjones00@gmail.com); [LinkedIn](http://www.linkedin.com/in/alicebaldwinjones))  
-**Elizabeth Blackmar**. Historian, Columbia University, and co-author with Roy Rosenzweig of *The Park and the People*.  
+**Elizabeth Blackmar**. Historian, Columbia University.
 **George Brandon**. Anthropologist, City College, CUNY Graduate Center & IESVH.  
 **Kelly M. Britt**. Archaeologist, Brooklyn College. ([Email](mailto:kellym.britt@brooklyn.cuny.edu))  
 **Cynthia R. Copeland**. Public Historian, IESVH.  
@@ -46,11 +46,11 @@ Special thanks to **Andrew Thomas Williams IV** & **Mareia M. Williams** ([Linke
 **Salmaan Khan**. Vice President for Planning and Research, Central Park Conservancy. ([Email](mailto:skhan@centralparknyc.org); [LinkedIn](https://www.linkedin.com/in/ksalmaan/))  
 **Jessica Striebel MacLean**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village).  
 **Alexander Manevitz**. Historian, Baruch College, CUNY. ([Email](mailto:Alexander.Manevitz@baruch.cuny.edu); [Bio](https://www.baruch.cuny.edu/profiles/faculty/Alexander-Manevitz))  
-**Sara Cedar Miller**. Historian, Central Park Conservancy and author of *[Before Central Park](http://beforecentralpark.com)*. ([Email](mailto:saracedarmiller@gmail.com))  
+**Sara Cedar Miller**. Historian, Central Park Conservancy. ([Email](mailto:saracedarmiller@gmail.com), [Related Book](http://beforecentralpark.com))  
 **Leah Mollin-Kling**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village).  
-**John T. Reddick**. Director of Community Engagement Projects, Central Park Conservancy. ([Email](mailto:jreddick@centralparknyc.org); “[Before Juneteenth: The Story of Seneca Village and Central Park](https://www.centralparknyc.org/articles/before-juneteenth-the-story-of-seneca-village-and-central-park)”)  
+**John T. Reddick**. Director of Community Engagement Projects, Central Park Conservancy. ([Email](mailto:jreddick@centralparknyc.org); [Related Artical](https://www.centralparknyc.org/articles/before-juneteenth-the-story-of-seneca-village-and-central-park))  
 **Nan A. Rothschild**. Archaeologist, Barnard College, Columbia University, & IESVH.  
 **Herbert C. Seignoret**. Colin Powell School, City College of New York, CUNY, & IESVH ([Email](mailto:hseignoret@ccny.cuny.edu))  
 **Amanda Sutphin**. Director of Archaeology, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village). ([Email](mailto:asutphin@lpc.nyc.gov))  
-**Eric K. Washington**. Independent Public Historian and author of Boss of the Grips. ([Email](mailto:ekwashington@gmail.com); [Website](http://ekwashington.com))  
+**Eric K. Washington**. Independent Public Historian. ([Email](mailto:ekwashington@gmail.com); [Website](http://ekwashington.com))  
 **Kevin Wiley**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village).  

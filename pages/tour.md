@@ -7,7 +7,7 @@ A non-interactive version of the tour through the Seneca Village model is presen
 
 ## 1. Visualizing a Village
 
-**model image**
+
 
 This model envisions how Seneca Village might have appeared just before its destruction in 1857. No photos or drawings survive, so our team integrated decades of historical and archaeological research with new digital mapping methods. (1) We used old maps and geographic information systems (GIS) to make an accurate map of lost roads, cemeteries, buildings, historic elevation, farmland, rock outcrops, and trees. (2) We modeled buildings with 3D software, basing their size and appearance on archival sources, archaeological finds, and informed assumptions about 19th-century architecture. (3) We added visual details and notes about villagers, drawing on [social historical](https://www.cornellpress.cornell.edu/book/9780801497513/the-park-and-the-people/#bookTabs=1) and [archaeological research](https://archaeology.cityofnewyork.us/collection/map/seneca-village/project/seneca-village-project-2018) into documents (census, tax, church, etc.) and material evidence from excavation.
 

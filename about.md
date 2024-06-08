@@ -36,7 +36,7 @@ Special thanks to **Andrew Thomas Williams IV** & **Mareia M. Williams** ([Linke
 
 **Lane Addonizio**. Consultant and former Vice President for Planning, Central Park Conservancy. ([Email](mailto:lane@laddonizio.com); [LinkedIn](https://www.linkedin.com/in/lane-addonizio-a1178317a/))  
 **Alice E. Baldwin-Jones**. Anthropologist, LaGuardia Community College & IESVH. ([Email](mailto:alicebaldwinjones00@gmail.com); [LinkedIn](http://www.linkedin.com/in/alicebaldwinjones))  
-**Elizabeth Blackmar**. Historian, Columbia University.
+**Elizabeth Blackmar**. Historian, Columbia University.  
 **George Brandon**. Anthropologist, City College, CUNY Graduate Center & IESVH.  
 **Kelly M. Britt**. Archaeologist, Brooklyn College. ([Email](mailto:kellym.britt@brooklyn.cuny.edu))  
 **Cynthia R. Copeland**. Public Historian, IESVH.  

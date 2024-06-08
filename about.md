@@ -48,7 +48,7 @@ Special thanks to **Andrew Thomas Williams IV** & **Mareia M. Williams** ([Linke
 **Alexander Manevitz**. Historian, Baruch College, CUNY. ([Email](mailto:Alexander.Manevitz@baruch.cuny.edu); [Bio](https://www.baruch.cuny.edu/profiles/faculty/Alexander-Manevitz))  
 **Sara Cedar Miller**. Historian, Central Park Conservancy. ([Email](mailto:saracedarmiller@gmail.com), [Related Book](http://beforecentralpark.com))  
 **Leah Mollin-Kling**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village).  
-**John T. Reddick**. Director of Community Engagement Projects, Central Park Conservancy. ([Email](mailto:jreddick@centralparknyc.org); [Related Artical](https://www.centralparknyc.org/articles/before-juneteenth-the-story-of-seneca-village-and-central-park))  
+**John T. Reddick**. Director of Community Engagement Projects, Central Park Conservancy. ([Email](mailto:jreddick@centralparknyc.org); [Related Article](https://www.centralparknyc.org/articles/before-juneteenth-the-story-of-seneca-village-and-central-park))  
 **Nan A. Rothschild**. Archaeologist, Barnard College, Columbia University, & IESVH.  
 **Herbert C. Seignoret**. Colin Powell School, City College of New York, CUNY, & IESVH ([Email](mailto:hseignoret@ccny.cuny.edu))  
 **Amanda Sutphin**. Director of Archaeology, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village). ([Email](mailto:asutphin@lpc.nyc.gov))  

@@ -179,7 +179,7 @@ Note that while human waste was thought to be potentially dangerous to health be
 
 ### 20. 85th Street
 
-**Thumbnail*: Schramke *Profile of Lower Part of Croton Aqueduct* 1846.  
+**Thumbnail**: Schramke *Profile of Lower Part of Croton Aqueduct* 1846.  
 **For the Aqueduct’s length and dimensions**: Tower 1843, 91-93.  
 **For the aqueduct’s placement 5-10 feet under 85th Street, where it connected to the Reservoir’s influent gate**: Historic American Engineering Record 1968.  
 **Locations of churches, school and homes along 85th Street**: Sage 1856.

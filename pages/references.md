@@ -9,7 +9,8 @@ This page includes the references cited and notes per annotation in the 3D model
 
 ## Annotation Notes
 
-### 1. Visualizing a Village 
+### 1. Visualizing a Village
+
 **Key map sources**: Sage 1838, 1856; Dripps 1851; Common Council 1853?; Serrell 1853; Viele 1855.  
 **Key sources about architecture**: Valentine 1862, 1865; McAlester and McAlester 1984; Noble 1984; Carter and Cromley 2005.  
 **Key primary social history sources**: All Angels’ Church Parish Records 1846–1858; Letters of affidavit (Mathews 1855; Pease 1855; Quinn 1855; Riddles 1855; Trustees of African Union Church 1855; Williams 1856; Webster 1856; Wallace 1857?); New York City Death Records (NYCMDR 1812–1860); New York City Property Tax Assessment Records (NYPTAR 1828–1855); New York State Census (NYSC 1855); US Federal Censuses (USBC 1830, 1840, 1850, 1860).  
@@ -18,6 +19,7 @@ This page includes the references cited and notes per annotation in the 3D model
 **Archaeological site report**: Wall et al. 2018.
 
 ### 2. Nanny Goat Hill
+
 **Elevation**: Viele 1855.  
 **Name of hill**: Rosenzweig and Blackmar 1992, 66 citing New York Times 1924:16.  
 **Surrounding areas**: Hooker 1828; Dripps 1851, 1852.  
@@ -25,6 +27,7 @@ This page includes the references cited and notes per annotation in the 3D model
 **Community founded by African Americans**: Rosenzweig and Blackmar 1992, 65–73.  
 
 ### 3. Origins of Seneca Village
+
 **Initial land purchases**: New York City Land Conveyances 1630–1975; Rosenzweig and Blackmar 1992, 65.  
 **Number of families and composition** calculated by Meredith Linn and Marie Warsh using a variety of primary sources, especially USBC 1850; NYSC 1855; NYPTAR 1828–1855; and Sage 1856.  
 **Churches and schools**: Sage 1856.  
@@ -32,19 +35,22 @@ This page includes the references cited and notes per annotation in the 3D model
 **Slanderous newspaper article**: *New-York Daily Times* 1856, 3.  
 
 ### 4. All Angels’ Church and Cemetery
+
 **Number and location of churches**: Sage 1856.  
 **Mission, cost of church, and deeding of property**: Johnson 2023, 17–18.  
 **Linked image of St. Michael’s Church**: French 2021.  
 **Relocation of Church and photo of All Angels’ Church exterior in 1887**: Johnson 2003, 41–42; All Angels’ Church 2020.  
 **Description of church exterior**: Miller 2022:202–203 paraphrasing the *Christian Witness and Church Advocate* 1850, 186.  
-**Cemetery visualization** informed by photograph of sister parish, St. Michael’s Church, in French 2021. 
+**Cemetery visualization** informed by photograph of sister parish, St. Michael’s Church, in French 2021.
 
 ### 5. All Angels’ Church Interior
+
 **Description of church interior**: *Christian Witness and Church Advocate* 1850 cited in Miller 2022:202–203.  
 **Photo of All Angels’ Church interior in 1887**: Johnson 2003, 41–42; All Angels’ Church 2020.  
 **Surviving parish records**: All Angels’ Church 1846–1858.  
 
 ### 6. Wilson Family House
+
 **Identification of this structure as the Wilson home and its size**: Sage 1856.  
 **Construction date**: NYPTAR 1849–1852; USBC 1850.  
 **House materials**: Sage 1856 and Wall et al. 2018, 53–54.  
@@ -52,20 +58,23 @@ This page includes the references cited and notes per annotation in the 3D model
 **Mr. Wilson as sexton**: All Angels’ Church 1846–1858; Johnson 2023, 35–36, 45, 47, 61–62.  
 
 ### 7. Wilson Family House Artifacts
+
 **Artifacts excavated**: Wall et al. 2018; New York City Archaeological Repository 2020. See also: Wall et al. 2019 and Linn et al. *in press*.  
 **Wilson children attending school**: USBC 1840, 1860.  
-**Mrs. Wilson** is noted as not able to read or write in the 1850 Federal Census, able to read only in the 1855 New York State Census, and able to both read and write in the 1860 Federal Census.  
+**Mrs. Charlotte Wilson** is noted as not able to read or write in the 1850 Federal Census, able to read only in the 1855 New York State Census, and able to both read and write in the 1860 Federal Census.  
 **For more about school attendance in Seneca Village versus downtown in “Little Africa”** see Wall, Rothschild, and Copeland 2008.  
 
 The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021) “Afrofuturist Period Room.”
 
-### 8. African Union Church 
+### 8. African Union Church
+
 **Construction date and relationship with downtown branch**: Colored American 1840, cited in Central Park Conservancy 2023; Trustees of African Union Church 1855.  
 **Origin of African Union Church**: Russell 1920.  
 **Birthplace of William Mathew**: USBC 1850; NYSC 1855.  
 **NYC Death Records** are in the Municipal Archives.  
 
-### 9. Public School House
+### 9. Colored School #3
+
 **Attached schoolhouse**: Sage 1856; Freeman 1966, 342, cited in Rosenzweig & Blackmar 1992, 71.  
 **School name and Caroline W. Simpson as teacher**: Valentine 1855, 253. Note, Valentine 1856, 264 lists the teacher as Caroline W. Thompson.  
 **Subjects taught and night schools**: McCabe 1872, 668-669.  
@@ -73,11 +82,17 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **African Free Schools as precursor to and relationship with NYC public school system**: Mccarthy 2014.  
 **Engraving of African Free School #2 on Mulberry and Grand Street, opened in 1820**: Schomburg Center for Research in Black Culture, Manuscripts, Archives, and Rare Books Division, the NYPL. Available online from MAAP 2024.  
 **For more about African Free Schools, and another “Colored School,” #4 on West 17th Street**, see Washington 2022.  
+**School attendance of village children ages 4–14**: 1850 Federal Census. This census also suggests that boys in the village were more likely to attend school into their early teenage years than girls.  
 **For more about school attendance in Seneca Village versus downtown in “Little Africa,”** see Wall, Rothschild, and Copeland 2008.  
-**For more about 19th-century games and toys**, see King Manor 2024 and Chudacoff 2007.
 
+### 10. School Yard and Games
 
-### 10. AME Zion Church and Greenhouse
+**On 19th-century games Seneca Village children may have played**: Giffard 2022.  
+**For more about 19th-century games and toys**, see King Manor 2024 and Chudacoff 2007.  
+Marbles were also popular and found in the 2011 archaeological excavations of Seneca Village, but they are too small to depict in the model.
+
+### 11. AME Zion Church and Greenhouse
+
 **First landowners**: Rosenzweig & Blackmar 1992, 65; Ng 1999, 41, citing Grady Turner, Cynthia Copeland, and Herbert Signoret’s research in the New York City Land Conveyances Grantor Index 1825–1832.  
 **Location of AME Zion’s lands**: Sage 1856.  
 **AME Zion Church history and break from the John Street Church**: Hood 1914, 19-21; Bradley 1956, 81-83.  
@@ -86,7 +101,8 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **Map showing greenhouse**: Sage 1856.  
 **For a short history of the AME Zion Church** see Winchell 2020.  
 
-### 11. Haff House and Garden
+### 12. Haff House and Garden
+
 **Smith’s ownership of the land**: NYPTAR 1828–1841; Sage 1838.  
 **Smith in the AME Church**: Bradley 1956, 83.  
 **Levin Smith portrait**: The only known image of a Seneca Village resident is an artist’s portrait of Smith in the collection of Mother AME Zion Church, reproduced in New-York Historical Society Education Department 2010, 17.  
@@ -97,73 +113,103 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 **Haff’s gardening prize**: American Institute of the City of New York 1844, 30, cited in Lee and Hunter 2016, 4-5.  
 **Haff’s proprietorship of Elm Park**: Lamb 1884, cited in Lee and Hunter 2016, 4-5.  
 
-### 12. Williams House
+### 13. Williams House
+
 **Williams first individual to buy land in village**: New York City Land Conveyances 1630–1975; Rosenzweig & Blackmar 1992, 65.  
 **Place of birth, occupation, and family members**: USBC 1850; NYSC 1855.  
+**Ages of family members** in the annotation diverge slightly from those reported in the 1855 census and are based on more reliable sources, courtesy of his descendant Mareia Williams, including the death certificate of Jeremiah Williams, the marriage certificate of Jeremiah and Ann E[liza] Turin Williams, the death certificate of Andrew Elias Williams, and an affidavit of Ellen Ann [Williams] Butler.  
 **Membership in the African Society and AME Zion Church**: Zuille 1892, 27-28; Alexander 2008, 155.  
 **Residence of Ellen Williams Butler**: inferred from NYSC 1855; Sage 1856; and family relationship.  
 **Williams’s letter**: Williams 1856.  
 **Williams’ descendants**: CBS Sunday Morning 2022.
 
-### 13. Landin House and Stables
+### 14. Landin House and Stables
+
 **Landin family’s residence in this structure**: Sage 1856.  
 **Renting to Jacksons**: inferred from NYSC 1855.  
 **Attached stable and other stables in village**: Sage 1856.  
 **Landin family, ages, and places of birth**: USBC 1850; NYSC 1855.  
 **Baptisms and marriage of Sarah Landin to John Peterson**: All Angels’ Church 1846–1858.  
 **Josiah Landin’s land purchases, rental from Zabriskie, and planting business**: Miller 2022, 188–189.  
-**Landin’s possible relationship with Zabriskie** inferred by Linn from Zabriskie family wills, Ancestry.com. 
+**Landin’s possible relationship with Zabriskie** inferred by Linn from Zabriskie family wills, Ancestry.com.
 
-### 14. McCollin Houses
+### 15. 86th Street
+
+**Identification of houses along 86th Street as belonging to the Williamses, Landens, and McCollins**: Sage 1856.  
+**To view how 86th Street connected Yorkville, Seneca Village, and Bloomingdale**, see Dripps 1851. Miller (2022, 127–129) shows how the original boundaries of Yorkville included the area of Seneca Village.  
+**Families who moved to Yorkville** after Seneca Village was destroyed include the McCollins, Gearys, Harrisons, and Greens, according to the 1860 Federal Census. Andrew Williams also purchased a home in Yorkville. His son, Jeremiah lived there in 1860, according to the federal census of that year, and Andrew Williams died there in 1878, according to his descendant, Mareia Williams.
+
+### 16. McCollin Houses
+
 **McCollin ownership of properties**: New York City Land Conveyances 1630–1975; NYPTAR 1827–1840; USBC 1850; NYSC 1855; Sage 1856.  
 **Date of construction**: NYPTAR 1830–1840.  
 **Value in 1855**: NYSC 1855.  
 **Dimensions of houses**: Sage 1856.  
 **First names, ages, and occupations**: USBC 1850; NYSC 1855.  
-**Elizabeth Harding McCollins’s land purchases and properties**: New York City Land Conveyances 1630–1975; Sage 1838, 1856.  
+**Elizabeth Harding McCollin’s land purchases and properties**: New York City Land Conveyances 1630–1975; Sage 1838, 1856.  
 **Marriage**: Methodist Marriage Register for the City of New York 1819–1837, 102.  
 **Property once owned by Diana Harding**: Sage 1856.  
 **Possible enslavement of Samuel Harding**: Miller 2022, 172.  
 **House residents in 1855**: NYSC 1855.
 
-Our interpretation of the small structures behind these homes as outhouses is speculation based on size and location in comparison to known privies usually located along the rear property lines, see Geismar 1993; Cantwell and Wall 2001, 242-247. 
+### 17. McCollin Outhouses
 
-### 15. Geary House
-**Property location and purchase date**: NYPTAR 1849; Sage 1856.  
+**Our interpretation of these structures as outhouses** is speculation based on size and location in comparison to known privies, see Geismar 1993; Cantwell and Wall 2001, 242-247.  
+**On chamber pots**: Noël Hume 2003.  
+**Growing concerns about hygiene**: Brown 2009.  
+**Nightsoil men and value of human and animal waste for fertilizer**: Geismar 1993; Baldwin 2012; and McNeur 2012.  
+
+Note that while human waste was thought to be potentially dangerous to health because of the foul vapors, or “miasmas,” they emitted, the idea that microscopic organisms, or “germs,” within fecal matter caused disease would not be discovered until the 1870s and not widely accepted for at least a decade after that.
+
+### 18. Geary House
+
+**Property location and purchase date**: NYPTAR 1849; Sage 1856. Miller (2022, 283–284) notes that the wealthy NYC cotton merchant George G. Root commissioned a large “house, stables, sheds, icehouse, & c.” on the property (per an 1846 advertisement) in order to create a resort by the reservoir, but he declared bankruptcy and the property changed hands a few times before being purchased by the City for the use of the reservoir keeper. This explains the large size of the house and why it had a piazza or covered porch.  
 **Piazza**: Common Council of the City of New York 1853?.  
 **Geary family Bible**:Ancestry.com.  
 **Roman Catholicism**: Several of the Geary children were baptized in the Roman Catholic Church in St. Patrick’s Old Cathedral and St. Peter’s, Archdiocese of New York 1831.  
 **Geary family names, ages, and occupations in 1855**: NYSC 1855. Neighboring structures: Sage 1856.
 
+### 19. Croton Receiving Reservoir
 
-### 16. Croton Receiving Reservoir
 **Costliest public works and largest constructions**: calculated by Baics 2016, 46–48 with information from Koeppel 2000, 167–172.  
 **Tourism**: Koeppel 2000, 277.  
 **Drawing of reservoir**: Currier 1842.  
+**That the aqueduct’s embankment was at street grade at 86th Street**: Schramke *Description of the New-York Croton Aqueduct* 1846, 49-50; Wegman 1896, 58.  
 **Availability of Croton water**: Spann 1981, 120.
 
-### 17. Mathew House
+### 20. 85th Street
+
+**Thumbnail*: Schramke *Profile of Lower Part of Croton Aqueduct* 1846.  
+**For the Aqueduct’s length and dimensions**: Tower 1843, 91-93.  
+**For the aqueduct’s placement 5-10 feet under 85th Street, where it connected to the Reservoir’s influent gate**: Historic American Engineering Record 1968.  
+**Locations of churches, school and homes along 85th Street**: Sage 1856.
+
+### 21. Mathew House
+
 **Mathew’s ownership of this property**: NYPTAR 1832–1855; Mathew 1855.  
 **Property value and details about household members**: NYSC 1855.  
 **African Union preacher**: Trustees of African Union Church 1855; NYCMDR 1836–1849 (oversaw burials).  
 **Compensation and property improvements**: Mathew 1855, courtesy of Marie Warsh, John Reddick, and the Central Park Conservancy.  
 **Landscape features**: Viele 1855.
 
-### 18. Garnet House
+### 22. Garnet House
+
 **Construction date**: NYPTAR 1837.  
 **Value and information about occupants in 1855**: NYSC 1855.  
 **Adjacent fields**: Viele 1855.  
 **Church affiliation**: All Angels’ Church 1846–1858.  
 **Garnet financial trouble and taxes paid by St. Michael’s Church member**: quitclaim to Rev. Peters, courtesy of Paul Johnson; NYPTAR 1845–1855.
 
-### 19. Sylvan House
+### 23. Sylvan House
+
 **Basement and stoops**: Sage 1856.  
 **Sylvans living in this house**: Inferred by NYSC 1855 order of households and Sylvan’s ownership of this property from 1829–1840 in NYPTAR 1829–1840; Sage 1838.  
 **Details about the Sylvan and Jimmerson families**: NYSC 1855. Birthplace in Haiti and spelling of daughter’s name “Charlot” suggests family might have been French speaking.  
 **Possible immigration during Haitian Revolution**: Foreman 2016.  
 **Barn**: Sage 1856.
 
-### 20. Dunn Shanty, Barn, and Stable
+### 24. Dunn Shanty, Barn, and Stable
+
 **1856 map**: Sage 1856.  
 **Anchoring to bedrock**: Viele 1855.  
 **Dunn family’s origins, ages, names, occupations**: USBC 1850; NYSC 1855.  
@@ -174,8 +220,9 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Rendering of barn and stable** informed by Valentine 1862, 1865; Noble 1984, 16–18.  
 **Nearby stream**: Viele 1855.
 
-### 21. Sally Wilson House 
-**Location of house and ownership**: Sage 1856; NYPTAR 1844–1855.  
+### 25. Sally Wilson House
+
+**Location of house and ownership**: Sage 1856; NYPTAR 1844–1855. See also Miller 2022, 270–271, for more information about Sally Wilson, including her connection to the nearby wealthy white landowner David Wagstaff.  
 **Details about Sally Wilson and Sarah Tredwell**: NYSC 1855.  
 **Advertisement**: *Freedom's Journal* 1829 cited in Miller 2022, 192.  
 **Value of house in 1855**: NYSC 1855.  
@@ -183,50 +230,57 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 **Village dogs**: Peters 1907, 94–95.  
 **Planted fields**: Viele 1855.  
 **Water collection and use of landscape**: Wall et al. 2018, F-44; Linn et al. *in press*.  
-**Newspaper article**: *New-York Daily Times* 1856, 3. 
+**Newspaper article**: *New-York Daily Times* 1856, 3.
 
-### 22. Webster and Philips Houses
+### 26. Webster and Philips Houses
+
 **Purchase date**: NYPTAR 1854; Webster 1856.  
 **Philips shanty**: Sage 1856.  
 **Ages, origins, children, occupations**: USBC 1850; NYSC 1855. The 1850 and 1855 censuses give conflicting information about Matilda Philips’s age—both indicate she was 19—and we have been unable to find other sources to clarify the issue.  
 **Marriage of Catharine Matilda Scudder to William Philips**: All Angels’ Church 1846–1858.  
 **McCollins’ land ownership**: NYPTAR 1855; Sage 1856.  
-**Scudder family in village**:  NYPTAR 1833–1843; Sage 1838; USBC 1850. 
+**Scudder family in village**:  NYPTAR 1833–1843; Sage 1838; USBC 1850.
 
-### 23. Webster and Philips House Artifacts
+### 27. Webster and Philips House Artifacts
+
 **Artifacts excavated**: Wall et al. 2018; New York City Archaeological Repository 2020. See also: Wall et al. 2019 and Linn et al. *in press*.  
 **Plant remains**: Jacobucci and Trigg 2012; McKnight 2014; Wall et al. 2018, 73–74 and F-44–F-50.  
 **Animal remains**: Wall et al. 2018, 70–73; Watson 2018.  
-**Button from man’s coat**: White 2005. 
+**Button from man’s coat**: White 2005.
 
-### 24. Ishmael Allen Shanty and Shop
+### 28. Ishmael Allen Shanty and Shop
+
 **Allen’s shanty and shop size and location**: Sage 1856.  
 **Details about Allen family**: NYSC 1855.  
 **Race as a social construction**: see Fields and Fields 2012 and the American Anthropological Association’s 2024 interactive website *Understanding Race*, among myriad other sources.  
 **For a personal reflection upon shifting census categorizations of a family**, see Morris 2017.  
 **For more about blacksmiths in 19th-century free African American communities**, see LaRoche 2014.
 
-### 25. John White Shanty 
+### 29. John White Shanty
+
 **Details about White family**: NYSC 1855.  
 **Shanty size and renting from Wallace**: Sage 1856.  
 **African Americans in maritime industries**: Bolster 1998.  
 **Davis, neighbor**: inferred from NYSC 1855.  
 **Value of homes**: NYSC 1855.  
-**Lucy Celia Wallace inheritance**: Will of Isaac Wallace, Ancestry.com. 
+**Lucy Celia Wallace inheritance**: Will of Isaac Wallace, Ancestry.com.
 
-### 26. Tanner’s Spring
+### 30. Tanner’s Spring
+
 **Spring location**: Viele 1865; Central Park Conservancy 2023.  
 **Variable accessibility to Croton water**: Spann 1981:120.  
 **William Mathew’s well**: Mathew 1855.  
 **Photograph of Tanner’s Spring**: Smith 1901.
 
-### 27. Gallagher House and Stable
+### 31. Gallagher House and Stable
+
 **Gallagher home location**: Sage 1856.  
 **Gallaghers among earliest Irish residents and family details**: USBC 1840; USBC 1850; NYSC 1855.  
 **Naturalization**: NYSC 1855.  
-**Stables**: Sage 1856. 
+**Stables**: Sage 1856.
 
-### 28. Conclusion: Seneca Village Demolished for Central Park
+### 32. Conclusion: Seneca Village Demolished for Central Park
+
 **Village’s destruction**: Commissioners of the Central Park 1858; Marie Warsh *pers. comm.*; Miller 2022.  
 **Recent pre-demolition construction**: *New-York Daily Tribune* 1853, 7 ; NYDTAR 1853–55.  
 **Petitions**: Mathews 1855; Pease 1855; Quinn 1855; Riddles 1855; Williams 1856; Webster 1856; Wallace 1857?.  
@@ -248,11 +302,15 @@ Our interpretation of the small structures behind these homes as outhouses is sp
 
 **Archdiocese of New York**. 1829, 1831, 1835. New York Roman Catholic Parish Baptisms. [FindMyPast](https://search.findmypast.com/search-world-records/new-york-roman-catholic-parish-baptisms).
 
+**Baldwin, Peter C**. 2012. *In the Watches of the Night : Life in the Nocturnal City, 1820-1930*. Chicago, IL: University of Chicago Press.
+
 **Baics, Gergely**. 2016. *Feeding Gotham: The Political Economy and Geography of Food in New York, 1790–1860.* Princeton, NJ: Princeton University Press.
 
-**Bolster, W. Jeffrey**. 1998.	*Black Jacks: African American Seamen in the Age of Sail.* Cambridge, MA: Harvard University Press.
+**Bolster, W. Jeffrey**. 1998. *Black Jacks: African American Seamen in the Age of Sail.* Cambridge, MA: Harvard University Press.
 
 **Bradley, David Henry**. 1956. *A History of the A.M.E. Zion Church. Vol. Part I: 1796-1872.* Nashville, TN: The Parthenon Press. Electronic version available at [Internet Archive](https://archive.org/details/historyofamezion00brad/page/n3/mode/2up).
+
+**Brown, Kathleen M**. 2009. *Foul Bodies: Cleanliness in Early America*. New Haven, CT: Yale University Press.
 
 **Cantwell, Anne-Marie and Diana di Zerega Wall**. 2001. *Unearthing Gotham: The Archaeology of New York City.* New Haven, CT: Yale University Press.
 
@@ -291,11 +349,15 @@ Accessed May 5, 2024.
 
 **Freeman, Rhoda Golden**. 1966. *The Free Negro in New York City in the Era Before the Civil War*. Ph.D. Dissertation. Department of Political Science. Columbia University. New York, NY.
 
-**French, Mary**. 2021.	“[St. Michael’s Churchyard and Cemetery, Bloomingdale](https://nycemetery.wordpress.com/2021/08/07/st-michaels-churchyard-and-cemetery-bloomingdale/).” New York City Cemetery Project.
+**French, Mary**. 2021. “[St. Michael’s Churchyard and Cemetery, Bloomingdale](https://nycemetery.wordpress.com/2021/08/07/st-michaels-churchyard-and-cemetery-bloomingdale/).” New York City Cemetery Project.
 
 **Geismar, Joan H**. 1993. “Where is the Night Soil? Thoughts on an Urban Privy.” In Health, Sanitation, and Foodways in Historical Archaeology, edited by Joan H. Geismar and Meta F. Janowitz. *Historical Archaeology* 27(2):57–70.
 
+**Giffard, Sue**. 2022. *[Seneca Village](https://read.bookcreator.com/library/-MR_l2EqfHgTczEzxqRf/book/q_XnfU5vSMif7rFPmmaNBQ/izDOMtkhQQSR0sTMQAcYoA)*. Ethical Culture School.
+
 **Harris, Leslie M**. 2003. *In the Shadow of Slavery: African Americans in New York City 1626-1863.* Chicago, IL: University of Chicago Press.
+
+**Historic American Engineering Record, Creator, Jervis, John B, Stephen Allen, David Bates Douglass, Christoopher Colles, Aaron Burr, The Manhattan Company, et al., and Jack Boucher**. 1868. *Old Croton Aqueduct, New York County, NY*. New York County, NY: Translated by Clement, Danielmitter Documentation Compiled. Available online from the [Library of Congress](https://www.loc.gov/item/ny1181/).
 
 **Hodges, Graham Russell**. 1999. *Root & Branch: African Americans in New York and East Jersey, 1613-1863.* Chapel Hill, NC: University of North Carolina Press.
 
@@ -325,7 +387,7 @@ Accessed May 5, 2024.
 
 **Manevitz, Alexander**. 2021. “’A Great Injustice’: Urban Capitalism and the Limits of Freedom in Nineteenth-Century New York City.” *Journal of Urban History* 48(6):1365–1382.
 
-[***Mapping the African American Past (MAAP)***](https://maap.columbia.edu/index.html). 2024.	Columbia Teachers College, Columbia Center for New Media and Learning, and Creative Curriculum Initiatives. Accessed May 3, 2024.
+[***Mapping the African American Past (MAAP)***](https://maap.columbia.edu/index.html). 2024. Columbia Teachers College, Columbia Center for New Media and Learning, and Creative Curriculum Initiatives. Accessed May 3, 2024.
 
 **Mathew, William**. 1855. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records, New York, NY.
 
@@ -339,7 +401,7 @@ Accessed May 5, 2024.
 
 **McNeur, Catherine**. 2014. *Taming Manhattan: Environmental Battles in the Antebellum City.* Cambridge, MA: Harvard University Press.
 
-**Methodist Marriage Register for the City of New York**. 1819–1837	Marriages, Vol. 73. Methodist Episcopal Church. New York, NY. Manuscripts and Archives Division of the New York Public Library; New York, New York; Methodist Episcopal Church Records in New York City and vicinity. Ancestry.com. *New York, New Jersey and Connecticut, U.S., United Methodist Church Records, 1775-1949* [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2016. 
+**Methodist Marriage Register for the City of New York**. 1819–1837 Marriages, Vol. 73. Methodist Episcopal Church. New York, NY. Manuscripts and Archives Division of the New York Public Library; New York, New York; Methodist Episcopal Church Records in New York City and vicinity. Ancestry.com. *New York, New Jersey and Connecticut, U.S., United Methodist Church Records, 1775-1949* [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc., 2016.
 
 **Metropolitan Museum of Art**. 2021. “[Before Yesterday We Could Fly: An Afrofuturist Period Room](https://www.metmuseum.org/exhibitions/afrofuturist-period-room).” (Exhibition)
 
@@ -357,7 +419,7 @@ Accessed May 5, 2024.
 
 ***New-York Daily Times***. 1856. “The Present Look of Our Great Central Park.” July 9:3. New York, NY.
 
-***New-York Daily Tribune***. 1853.	“Laying a Corner-Stone.” August 5:7.
+***New-York Daily Tribune***. 1853. “Laying a Corner-Stone.” August 5:7.
 
 **New-York Historical Society Education Department**. 2010. *Seneca Village: A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
 
@@ -368,6 +430,8 @@ Accessed May 5, 2024.
 **Ng, Olivia**. 1999. *Seneca Village Perceptions.* Senior Thesis. Department of Anthropology. Supervised by Nan A. Rothschild. Columbia University, New York, NY.
 
 **Noble, Allen G**. 1984. *Wood, Brick, and Stone: The North American Settlement Landscape. Vol. 2: Barns and Farm Structures.* Amherst, MA: University of Massachusetts Press.
+
+**Noël Hume, Ivor**. 2003. “[Through the Lookinge Glasse: Or, the Chamber Pot as a Mirror of Its Time](https://chipstone.org/article.php/80/Ceramics-in-America-2003/?s=noel%20hume).” *Ceramics in America*.
 
 **Pease, William**. 1855. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 
@@ -381,19 +445,25 @@ Accessed May 5, 2024.
 
 **Russell, Daniel J**. 1920. *History of the African Union Methodist Protestant Church.* Philadelphia, PA: Union Star. Transcribed version available at [Documenting the American South](https://docsouth.unc.edu/church/russell/russell.html).
 
-**Sage, Gardner A**. 1838.	*Manhattan Square Benefit Map.* Collection of the New-York Historical Society, New York, NY.
+**Sage, Gardner A**. 1838. *Manhattan Square Benefit Map.* Collection of the New-York Historical Society, New York, NY.
 
 --. 1856. *Central Park Condemnation Map.* Municipal Archives, New York, NY.
 
 **Sawyer, Ray C.** (editor). 1931. Marriages Published in the *Christian Intelligencer of the Reformed Dutch Church* from 1830–1871. Vol. 1. Ancestry.com. *U.S., Newspaper Extractions from the Northeast, 1704–1930*. [database on-line]. Lehi, UT, USA: Ancestry.com Operations, Inc.
 
-**Serrell, James E**. 1853.	[*Maps & Profiles of Ground for New Reservoir Situated Between 86th and 96th Streets and Between 5th And 7th Avenues.*](https://digitalcollections.nypl.org/items/5e66b3e8-76ad-d471-e040-e00a180654d7) New York Public Library Digital Collections. Lionel Pincus and Princess Firyal Map Division, The New York Public Library.
+**Schramke, Theophilus**. 1846. *Description of the New-York Croton Aqueduct: in English, German and French with Twenty Plates*. New York and Berlin: At the Authors.
+
+--. 1846. *Profile of Lower Part of Croton Aqueduct: Compiled under the Direction of John B. Jervis. Ground Plan of the Lower Part of Croton Aqueduct*. Map Collection, Brooklyn Historical Society.
+
+**Serrell, James E**. 1853. [*Maps & Profiles of Ground for New Reservoir Situated Between 86th and 96th Streets and Between 5th And 7th Avenues.*](https://digitalcollections.nypl.org/items/5e66b3e8-76ad-d471-e040-e00a180654d7) New York Public Library Digital Collections. Lionel Pincus and Princess Firyal Map Division, The New York Public Library.
 
 **Smith, James Reuel**. 1901. “Old buried section of ‘Dr. Tanner’s Well’ [Tanner’s Spring], Central Park, in line with W. 82nd Street, New York City, October 26, 1901.” Photograph. Collection of the New-York Historical Society. [nyhs_PR062_b-09_f-28_P-277a](https://digitalcollections.nyhistory.org/islandora/object/nyhs%3A11513).
 
 **Spann, Edward K.** 1981. *The New Metropolis: New York City 1840–1857*. New York, NY: Columbia University Press.
 
-**Trustees of African Union Church**. 1855.	Affidavit of Petition (letter). Signed by Thomas Scudder, William Mathew, and Allen Cook. Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
+**Tower, F. B.** 1843. *Illustrations of the Croton Aqueduct*. New York and London: Wiley and Putnam.
+
+**Trustees of African Union Church**. 1855. Affidavit of Petition (letter). Signed by Thomas Scudder, William Mathew, and Allen Cook. Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 
 **United States Bureau of the Census (USBC)**. 1830. Population Schedules of the Fifth Census of the United States, 1830. Research Division, New York Public Library, New York, NY.
 
@@ -415,7 +485,7 @@ Accessed May 5, 2024.
 
 --. 1857. *First Annual Report on the Improvement of the Central Park.* New York, NY: Charles W. Baker, Printer.
 
---. 1865. [*Sanitary & Topographical Map of the City and Island of New York.*](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~2289~180029:Sanitary-&-Topographical-Map-of-the) New York, NY: Ferdinand Mayer & Co. David Rumsey Map Collection. 
+--. 1865. [*Sanitary & Topographical Map of the City and Island of New York.*](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~2289~180029:Sanitary-&-Topographical-Map-of-the) New York, NY: Ferdinand Mayer & Co. David Rumsey Map Collection.
 
 **Wall, Diana diZerega, Nan A. Rothschild, and Cynthia Copeland**. 2008. “Seneca Village and Little Africa: Two African American Communities in Antebellum New York City.” *Historical Archaeology* 42(1):97–107.
 
@@ -423,22 +493,24 @@ Accessed May 5, 2024.
 
 **Wall, Diana diZerega, Nan A. Rothschild, and Meredith Linn**. 2019. “Constructing Identity in Seneca Village.” In *“O Brave New World": Archaeologies of Changing Identities*, edited by Diane F. George and Bernice Kurchin, 157–80. Gainesville, FL. University Press of Florida.
 
-**Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland**. 2018.	*Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History.* Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
+**Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland**. 2018. *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History.* Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
 
 **Wallace, John**. 1857/1859? Affidavit of Petition (letter). Library of Congress. Transcription reproduced in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
 
 **Washington, Eric K. 2022**. “Lunch & Learn: The Legacy of Colored School No. 4 with Eric K. Washington.” New York City Department of Records and Information Services. New York, NY. [YouTube](https://youtu.be/eeJBZdG_pvw?si=TFC_k24h_K5pwVSa). Accessed May 4, 2024.
 
-**Watson, Adam**. 2018.	"Appendix E: Faunal Analysis.” In *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*, by Diana diZerega Wall, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
+**Watson, Adam**. 2018. "Appendix E: Faunal Analysis.” In *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*, by Diana diZerega Wall, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
 
 **Webster, George W**. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 
-**White, Carolyn L**. 2005.	*American Artifacts of Personal Adornment, 1680-1820: A Guide to Identification and Interpretation.* Lanham, MD: Altamira Press.
+**Wegman, Edward.** 1896. *The Water-Supply of the City of New York, 1658-1895*. New York: John Wiley & Sons. London: Chapman & Hall Limited.
+
+**White, Carolyn L**. 2005. *American Artifacts of Personal Adornment, 1680-1820: A Guide to Identification and Interpretation.* Lanham, MD: Altamira Press.
 
 **Williams-Forson, Psyche A**. 2006. *Building Houses out of Chicken Legs: Black Women, Food, and Power.* Chapel Hill, NC: The University of North Carolina Press.
 
 **Williams, Andrew**. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY. Copy and transcription reproduced on page 45 in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
 
-**Winchell, Louisa**. 2020.	“[Beyond the Village and Back: Harlem’s Mother A.M.E. Zion Church](https://www.villagepreservation.org/2020/02/05/beyond-the-village-and-back-harlems-mother-a-m-e-zion-church/).” *Village Preservation Blog.* Village Preservation. New York, NY. Accessed May 4, 2024.
- 
+**Winchell, Louisa**. 2020. “[Beyond the Village and Back: Harlem’s Mother A.M.E. Zion Church](https://www.villagepreservation.org/2020/02/05/beyond-the-village-and-back-harlems-mother-a-m-e-zion-church/).” *Village Preservation Blog.* Village Preservation. New York, NY. Accessed May 4, 2024.
+
 **Zuille, John J**. 1892. [*Historical Sketch of the New York African Society for Mutual Relief.*](https://archive.org/details/historicalsketch00newy_1/page/n5/mode/2up) New York, NY: New York African Society for Mutual Relief.

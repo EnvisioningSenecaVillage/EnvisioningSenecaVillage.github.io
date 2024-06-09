@@ -46,7 +46,7 @@ Special thanks to **Andrew Thomas Williams IV** & **Mareia M. Williams** ([Linke
 **Salmaan Khan**. Vice President for Planning and Research, Central Park Conservancy. ([Email](mailto:skhan@centralparknyc.org); [LinkedIn](https://www.linkedin.com/in/ksalmaan/))  
 **Jessica Striebel MacLean**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village)  
 **Alexander Manevitz**. Historian, Baruch College, CUNY. ([Email](mailto:Alexander.Manevitz@baruch.cuny.edu); [Bio](https://www.baruch.cuny.edu/profiles/faculty/Alexander-Manevitz))  
-**Sara Cedar Miller**. Historian, Central Park Conservancy. ([Email](mailto:saracedarmiller@gmail.com))  
+**Sara Cedar Miller**. Historian, Central Park Conservancy. ([Email](mailto:saracedarmiller@gmail.com); [Bio](https://www.beforecentralpark.com/about-sara-cedar-miller))  
 **Leah Mollin-Kling**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village)  
 **John T. Reddick**. Director of Community Engagement Projects, Central Park Conservancy. ([Email](mailto:jreddick@centralparknyc.org))  
 **Nan A. Rothschild**. Archaeologist, Barnard College, Columbia University, & IESVH.  

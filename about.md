@@ -44,13 +44,13 @@ Special thanks to **Andrew Thomas Williams IV** & **Mareia M. Williams** ([Linke
 **Andrew S. Dolkart**. Historian, Columbia University. ([Email](mailto:asd3@columbia.edu))  
 **Karen Horry**. Chair, Manhattan Community Board 10.  
 **Salmaan Khan**. Vice President for Planning and Research, Central Park Conservancy. ([Email](mailto:skhan@centralparknyc.org); [LinkedIn](https://www.linkedin.com/in/ksalmaan/))  
-**Jessica Striebel MacLean**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village).  
+**Jessica Striebel MacLean**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village)  
 **Alexander Manevitz**. Historian, Baruch College, CUNY. ([Email](mailto:Alexander.Manevitz@baruch.cuny.edu); [Bio](https://www.baruch.cuny.edu/profiles/faculty/Alexander-Manevitz))  
-**Sara Cedar Miller**. Historian, Central Park Conservancy. ([Email](mailto:saracedarmiller@gmail.com), [Related Book](http://beforecentralpark.com))  
-**Leah Mollin-Kling**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village).  
-**John T. Reddick**. Director of Community Engagement Projects, Central Park Conservancy. ([Email](mailto:jreddick@centralparknyc.org); [Related Article](https://www.centralparknyc.org/articles/before-juneteenth-the-story-of-seneca-village-and-central-park))  
+**Sara Cedar Miller**. Historian, Central Park Conservancy. ([Email](mailto:saracedarmiller@gmail.com))  
+**Leah Mollin-Kling**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village)  
+**John T. Reddick**. Director of Community Engagement Projects, Central Park Conservancy. ([Email](mailto:jreddick@centralparknyc.org))  
 **Nan A. Rothschild**. Archaeologist, Barnard College, Columbia University, & IESVH.  
 **Herbert C. Seignoret**. Colin Powell School, City College of New York, CUNY, & IESVH ([Email](mailto:hseignoret@ccny.cuny.edu))  
 **Amanda Sutphin**. Director of Archaeology, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village). ([Email](mailto:asutphin@lpc.nyc.gov))  
 **Eric K. Washington**. Independent Public Historian. ([Email](mailto:ekwashington@gmail.com); [Website](http://ekwashington.com))  
-**Kevin Wiley**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village).
+**Kevin Wiley**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village)

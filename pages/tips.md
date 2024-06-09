@@ -1,6 +1,6 @@
 ---
 layout: page
-title: some tips for Navigating the Model
+title: Tips for Navigating the Model
 permalink: /tips/
 ---
 

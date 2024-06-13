@@ -139,7 +139,7 @@ The home the Garnets built in 1837 was valued at $4000 in 1855 and was among the
 
 ## 23. Sylvan House
 
-![Southeast view of Sylvan House (with Garnet House, right) from the road in 3D model of Seneca Village](/annotation_assets/23_SylvanHouse.png)
+![Southeast view of Sylvan House (with Garnet House, right) from the road in the 3D model of Seneca Village](/annotation_assets/23_SylvanHouse.png)
 
 The Sylvan’s home had a basement as well as front and back stoops, but was valued at half of the Garnet’s. Charles Sylvan, 75, was a Haiti-born cook, who could have migrated during the Haitian Revolution (1791–1804). We have interpreted his house with elements of Caribbean style. Sylvan likely spoke French, which might account for the variety of spellings of his surname in records made by English-speaking clerks: also Silvan, Silver, Silbon, Silben. Sylvan lived with his daughter, Charlot, 30, a domestic; son, Peter, 22, a coachman; daughter-in-law, Catherine, 25, also a domestic; grandson, George, 4; and another family: Virginia-born Methodist preacher John Jimmerson, wife Mary, and their young son, Isiah Stevens, from Mary’s first marriage. The Sylvans rented on their former property, bought in 1829 and sold in 1840. Sylvan had a barn, suggesting they were among many families in the village who raised domestic animals. Barns provided housing for animals and storage for animal feed.
 
@@ -157,7 +157,7 @@ A few steps north of the Dunns lived Sally Wilson, 59 in 1855, a Black washerwom
 
 ## 26. Webster & Philips Houses
 
-![Rear view of Webster House (center) and Philips House (left) from the 3D model of Seneca Village](/annotation_assets/26_WebsterAndPhilipsHouses.png)
+![Rear view of Webster House (center) and Philips House (right) from the 3D model of Seneca Village](/annotation_assets/26_WebsterAndPhilipsHouses.png)
 
 George Webster purchased this large highly valued home with a basement, built ca. 1835, and shed in 1854, not long after its former owner, elderly widow Nancy Moore, died and only about a year before the first news of evictions. Webster, 32 in 1855, was from Virginia, his wife Eliza, 35, from New York. They had a young child together, George Jr., 2, and four older children from Eliza’s first marriage: Malvina, 18; John, 16; Benjamin,13; and Edward, 7. George Sr. and John were porters. Malvina was a domestic and not much younger than the couple renting the small “shanty” next door, William Philips, 23, a laborer, and Matilda, in her early 20s. The Philipses had been married by All Angels’ priest Father Peters in 1851. Their landlord, Elizabeth McCollin, likely had known Matilda as a child, because Matilda’s family, the Scudders, long owned land in the village. The proximity of the Websters and the Philipses highlights the diversity of villagers’ homes and life stages.
 
@@ -169,19 +169,19 @@ Archaeologists excavated in the yard between the two homes, finding traces of bo
 
 ## 28. Ishmael Allen Shanty & Shop
 
-![View of Ishmael Allen shop (center) and shanty (behind) in 3D model of Seneca Village](/annotation_assets/28_IshmaelAllenShantyAndShop.png)
+![View of Ishmael Allen shop (center) and shanty (behind) in the 3D model of Seneca Village](/annotation_assets/28_IshmaelAllenShantyAndShop.png)
 
 Across planted fields to the southwest of the Websters and Philipses was a 9x10-foot “shanty” rented by church sexton Ishmael Allen, 40; wife Amy, 42; their four children aged 3 to 15, all NY-born; and boarder Lydia Jackson, 45, from Westchester County. The Allens were one of three families, along with the Wilsons and the Hinsons, the 1850 census taker recorded as “mulatto” or mixed-race in 1850, but the 1855 census taker recorded as “black.” These shifting categorizations reflect how race is and always was a powerful social construction rather than a biological reality. A small building labeled “shop” on the 1856 Sage map was likely Allen’s workshop, suggesting he had a skilled trade. We have interpreted his trade as blacksmithing, because of the importance of blacksmiths in free Black communities in the 19th century; many were leaders in their communities and churches.
 
 ## 29. John White Shanty
 
-![Tree-top view of John White Shanty (center) in 3D model of Seneca Village](/annotation_assets/29_JohnWhiteShanty.png)
+![Tree-top view of John White Shanty (center) in the 3D model of Seneca Village](/annotation_assets/29_JohnWhiteShanty.png)
 
 Nearby, John White, a 62-year-old widower and Delaware-born sailor, lived in this 13x13-foot “shanty” with six children aged 2 to 15 in 1855. White was one of many Black men in the city's maritime industries. Work on a ship was dangerous and difficult, but offered opportunities for better pay and broader horizons. White’s neighbor, Maryland-born James Davis, 40, was also a sailor. Both lived in the village’s lowest-valued homes, $500 and $300. White rented from Lucy Celia Wallace, one of the village's Black female landowners, who inherited property from her deceased father.
 
 ## 30. Tanner’s Spring
 
-![View of Tanner’s Spring in 3D model of Seneca Village](/annotation_assets/30_TannersSpring.png)
+![View of Tanner’s Spring in the 3D model of Seneca Village](/annotation_assets/30_TannersSpring.png)
 
 Southwest of Davis and White’s “shanties” was a natural spring, an important source of drinking water at a time when clean water was not accessible to all people in the city. Despite the success of the Croton water system and the proximity of its imposing reservoir, Seneca Villagers, like many other New Yorkers, did not have Croton water piped to their homes. William Matthew had a well that he paid someone the then substantial sum of $50 to dig on his property. It is possible that other villagers did so too, while others collected rainwater in barrels or cisterns, or hauled it from this spring or possibly from the reservoir along 86th Street. Dubbed [“Tanner’s Spring”](/annotation_assets/Tanner's-Spring-NYHS.jpeg) in 1880, this was a place where groundwater continuously flowed up through the bedrock. Villagers would have kept the pool of water clean by containing and covering it with stones or wooden boards. The spring is still visible in the park today, but its appearance has been altered over time.
 
@@ -193,7 +193,7 @@ In this home in 1855 lived John Gallagher, 52, a shoemaker; his wife Anne, 42; t
 
 ## 32. Conclusion
 
-![Aerial view of 3D model of Seneca Village](/annotation_assets/32_Conclusion.png)
+![Aerial view of 3D model of the Seneca Village](/annotation_assets/32_Conclusion.png)
 
 The village’s destruction in 1857 abruptly ended over 30 years of effort to nurture families, sustain livelihoods, and create community. The destruction was ruthless and unexpected, with many new buildings—a church, school, and homes—recently constructed. Some residents petitioned for more compensation. Others hastily packed and salvaged their belongings. All lost their community as families scattered. The Wilsons followed All Angels’ Church to Bloomingdale; the Websters moved downtown; the McCollins and Gearys relocated to Yorkville; and the Dunns to Harlem, the Williamses to Queens, the Haffs to Brooklyn, the Peases to Oyster Bay, Long Island, and the Landens to Monmouth County, NJ. Research is ongoing, and we have only scratched the surface. We hope this visualization helps visitors imagine and remember this community sacrificed for a famous park.
 

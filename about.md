@@ -53,7 +53,7 @@ Special thanks to to the Central Park Conservancy for their generous support.
 **Herbert C. Seignoret**. Colin Powell School, City College of New York, CUNY, & IESVH ([Email](mailto:hseignoret@ccny.cuny.edu))  
 **Amanda Sutphin**. Director of Archaeology, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village). ([Email](mailto:asutphin@lpc.nyc.gov))  
 **Eric K. Washington**. Independent Public Historian. ([Email](mailto:ekwashington@gmail.com); [Website](http://ekwashington.com))  
-**Kevin Wiley**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village)
+**Kevin Wiley**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us/collection/map/seneca-village)  
 **Andrew Thomas Williams IV** & **Mareia M. Williams**. Descendants and family historians. ([LinkedIn](https://www.linkedin.com/in/mareia-williams-32983127a))
 
 Note: The Institute for the Exploration of Seneca Village History (IESVH), also known as the Seneca Village Project, is a group that has been collaborating on researching Seneca Village since 1998.

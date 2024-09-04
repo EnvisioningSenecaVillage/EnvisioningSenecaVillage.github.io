@@ -44,7 +44,7 @@ Special thanks to to the Central Park Conservancy for their generous support.
 **Andrew S. Dolkart**. Historian, Columbia University. ([Email](mailto:asd3@columbia.edu))  
 **Karen Horry**. Chair, Parks and Recreation Committee, Manhattan Community Board 10. ([Email](mailto:khorrycb10@gmail.com))  
 **Salmaan Khan**. Vice President for Planning and Research, Central Park Conservancy. ([Email](mailto:skhan@centralparknyc.org); [LinkedIn](https://www.linkedin.com/in/ksalmaan/))  
-**Jessica Striebel MacLean**. Historian, Central Park Conservancy. [Email](mailto:jessica.maclean@centralparknyc.org).  
+**Jessica Striebel MacLean**. Historian, Central Park Conservancy. ([Email](mailto:jessica.maclean@centralparknyc.org))  
 **Alexander Manevitz**. Historian, Baruch College, CUNY. ([Email](mailto:Alexander.Manevitz@baruch.cuny.edu); [Bio](https://www.baruch.cuny.edu/profiles/faculty/Alexander-Manevitz))  
 **Sara Cedar Miller**. Historian Emerita, Central Park Conservancy. ([Email](mailto:saracedarmiller@gmail.com); [Bio](https://www.beforecentralpark.com/about-sara-cedar-miller))  
 **Leah Mollin-Kling**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us), a project of [LPC](https://www.nyc.gov/site/lpc/index.page).  

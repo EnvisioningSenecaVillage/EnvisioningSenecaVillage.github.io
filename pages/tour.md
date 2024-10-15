@@ -55,7 +55,7 @@ African Union Church was the first church built in the village and one of two Bl
 
 ## 9. Colored School #3
 
-![Rear view of the school building (right) attached to the African Union Church (left) with an outdoor play area for children (foreground) in the 3D model of Seneca Village](/annotation_assets/09_ColoredSchool3.jpg)
+![Rear view of the school building (right) attached to the African Union Church (left) with an outdoor play area for children (foreground) in the 3D model of Seneca Village](/annotation_assets/archive_20241015/09_ColoredSchool3.png)
 
 Attached to African Union Church was Colored School #3, part of the city’s segregated public school system. Teacher Caroline W. Simpson instructed children as young as 6 in primary subjects and likely older students in grammar, composition, history, geography, math, and astronomy (important for boys who would be sailors). The school probably hosted night classes in literacy for adults. [African Free Schools](/annotation_assets/African-Free-School.jpg), the precursor to NYC public schools, were first created by white elites of the New York Manumission Society in 1787. Many alumni became community leaders and advocated for abolition, equality, and education. Even so, inequality prevented many children in the city from going to school, because many families needed income from their children to survive. Evidence from documents and archaeology suggest conditions were better for children in Seneca Village and almost every child of school age (between the approximate ages of 4 and 14)  attended school.
 

@@ -58,8 +58,6 @@ This page includes the references cited and notes per annotation in the 3D model
 **Mr. Wilson as sexton**: All Angels’ Church 1846–1858; Johnson 2023, 35–36, 45, 47, 61–62.  
 **Photographs of the Wilson house's foundation and chimney bricks** discovered during the 2011 archaeological excavation: courtesy of the Institute for the Exploration of Seneca Village History (IESVH). 
 
-**Photograph of iron roofing** discovered during the 2011 archaeological excavation: courtesy of the NYC Archaeological Repository: The Nan A. Rothschild Research Center, a project of the NYC Landmarks Preservation Commission. 
-
 ### 7. Wilson Family House Artifacts
 
 **Artifacts excavated**: Wall et al. 2018; New York City Archaeological Repository 2020. See also: Wall et al. 2019 and Linn et al. *in press*.  
@@ -250,6 +248,7 @@ Note that while human waste was thought to be potentially dangerous to health be
 **Plant remains**: Jacobucci and Trigg 2012; McKnight 2014; Wall et al. 2018, 73–74 and F-44–F-50.  
 **Animal remains**: Wall et al. 2018, 70–73; Watson 2018.  
 **Button from man’s coat**: White 2005.
+**Thumbnail photograph of teapot** discovered during the 2011 archaeological excavation: Courtesy of the NYC Archaeological Repository: The Nan A. Rothschild Research Center, a project of the NYC Landmarks Preservation Commission. 
 
 ### 28. Ishmael Allen Shanty and Shop
 

@@ -56,6 +56,8 @@ This page includes the references cited and notes per annotation in the 3D model
 **House materials**: Sage 1856 and Wall et al. 2018, 53–54.  
 **Details about Wilson family members and relationships**: NYSC 1855; USBC 1850, 1860; All Angels’ Church 1846–1858.  
 **Mr. Wilson as sexton**: All Angels’ Church 1846–1858; Johnson 2023, 35–36, 45, 47, 61–62.  
+**Photographs of the Wilson house's foundation and chimney bricks** discovered during the 2011 archaeological excavation: courtesy of the Institute for the Exploration of Seneca Village History (IESVH). 
+**Photograph of iron roofing** discovered during the 2011 archaeological excavation: courtesy of the NYC Archaeological Repository: The Nan A. Rothschild Research Center, a project of the NYC Landmarks Preservation Commission. 
 
 ### 7. Wilson Family House Artifacts
 

@@ -181,7 +181,7 @@ Note that while human waste was thought to be potentially dangerous to health be
 
 ### 20. 85th Street
 
-**Thumbnail**: Schramke *Profile of Lower Part of Croton Aqueduct* 1846.  
+**Thumbnail**: Jervis 1837–1842.
 **For the Aqueduct’s length and dimensions**: Tower 1843, 91-93.  
 **For the aqueduct’s placement 5-10 feet under 85th Street, where it connected to the Reservoir’s influent gate**: Historic American Engineering Record 1968.  
 **Locations of churches, school and homes along 85th Street**: Sage 1856.
@@ -368,7 +368,9 @@ Accessed May 5, 2024.
 
 **Hooker, William**. 1828. [*Hooker's New Pocket Plan of the City of New York*](https://digitalcollections.nypl.org/items/ca142350-c5aa-012f-a2f1-58d385a7bc34). New York Public Library Digital Collections. Lionel Pincus and Princess Firyal Map Division, The New York Public Library.
 
-**Jacobucci, Susan A., and Heather B. Trigg**. 2012. “Pollen and Macrobotanical Analyses of Soils from Seneca Village, New York.” Cultural Resources Management Study 57. Boston, MA: Andrew Fiske Memorial Center for Archaeological Research, University of Massachusetts.
+**Jacobucci, Susan A., and Heather B. Trigg**. 2012. “Pollen and Macrobotanical Analyses of Soils from Seneca Village, New York.” Cultural Resources Management Study 57. Boston, MA: Andrew Fiske Memorial Center for Archaeological Research, University of Massachusetts.  
+
+**Jervis, John B.**. 1837-1842. "[Croton Aqueduct, (Westchester Co., New York). Method of tunnelling in earth](https://lccn.loc.gov/2015645613)." Engineering Societies Library Collection, control number 2015645613, Library of Congress, Washington D.C. 
 
 **Johnson, Paul Lee**. 2023. *With Gladness and Singleness of Heart: A History of All Angels’ Church.* New York, NY: All Angels’ Press.
 

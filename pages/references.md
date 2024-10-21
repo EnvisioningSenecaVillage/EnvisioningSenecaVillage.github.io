@@ -21,7 +21,7 @@ This page includes the references cited and notes per annotation in the 3D model
 ### 2. Nanny Goat Hill
 
 **Elevation**: Viele 1855.  
-**Name of hill**: Rosenzweig and Blackmar 1992, 66 citing New York Times 1924:16.  
+**Name of hill**: Rosenzweig and Blackmar 1992, 66 citing *New York Times* 1924:16.  
 **Surrounding areas**: Hooker 1828; Dripps 1851, 1852.  
 **Linked illustration “View from Summit Rock West”**: Viele 1857.  
 **Community founded by African Americans**: Rosenzweig and Blackmar 1992, 65–73.  

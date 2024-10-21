@@ -38,7 +38,7 @@ This page includes the references cited and notes per annotation in the 3D model
 
 **Number and location of churches**: Sage 1856.  
 **Mission, cost of church, and deeding of property**: Johnson 2023, 17–18.  
-**Linked image of St. Michael’s Church**: French 2021.  
+**Linked photograph of St. Michael’s Church**: French 2021.  
 **Relocation of Church and photo of All Angels’ Church exterior in 1887**: Johnson 2003, 41–42; All Angels’ Church 2020.  
 **Description of church exterior**: Miller 2022:202–203 paraphrasing the *Christian Witness and Church Advocate* 1850, 186.  
 **Cemetery visualization** informed by photograph of sister parish, St. Michael’s Church, in French 2021.
@@ -69,7 +69,7 @@ The Wilson house is the inspiration for the Metropolitan Museum of Art’s (2021
 
 ### 8. African Union Church
 
-**Construction date and relationship with downtown branch**: Colored American 1840, cited in Central Park Conservancy 2023; Trustees of African Union Church 1855.  
+**Construction date and relationship with downtown branch**: *Colored American* 1840, cited in Central Park Conservancy 2023; Trustees of African Union Church 1855.  
 **Origin of African Union Church**: Russell 1920.  
 **Birthplace of William Mathew**: USBC 1850; NYSC 1855.  
 **NYC Death Records** are in the Municipal Archives.  
@@ -132,7 +132,8 @@ Marbles were also popular and found in the 2011 archaeological excavations of Se
 **Landin family, ages, and places of birth**: USBC 1850; NYSC 1855.  
 **Baptisms and marriage of Sarah Landin to John Peterson**: All Angels’ Church 1846–1858.  
 **Josiah Landin’s land purchases, rental from Zabriskie, and planting business**: Miller 2022, 188–189.  
-**Landin’s possible relationship with Zabriskie** inferred by Linn from Zabriskie family wills, Ancestry.com.
+**Landin’s possible relationship with Zabriskie**: inferred by Linn from Zabriskie family wills, Ancestry.com.
+**Linked document**: part of a page of the 1855 New York State Census.
 
 ### 15. 86th Street
 
@@ -247,7 +248,7 @@ Note that while human waste was thought to be potentially dangerous to health be
 **Artifacts excavated**: Wall et al. 2018; New York City Archaeological Repository 2020. See also: Wall et al. 2019 and Linn et al. *in press*.  
 **Plant remains**: Jacobucci and Trigg 2012; McKnight 2014; Wall et al. 2018, 73–74 and F-44–F-50.  
 **Animal remains**: Wall et al. 2018, 70–73; Watson 2018.  
-**Button from man’s coat**: White 2005.
+**Button from man’s coat**: White 2005.  
 **Thumbnail photograph of teapot** discovered during the 2011 archaeological excavation: Courtesy of the NYC Archaeological Repository: The Nan A. Rothschild Research Center, a project of the NYC Landmarks Preservation Commission. 
 
 ### 28. Ishmael Allen Shanty and Shop

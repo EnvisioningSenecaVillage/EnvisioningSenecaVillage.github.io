@@ -50,6 +50,7 @@ Special thanks to to the Central Park Conservancy for their generous support.
 **Leah Mollin-Kling**. Urban Archaeologist, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us), a project of [LPC](https://www.nyc.gov/site/lpc/index.page).  
 **John T. Reddick**. Director of Community Engagement Projects, Central Park Conservancy. ([Email](mailto:jreddick@centralparknyc.org))  
 **Nan A. Rothschild**. Archaeologist, Barnard College, Columbia University, & IESVH.  
+**Geoffrey Jackson Scott**. Cofounder and Creative Director, [Peoplmovr](https://peoplmovr.com). Head of Immersive Development, [Culture House Immersive](https://culture.house/immersive). ([Email](mailto:geoffrey@peoplmovr.com);[Bio](https://peoplmovr.com/founders))  
 **Herbert C. Seignoret**. Colin Powell School, City College of New York, CUNY, & IESVH ([Email](mailto:hseignoret@ccny.cuny.edu))  
 **Amanda Sutphin**. Director of Archaeology, [NYC Archaeological Repository](https://archaeology.cityofnewyork.us), a project of [LPC](https://www.nyc.gov/site/lpc/index.page). ([Email](mailto:asutphin@lpc.nyc.gov))  
 **Eric K. Washington**. Independent Public Historian. ([Email](mailto:ekwashington@gmail.com); [Website](http://ekwashington.com))  

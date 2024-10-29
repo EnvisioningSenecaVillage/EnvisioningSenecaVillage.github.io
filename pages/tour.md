@@ -3,7 +3,7 @@ layout: page
 title: A Tour through Seneca Village
 permalink: /tour/
 ---
-A non-interactive version of the tour through the Seneca Village model is presented below, with its annotations. See [References](/references) for notes and citations for each entry.
+A non-interactive version of the tour through the Seneca Village model is presented below, with its annotations. See [References](/references) for notes and citations for each entry. For a printable (PDF) version with maps of the Seneca Village site, see [A Guide through Seneca Village](/pdf/ESV.pdf).
 
 ## 1. Visualizing a Village
 

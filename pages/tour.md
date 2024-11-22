@@ -1,9 +1,14 @@
 ---
 layout: page
-title: A Tour through Seneca Village
+title: A Tour through the Visualization
 permalink: /tour/
 ---
-A non-interactive version of the tour through the Seneca Village model is presented below, with its annotations. See [References](/references) for notes and citations for each entry. For a printable (PDF) version with maps of the Seneca Village site, see [A Guide through Seneca Village](/pdf/ESV.pdf).
+Presented below is a non-interactive version of the tour through the Seneca Village 3D visualization, with its annotations, along with high-resolution images of each annotated scene. 
+
+See [References](/references) for notes and citations for each entry.  
+For a printable (PDF) version with maps, see [Envisioning Seneca Village: A Map-based Tour](/pdf/ESV.pdf).
+
+***
 
 ## 1. Visualizing a Village
 

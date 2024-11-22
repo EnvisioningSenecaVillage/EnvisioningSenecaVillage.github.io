@@ -11,12 +11,15 @@ Over the past three decades, however, scholars, educators, artists, and descenda
 
 The process of building the 3D model integrated diverse source material, earlier findings of many researchers, and different methods from various fields. Still, the project also required some speculation to imagine how Seneca Village might have appeared in the mid-nineteenth century and in 1855, in particular, the date of the last New York State census of the village and of a  topographical map by Egbert Viele that is the foundation of our model. Throughout the process, we have sought both to faithfully depict what can be supported by evidence and to fill in gaps with informed assumptions in order to represent what life within this community may have been (For more information about how the model was developed, including considerations and assumptions, see [Methodology](/methodology). For a complete list of our sources, see [References](/references).)
 
-In addition to the 3D model, we have included a static (non-interactive) [Tour through Seneca Village](/tour). Forthcoming are teaching guides to illustrate how the model can be used in high school courses, short videos about various relevant topics with experts, and a rendering of one of the interiors of the home.
+In addition to the 3D model, we have included a static (non-interactive) [Tour through the Visualization](/tour). Forthcoming are teaching guides to illustrate how the model can be used in high school courses, short videos about various relevant topics with experts, and a rendering of one of the interiors of the home.
 
 The project, website, 3D model, and other related materials here are offered for public use under a [Creative Commons 4.0 Attribution, Non-Commercial](https://creativecommons.org/licenses/by-nc/4.0/) license. If you are a researcher interested in using the underlying GIS data created to support this project, please contact one of us via email.
 
 **To cite the project:**
-Gergely Baics, Meredith Linn, Leah Meisterlin, and Myles Zhang. 2024. *Envisioning Seneca Village*. Website with interactive 3D model. envisioningsenecavillage.github.io
+Gergely Baics, Meredith Linn, Leah Meisterlin, and Myles Zhang. 2024. *Envisioning Seneca Village*. Website with interactive 3D model. envisioningsenecavillage.github.io.
+
+**To cite the model:**
+Gergely Baics, Meredith Linn, Leah Meisterlin, and Myles Zhang. 2024. "Envisioning Seneca Village: An Interactive 3D Visualization." 3D digital model. *Envisioning Seneca Village*. envisioningsenecavillage.github.io.
 
 ## the Team
 

@@ -46,6 +46,7 @@ Special thanks to to the Central Park Conservancy for their generous support.
 **Diana diZerega Wall**. Archaeologist, City College, CUNY Graduate Center & IESVH.  
 **Andrew S. Dolkart**. Historian, Columbia University. ([Email](mailto:asd3@columbia.edu))  
 **Karen Horry**. Chair, Parks and Recreation Committee, Manhattan Community Board 10. ([Email](mailto:khorrycb10@gmail.com))  
+**Paul L. Johnson**. Parish Historian, All Angels' Episcopal Church. ([Email](mailto:ponydealny@aol.com))  
 **Salmaan Khan**. Vice President for Planning and Research, Central Park Conservancy. ([Email](mailto:skhan@centralparknyc.org); [LinkedIn](https://www.linkedin.com/in/ksalmaan/))  
 **Jessica Striebel MacLean**. Historian, Central Park Conservancy. ([Email](mailto:jessica.maclean@centralparknyc.org))  
 **Alexander Manevitz**. Historian, Baruch College, CUNY. ([Email](mailto:Alexander.Manevitz@baruch.cuny.edu); [Bio](https://www.baruch.cuny.edu/profiles/faculty/Alexander-Manevitz))  

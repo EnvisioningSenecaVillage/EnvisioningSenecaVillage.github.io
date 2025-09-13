@@ -29,8 +29,10 @@ permalink: /readings/
 
 --. 2023. “Discover Seneca Village.” Outdoor exhibition with downloadable signs. Curated by Marie Warsh. Central Park Conservancy. [[PDF](https://s3.amazonaws.com/assets.centralparknyc.org/media/documents/SenecaVillage_Signs_2023.pdf)]
 
-**New York City Archaeological Repository, The Nan A. Rothschild Research Center**. 2020. “[Seneca Village](https://archaeology.cityofnewyork.us/collection/map/seneca-village).” Webpage with artifact photos, profile drawings, and link to archaeological site report.
+**Linn, Meredith B., Samantha Fleischman, and Josh Massey**. 2025. “[In the Wilson’s Kitchen: Discoveries from Seneca Village](https://archaeology.cityofnewyork.us/collection/digital-exhibitions/in-the-wilsons-kitchen-discoveries-from-seneca-village/page/1/view_as/grid).” Digital exhibition. New York City Archaeological Repository, The Nan A. Rothschild Research Center.
 
---. 2020. “[Seneca Village Unearthed](https://archaeology.cityofnewyork.us/collection/digital-exhibitions/seneca-village-unearthed/page/1/view_as/grid).” Digital exhibition of artifacts from Seneca Village by curator, Jessica Striebel MacLean. New York City Archaeological Repository, The Nan A. Rothschild Research Center.
+**MacLean, Jessica Striebel**. 2020. “[Seneca Village Unearthed](https://archaeology.cityofnewyork.us/collection/digital-exhibitions/seneca-village-unearthed/page/1/view_as/grid).” Digital exhibition. New York City Archaeological Repository, The Nan A. Rothschild Research Center.
+
+**New York City Archaeological Repository, The Nan A. Rothschild Research Center**. 2020. “[Seneca Village](https://archaeology.cityofnewyork.us/collection/map/seneca-village).” Webpage with artifact photos, profile drawings, and link to archaeological site report.
 
 **New-York Historical Society Education Department**. 2010. *Seneca Village: A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]

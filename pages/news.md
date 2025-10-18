@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project News
+title: News
 permalink: /news/
 ---
 ## Project Timeline

@@ -21,3 +21,5 @@ permalink: /contents/
 [Further Reading about Seneca Village](/readings): A general reading list including books and articles, including online sources. *updated September 2025*
 
 [About](/about): About the project and team, including project advisors.
+
+[News](/news): Project news and updates, including publications and press.

@@ -29,7 +29,7 @@ This page includes the references cited and notes per annotation in the 3D model
 ### 3. Origins of Seneca Village
 
 **Initial land purchases**: Commissioners of Records 1858; Rosenzweig and Blackmar 1992, 65.  
-**Number of families and composition** calculated by Meredith Linn and Marie Warsh using a variety of primary sources, especially USBC 1850; NYSC 1855; NYPTAR 1828–1855; and Sage 1856.  
+**Number of families and composition** calculated by Meredith B. Linn and Marie Warsh using a variety of primary sources, especially USBC 1850; NYSC 1855; NYPTAR 1828–1855; and Sage 1856.  
 **Churches and schools**: Sage 1856.  
 **Property ownership, self-sufficiency, and village complexity**: Rosenzweig and Blackmar 1992, 65–73; Wall et al. 2008, 2018, 2019; Manevitz 2021; Miller 2022; Linn et al. *in press*.  
 **Slanderous newspaper article**: *New-York Daily Times* 1856, 3.  
@@ -519,15 +519,15 @@ Accessed May 5, 2024.
 
 **Wall, Diana diZerega, Nan A. Rothschild, Cynthia Copeland, and Herbert Seignoret**. 2004. “The Seneca Village Project: Working with Modern Communities in Creating the Past.” In *Places in Mind: Public Archaeology as Applied Anthropology*, edited by Paul A. Shackel and Erve J. Chambers, 101–117. New York, NY: Routledge.
 
-**Wall, Diana diZerega, Nan A. Rothschild, and Meredith Linn**. 2019. “Constructing Identity in Seneca Village.” In *“O Brave New World": Archaeologies of Changing Identities*, edited by Diane F. George and Bernice Kurchin, 157–80. Gainesville, FL. University Press of Florida.
+**Wall, Diana diZerega, Nan A. Rothschild, and Meredith B. Linn**. 2019. “Constructing Identity in Seneca Village.” In *“O Brave New World": Archaeologies of Changing Identities*, edited by Diane F. George and Bernice Kurchin, 157–80. Gainesville, FL. University Press of Florida.
 
-**Wall, Diana diZerega, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland**. 2018. *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History.* Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
+**Wall, Diana diZerega, Nan A. Rothschild, Meredith B. Linn, and Cynthia Copeland**. 2018. *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History.* Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
 
 **Wallace, John**. 1857/1859? Affidavit of Petition (letter). Library of Congress. Transcription reproduced in the New-York Historical Society Education Department’s 2010 *Seneca Village A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society, New York, NY. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]
 
 **Washington, Eric K. 2022**. “Lunch & Learn: The Legacy of Colored School No. 4 with Eric K. Washington.” New York City Department of Records and Information Services. New York, NY. [YouTube](https://youtu.be/eeJBZdG_pvw?si=TFC_k24h_K5pwVSa). Accessed May 4, 2024.
 
-**Watson, Adam**. 2018. "Appendix E: Faunal Analysis.” In *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*, by Diana diZerega Wall, Nan A. Rothschild, Meredith Linn, and Cynthia Copeland. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
+**Watson, Adam**. 2018. "Appendix E: Faunal Analysis.” In *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*, by Diana diZerega Wall, Nan A. Rothschild, Meredith B. Linn, and Cynthia Copeland. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
 
 **Webster, George W**. 1856. Affidavit of Petition (letter). Collection of the New York City Municipal Archives, Bureau of Old Records. New York, NY.
 

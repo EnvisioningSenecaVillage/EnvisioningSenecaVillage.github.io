@@ -13,6 +13,8 @@ permalink: /readings/
 
 **Miller, Sara Cedar**. 2022. *Before Central Park.* New York, NY: Columbia University Press.
 
+**New-York Historical Society Education Department**. 2010. [*Seneca Village: A Teacher’s Guide to Using Primary Sources in the Classroom*](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf). Second Edition. New-York Historical Society.
+
 **Rosenzweig, Roy and Elizabeth Blackmar**. 1992. *The Park and the People: A History of Central Park.* Ithaca, NY: Cornell University Press.
 
 **Wall, Diana diZerega, Nan A. Rothschild, and Cynthia Copeland**. 2008. “Seneca Village and Little Africa: Two African American Communities in Antebellum New York City.” *Historical Archaeology* 42(1):97–107.
@@ -21,18 +23,16 @@ permalink: /readings/
 
 **Wall, Diana diZerega, Nan A. Rothschild, and Meredith B. Linn**. 2019. “Constructing Identity in Seneca Village.” In *“O Brave New World": Archaeologies of Changing Identities*, edited by Diane F. George and Bernice Kurchin, 157–80. Gainesville, FL. University Press of Florida.
 
-**Wall, Diana diZerega, Nan A. Rothschild, Meredith B. Linn, and Cynthia Copeland**. 2018. *Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*. Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation. [[PDF](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf)]
+**Wall, Diana diZerega, Nan A. Rothschild, Meredith B. Linn, and Cynthia Copeland**. 2018. [*Seneca Village, A Forgotten Community: Report on the 2011 Excavations. Institute for the Exploration of Seneca Village History*](https://s-media.nyc.gov/agencies/lpc/arch_reports/1828.pdf). Archaeological Site Report submitted to the NYC Landmarks Preservation Commission, the Central Park Conservancy, and the NYC Department of Parks and Recreation.
 
 ## Online Resources
 
 **Central Park Conservancy**. 2018. [“Before the Park: The Story of Seneca Village.”](https://www.centralparknyc.org/articles/seneca-village)
 
---. 2023. “Discover Seneca Village.” Outdoor exhibition with downloadable signs. Curated by Marie Warsh. Central Park Conservancy. [[PDF](https://s3.amazonaws.com/assets.centralparknyc.org/media/documents/SenecaVillage_Signs_2023.pdf)]
+--. 2023. “[Discover Seneca Village](https://s3.amazonaws.com/assets.centralparknyc.org/media/documents/SenecaVillage_Signs_2023.pdf)).” Outdoor exhibition with downloadable signs. Curated by Marie Warsh. Central Park Conservancy.
 
 **Linn, Meredith B., Samantha Fleischman, and Josh Massey**. 2025. “[In the Wilson’s Kitchen: Discoveries from Seneca Village](https://archaeology.cityofnewyork.us/collection/digital-exhibitions/in-the-wilsons-kitchen-discoveries-from-seneca-village/page/1/view_as/grid).” Digital exhibition. New York City Archaeological Repository, The Nan A. Rothschild Research Center.
 
 **MacLean, Jessica Striebel**. 2020. “[Seneca Village Unearthed](https://archaeology.cityofnewyork.us/collection/digital-exhibitions/seneca-village-unearthed/page/1/view_as/grid).” Digital exhibition. New York City Archaeological Repository, The Nan A. Rothschild Research Center.
 
 **New York City Archaeological Repository, The Nan A. Rothschild Research Center**. 2020. “[Seneca Village](https://archaeology.cityofnewyork.us/collection/map/seneca-village).” Webpage with artifact photos, profile drawings, and link to archaeological site report.
-
-**New-York Historical Society Education Department**. 2010. *Seneca Village: A Teacher’s Guide to Using Primary Sources in the Classroom.* Second Edition. New-York Historical Society. [[PDF](https://nyhs-prod.cdn.prismic.io/nyhs-prod/05a15797-cc2c-4360-a804-0bae8d3cec80_Seneca_Village_NYHS.pdf)]

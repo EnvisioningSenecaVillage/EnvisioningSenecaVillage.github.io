@@ -291,7 +291,7 @@ Note that while human waste was thought to be potentially dangerous to health be
 **Naturalization**: NYSC 1855.  
 **Stables**: Sage 1856.
 
-### 33. Conclusion: Seneca Village Demolished for Central Park
+### Conclusion: Seneca Village Demolished for Central Park
 
 **Village’s destruction**: Commissioners of the Central Park 1858; Marie Warsh *pers. comm.*; Miller 2022.  
 **Recent pre-demolition construction**: *New-York Daily Tribune* 1853, 7 ; NYDTAR 1853–55.  

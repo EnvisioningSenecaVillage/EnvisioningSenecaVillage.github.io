@@ -144,7 +144,7 @@ Levin Smith portrait: The only known image of a Seneca Village resident is an ar
 **Landin’s possible relationship with Zabriskie**: inferred by Linn from Zabriskie family wills, Ancestry.com.
 **Linked document**: part of a page of the 1855 New York State Census.
 
-### 86th Street
+### 86th Streett<a id='86th-street'></a>
 
 **Identification of houses along 86th Street as belonging to the Williamses, Landens, and McCollins**: Sage 1856.  
 **To view how 86th Street connected Yorkville, Seneca Village, and Bloomingdale**, see Dripps 1851. Miller (2022, 127–129) shows how the original boundaries of Yorkville included the area of Seneca Village.  
@@ -188,7 +188,7 @@ Note that while human waste was thought to be potentially dangerous to health be
 **That the aqueduct’s embankment was at street grade at 86th Street**: Schramke *Description of the New-York Croton Aqueduct* 1846, 49-50; Wegman 1896, 58.  
 **Availability of Croton water**: Spann 1981, 120.
 
-### 85th Street
+### 85th Street<a id='85th-street'></a>
 
 **Thumbnail**: Jervis 1837–1842.
 **For the Aqueduct’s length and dimensions**: Tower 1843, 91-93.  

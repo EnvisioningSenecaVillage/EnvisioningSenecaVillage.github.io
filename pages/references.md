@@ -144,7 +144,7 @@ Levin Smith portrait: The only known image of a Seneca Village resident is an ar
 **Landin’s possible relationship with Zabriskie**: inferred by Linn from Zabriskie family wills, Ancestry.com.
 **Linked document**: part of a page of the 1855 New York State Census.
 
-### 86th Streett<a id='86th-street'></a>
+### 86th Street<a id='86th-street'></a>
 
 **Identification of houses along 86th Street as belonging to the Williamses, Landens, and McCollins**: Sage 1856.  
 **To view how 86th Street connected Yorkville, Seneca Village, and Bloomingdale**, see Dripps 1851. Miller (2022, 127–129) shows how the original boundaries of Yorkville included the area of Seneca Village.  

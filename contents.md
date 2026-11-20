@@ -12,7 +12,7 @@ permalink: /contents/
 
 [AME Zion Cemetery and Church](/pdf/AMEZion.pdf): Printable PDF with additional information about and new images of the AME Zion Cemetery and Church, created to celebrate the 200th anniversary of the founding of Seneca Village. *September 2025*
 
-[References](/references): Notes and citation references for each annotation in the 3D model's tour and full bibliography. *Updated September 2025*
+[References](/references): Notes and citation references for each annotation in the 3D model's tour and full bibliography. *Updated November 2026*
 
 [Methodology](/methodology): Overview description of the process to create the 3D model.
 

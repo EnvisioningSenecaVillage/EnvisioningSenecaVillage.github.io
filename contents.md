@@ -16,7 +16,7 @@ permalink: /contents/
 
 [Methodology](/methodology): Overview description of the process to create the 3D model.
 
-[Speculations & Assumptions](/speculations): Explanation of specific assumptions and educated speculations informing the appearance of the model and images.
+[Speculations & Assumptions](/speculations): Explanation of specific assumptions and educated speculations informing the appearance of the model and images. *Updated November 2026*
 
 [Further Reading about Seneca Village](/readings): A general reading list of recommended books and articles, including online sources. *Updated September 2025*
 
